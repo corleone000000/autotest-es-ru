@@ -55,9 +55,15 @@ Sin `ANTHROPIC_API_KEY` todo funciona salvo la importación por captura y los sc
 
 Alternativa por terminal: `npm i -g vercel`, `vercel` (primera vez) y `vercel --prod`.
 
+## Versión publicada en GitHub Pages
+
+**https://corleone000000.github.io/autotest-es-ru/**
+
+Es la app completa salvo la importación por captura, porque Pages solo sirve archivos estáticos y no ejecuta la función `api/import.ts`. Para actualizarla tras cambiar algo: `npm run deploy:pages`.
+
 ## Instalar en el móvil
 
-Abre la URL de Vercel (HTTPS) en el móvil:
+Abre la URL de GitHub Pages o la de Vercel (HTTPS) en el móvil:
 
 - **iPhone (Safari):** botón Compartir → **Añadir a pantalla de inicio**.
 - **Android (Chrome):** menú ⋮ → **Instalar aplicación** (o el aviso que aparece abajo).
