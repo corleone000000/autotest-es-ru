@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-ADE-0001", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 82.1",
+    "question": { "es": "Como norma general, ¿por qué lado debe adelantarse?", "ru": "С какой стороны, по общему правилу, выполняется обгон?" },
+    "options": {
+      "a": { "es": "Por el lado que tenga más espacio libre.", "ru": "С той стороны, где больше свободного места." },
+      "b": { "es": "Por la izquierda del vehículo que se adelanta.", "ru": "Слева от обгоняемого ТС." },
+      "c": { "es": "Por la derecha, para no invadir el sentido contrario.", "ru": "Справа, чтобы не выезжать на встречную полосу." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En todas las vías, como norma general, el adelantamiento se hace por la izquierda del vehículo que se pretende adelantar. Solo hay algunas excepciones en las que se adelanta por la derecha.", "ru": "На всех дорогах, по общему правилу, обгон выполняется слева от обгоняемого ТС. Обгон справа допускается лишь в отдельных случаях." }
+  },
+  {
+    "id": "B-ADE-0002", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 82.2",
+    "question": { "es": "El vehículo que le precede indica claramente que va a girar a la izquierda. Si hay espacio suficiente, ¿cómo debe adelantarlo?", "ru": "Впереди идущее ТС ясно показывает поворот налево. Как его обогнать, если места достаточно?" },
+    "options": {
+      "a": { "es": "Por la izquierda, tocando el claxon.", "ru": "Слева, подав звуковой сигнал." },
+      "b": { "es": "No puede adelantarlo en ningún caso.", "ru": "Обгонять его нельзя ни в каком случае." },
+      "c": { "es": "Por la derecha, con las máximas precauciones.", "ru": "Справа, с максимальной осторожностью." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Por excepción, si hay espacio suficiente, se adelanta por la derecha y con las máximas precauciones al vehículo cuyo conductor indica claramente que va a girar a la izquierda o a parar en ese lado. También a los tranvías que circulan por la zona central en vías de doble sentido.", "ru": "В виде исключения, если места достаточно, ТС, водитель которого ясно показывает поворот налево или остановку слева, обгоняют справа с максимальной осторожностью. Так же обгоняют трамваи, идущие по центру дороги с двусторонним движением." }
+  },
+  {
+    "id": "B-ADE-0003", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 82.3",
+    "question": { "es": "Circula dentro de poblado por una calzada con dos carriles en su mismo sentido, delimitados por marcas. ¿Puede adelantar por la derecha?", "ru": "Вы едете в населённом пункте по проезжей части с двумя размеченными полосами в вашем направлении. Можно ли обгонять справа?" },
+    "options": {
+      "a": { "es": "Sí, siempre que se cerciore antes de que puede hacerlo sin peligro.", "ru": "Да, если заранее убедиться, что это безопасно." },
+      "b": { "es": "No, en poblado está prohibido adelantar.", "ru": "Нет, в населённом пункте обгон запрещён." },
+      "c": { "es": "Solo a los ciclistas.", "ru": "Только велосипедистов." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Dentro de poblado, en las calzadas con al menos dos carriles en el mismo sentido delimitados por marcas longitudinales, se permite adelantar por la derecha si antes se comprueba que puede hacerse sin peligro.", "ru": "В населённом пункте на проезжей части как минимум с двумя полосами в одном направлении, разделёнными продольной разметкой, обгон справа разрешён, если предварительно убедиться в его безопасности." }
+  },
+  {
+    "id": "B-ADE-0004", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 84.1",
+    "question": { "es": "Antes de iniciar un adelantamiento con desplazamiento lateral, ¿qué debe hacer?", "ru": "Что нужно сделать перед обгоном с боковым смещением?" },
+    "options": {
+      "a": { "es": "Acelerar al máximo para reducir el tiempo de la maniobra.", "ru": "Максимально ускориться, чтобы сократить время манёвра." },
+      "b": { "es": "Advertirlo con suficiente antelación y comprobar que hay espacio libre suficiente en el carril que va a utilizar.", "ru": "Заблаговременно подать сигнал и убедиться, что на полосе, которую вы займёте, достаточно свободного места." },
+      "c": { "es": "Solo encender el intermitente justo al empezar a moverse.", "ru": "Только включить поворотник в момент начала смещения." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Antes de adelantar hay que señalizarlo con suficiente antelación y comprobar que en el carril que se va a usar hay espacio libre suficiente para no poner en peligro ni entorpecer a quienes vienen en sentido contrario. Si no, hay que abstenerse.", "ru": "Перед обгоном нужно заблаговременно подать сигнал и убедиться, что на занимаемой полосе достаточно свободного места, чтобы не создавать опасности и помех встречным ТС. Иначе от обгона нужно отказаться." }
+  },
+  {
+    "id": "B-ADE-0005", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 84.2",
+    "question": { "es": "El vehículo que tiene delante está adelantando a otro. ¿Puede adelantarlos a ambos invadiendo el sentido contrario?", "ru": "Впереди идущее ТС обгоняет другое. Можно ли обогнать их обоих, выехав на встречную полосу?" },
+    "options": {
+      "a": { "es": "Sí, si no viene ningún vehículo de frente.", "ru": "Да, если навстречу никто не едет." },
+      "b": { "es": "Sí, si lo hace a mayor velocidad que ellos.", "ru": "Да, если ехать быстрее их." },
+      "c": { "es": "No: está prohibido adelantar a un vehículo que ya está adelantando si para ello hay que invadir el sentido contrario.", "ru": "Нет: запрещено обгонять ТС, которое уже обгоняет, если для этого нужно выехать на встречную полосу." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Se prohíbe en todo caso adelantar a los vehículos que ya están adelantando a otro si, para hacerlo, hay que invadir la parte de la calzada reservada al sentido contrario.", "ru": "В любом случае запрещено обгонять ТС, которые уже обгоняют другое, если для этого приходится занимать часть проезжей части, предназначенную для встречного движения." }
+  },
+  {
+    "id": "B-ADE-0006", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 85.1",
+    "question": { "es": "Durante un adelantamiento, ¿a qué velocidad debe circular respecto al vehículo adelantado?", "ru": "С какой скоростью относительно обгоняемого ТС нужно двигаться во время обгона?" },
+    "options": {
+      "a": { "es": "A una velocidad notoriamente superior, dejando una separación lateral suficiente.", "ru": "Заметно быстрее его, оставляя достаточный боковой интервал." },
+      "b": { "es": "A la misma velocidad, para no asustar a su conductor.", "ru": "С той же скоростью, чтобы не напугать его водителя." },
+      "c": { "es": "A cualquier velocidad, aunque supere el límite de la vía.", "ru": "С любой скоростью, даже выше предела на этой дороге." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Quien adelanta debe llevar una velocidad notoriamente superior a la del vehículo adelantado y dejar una separación lateral suficiente, pero sin superar nunca el límite de velocidad de la vía.", "ru": "Обгоняющий должен ехать заметно быстрее обгоняемого ТС и оставлять достаточный боковой интервал, но никогда не превышать ограничение скорости на дороге." }
+  },
+  {
+    "id": "B-ADE-0007", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 85.2",
+    "question": { "es": "Ha iniciado un adelantamiento y advierte que no podrá terminarlo sin riesgo. ¿Qué debe hacer?", "ru": "Вы начали обгон и понимаете, что не сможете безопасно его завершить. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Acelerar para terminarlo cuanto antes.", "ru": "Ускориться, чтобы закончить как можно скорее." },
+      "b": { "es": "Reducir rápidamente la velocidad, volver a su carril y advertirlo a los que le siguen.", "ru": "Быстро снизить скорость, вернуться на свою полосу и предупредить едущих сзади." },
+      "c": { "es": "Detenerse en el carril contrario hasta que el paso esté libre.", "ru": "Остановиться на встречной полосе, пока путь не освободится." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Si después de iniciar el adelantamiento surgen circunstancias que pueden hacer difícil terminarlo sin riesgo, hay que reducir rápidamente la velocidad, regresar al propio carril y advertirlo a los que siguen con las señales preceptivas.", "ru": "Если после начала обгона возникли обстоятельства, мешающие безопасно его закончить, нужно быстро снизить скорость, вернуться на свою полосу и предупредить следующих сзади соответствующими сигналами." }
+  },
+  {
+    "id": "B-ADE-0008", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 85.3",
+    "question": { "es": "Al terminar un adelantamiento, ¿cómo debe volver a su carril?", "ru": "Как нужно возвращаться на свою полосу после обгона?" },
+    "options": {
+      "a": { "es": "Inmediatamente, aunque el vehículo adelantado tenga que frenar.", "ru": "Сразу, даже если обгоняемому ТС придётся тормозить." },
+      "b": { "es": "Cuando quiera, porque ya no está adelantando.", "ru": "Когда захочется, ведь обгон уже закончен." },
+      "c": { "es": "Tan pronto como sea posible y de modo gradual, sin obligar a otros a modificar su trayectoria o velocidad, y señalizándolo.", "ru": "Как можно скорее и плавно, не вынуждая других менять траекторию или скорость, и подав сигнал." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Quien ha adelantado debe reintegrarse a su carril tan pronto como pueda y de forma gradual, sin obligar a nadie a cambiar su trayectoria o velocidad, y advertirlo con las señales preceptivas.", "ru": "После обгона нужно вернуться на свою полосу как можно скорее и плавно, не вынуждая никого менять траекторию или скорость, и подать соответствующий сигнал." }
+  },
+  {
+    "id": "B-ADE-0009", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 85.4",
+    "question": { "es": "En una carretera de un carril por sentido va a adelantar a un ciclista. ¿Qué separación lateral mínima debe dejar?", "ru": "На дороге с одной полосой в каждом направлении вы обгоняете велосипедиста. Какой минимальный боковой интервал нужно оставить?" },
+    "options": {
+      "a": { "es": "1,5 metros, ocupando parte o la totalidad del carril contrario.", "ru": "1,5 метра, заняв часть или всю встречную полосу." },
+      "b": { "es": "1 metro.", "ru": "1 метр." },
+      "c": { "es": "50 centímetros, si va despacio.", "ru": "50 сантиметров, если ехать медленно." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Para adelantar a ciclistas, peatones, ciclomotores, VMP, animales o vehículos de tracción animal hay que ocupar parte o la totalidad del carril contiguo o contrario y guardar una anchura de seguridad de al menos 1,5 metros, sin poner en peligro a quienes vienen de frente.", "ru": "При обгоне велосипедистов, пешеходов, мопедов, СИМ, животных и гужевых повозок нужно занять часть или всю соседнюю или встречную полосу и оставить интервал не менее 1,5 метра, не создавая опасности встречным." }
+  },
+  {
+    "id": "B-ADE-0010", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 85.4",
+    "question": { "es": "Circula por una calzada con dos carriles en su sentido y va a adelantar a un ciclista que va por el carril derecho. ¿Cómo debe hacerlo?", "ru": "Вы едете по проезжей части с двумя полосами в вашем направлении и обгоняете велосипедиста на правой полосе. Как это сделать?" },
+    "options": {
+      "a": { "es": "Sin cambiar de carril, dejando 1,5 metros.", "ru": "Не меняя полосу, оставив 1,5 метра." },
+      "b": { "es": "Cambiando completamente al carril izquierdo.", "ru": "Полностью перестроившись на левую полосу." },
+      "c": { "es": "Tocando el claxon para que se aparte.", "ru": "Подав звуковой сигнал, чтобы он отъехал." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Cuando la calzada tiene más de un carril por sentido, para adelantar a un ciclista es obligatorio el cambio completo de carril. La separación de 1,5 metros se aplica cuando hay un solo carril por sentido.", "ru": "Если на проезжей части больше одной полосы в направлении, для обгона велосипедиста обязательно полностью сменить полосу. Интервал 1,5 метра применяется, когда в направлении одна полоса." }
+  },
+  {
+    "id": "B-ADE-0011", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 85.4",
+    "question": { "es": "Fuera de poblado, en una carretera limitada a 90 km/h, va a adelantar a un grupo de ciclistas. ¿A qué velocidad máxima debe hacerlo?", "ru": "Вне населённого пункта, на дороге с ограничением 90 км/ч, вы обгоняете группу велосипедистов. С какой максимальной скоростью?" },
+    "options": {
+      "a": { "es": "A 90 km/h, el límite de la vía.", "ru": "90 км/ч — предел на дороге." },
+      "b": { "es": "A 110 km/h, para terminar antes.", "ru": "110 км/ч, чтобы закончить быстрее." },
+      "c": { "es": "A 70 km/h como máximo, reduciendo al menos 20 km/h respecto al límite.", "ru": "Не более 70 км/ч, снизив скорость как минимум на 20 км/ч от предела." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Fuera de poblado, para adelantar a ciclistas y demás usuarios vulnerables hay que reducir la velocidad al menos 20 km/h por debajo del límite de la vía, antes de iniciar la maniobra y durante toda ella. Un grupo de ciclistas se considera una única unidad.", "ru": "Вне населённого пункта при обгоне велосипедистов и других уязвимых участников нужно снизить скорость минимум на 20 км/ч ниже предела дороги — до начала манёвра и на всё его время. Группа велосипедистов считается единым целым." }
+  },
+  {
+    "id": "B-ADE-0012", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 86.1 y 86.2",
+    "question": { "es": "Advierte que el vehículo que le sigue quiere adelantarle. ¿Qué debe hacer?", "ru": "Вы видите, что едущий сзади хочет вас обогнать. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Ceñirse al borde derecho de la calzada y no aumentar la velocidad.", "ru": "Прижаться к правому краю проезжей части и не увеличивать скорость." },
+      "b": { "es": "Acelerar para que el adelantamiento dure menos.", "ru": "Ускориться, чтобы обгон занял меньше времени." },
+      "c": { "es": "Frenar bruscamente para dejarle pasar.", "ru": "Резко затормозить, чтобы его пропустить." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El conductor que va a ser adelantado debe ceñirse al borde derecho y tiene prohibido aumentar la velocidad o hacer maniobras que dificulten el adelantamiento. Si surge un peligro, debe disminuir la velocidad.", "ru": "Водитель, которого обгоняют, должен прижаться к правому краю; ему запрещено увеличивать скорость или мешать обгону. При возникновении опасности он должен снизить скорость." }
+  },
+  {
+    "id": "B-ADE-0013", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 87.1.a",
+    "question": { "es": "¿Está permitido adelantar en un cambio de rasante de visibilidad reducida?", "ru": "Разрешён ли обгон на вершине подъёма с ограниченной видимостью?" },
+    "options": {
+      "a": { "es": "Sí, si se hace rápidamente.", "ru": "Да, если сделать это быстро." },
+      "b": { "es": "No, salvo que los dos sentidos estén claramente delimitados y se pueda adelantar sin invadir el sentido contrario.", "ru": "Нет, кроме случая, когда направления чётко разделены и можно обогнать, не выезжая на встречную полосу." },
+      "c": { "es": "Sí, avisando con el claxon.", "ru": "Да, предупредив звуковым сигналом." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Está prohibido adelantar en curvas y cambios de rasante de visibilidad reducida y, en general, donde no haya visibilidad suficiente para completar o abandonar la maniobra, salvo que los sentidos estén claramente delimitados y no haya que invadir el contrario.", "ru": "Обгон запрещён в поворотах и на вершинах подъёмов с ограниченной видимостью и вообще там, где видимости недостаточно, чтобы завершить или прервать манёвр, кроме случаев, когда направления чётко разделены и не нужно выезжать на встречную полосу." }
+  },
+  {
+    "id": "B-ADE-0014", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 87.1.b",
+    "question": { "es": "¿Dónde está prohibido adelantar?", "ru": "Где запрещён обгон?" },
+    "options": {
+      "a": { "es": "En cualquier recta de una carretera convencional.", "ru": "На любом прямом участке обычной дороги." },
+      "b": { "es": "En las autovías.", "ru": "На autovías." },
+      "c": { "es": "En los pasos para peatones señalizados, en las intersecciones con vías para ciclistas y en los pasos a nivel, y en sus proximidades.", "ru": "На обозначенных пешеходных переходах, на пересечениях с велодорожками и на железнодорожных переездах, а также вблизи них." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Está prohibido adelantar en los pasos para peatones señalizados, en las intersecciones con vías para ciclistas y en los pasos a nivel, así como en sus proximidades (redacción vigente desde octubre de 2026).", "ru": "Обгон запрещён на обозначенных пешеходных переходах, на пересечениях с велодорожками и на железнодорожных переездах, а также вблизи них (редакция, действующая с октября 2026 года)." }
+  },
+  {
+    "id": "B-ADE-0015", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 87.1.c",
+    "question": { "es": "Como norma general, está prohibido adelantar en las intersecciones y en sus proximidades. ¿En cuál de estos casos sí se permite?", "ru": "По общему правилу обгон на перекрёстках и вблизи них запрещён. В каком из этих случаев он разрешён?" },
+    "options": {
+      "a": { "es": "En una glorieta.", "ru": "На кольцевой развязке." },
+      "b": { "es": "En cualquier intersección regulada por semáforos.", "ru": "На любом перекрёстке со светофором." },
+      "c": { "es": "Cuando se adelanta a un camión.", "ru": "При обгоне грузовика." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La prohibición de adelantar en intersecciones tiene excepciones: las glorietas, el adelantamiento por la derecha permitido, cuando la calzada tiene prioridad señalizada en la intersección y cuando se adelanta a vehículos de dos ruedas.", "ru": "У запрета обгона на перекрёстках есть исключения: кольцевые развязки, разрешённый обгон справа, случаи, когда ваша дорога обозначена как главная на этом перекрёстке, и обгон двухколёсных ТС." }
+  },
+  {
+    "id": "B-ADE-0016", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 87.1.d",
+    "question": { "es": "En un túnel con un solo carril para su sentido de circulación, ¿puede adelantar?", "ru": "Можно ли обгонять в тоннеле, где для вашего направления только одна полоса?" },
+    "options": {
+      "a": { "es": "Sí, si el túnel está bien iluminado.", "ru": "Да, если тоннель хорошо освещён." },
+      "b": { "es": "No, está prohibido.", "ru": "Нет, это запрещено." },
+      "c": { "es": "Sí, si no viene nadie de frente.", "ru": "Да, если навстречу никто не едет." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Está prohibido adelantar en los túneles, pasos inferiores y tramos afectados por la señal de túnel en los que solo hay un carril para el sentido de circulación del que pretende adelantar.", "ru": "Обгон запрещён в тоннелях, подземных проездах и на участках со знаком «Тоннель», где для направления обгоняющего есть только одна полоса." }
+  },
+  {
+    "id": "B-ADE-0017", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 88.2",
+    "question": { "es": "En un tramo con línea continua hay un vehículo averiado que ocupa su carril. ¿Puede rebasarlo?", "ru": "На участке со сплошной линией вашу полосу занимает сломавшееся ТС. Можно ли его объехать?" },
+    "options": {
+      "a": { "es": "No, porque está prohibido adelantar.", "ru": "Нет, потому что обгон запрещён." },
+      "b": { "es": "Solo si un agente se lo indica.", "ru": "Только если это разрешит регулировщик." },
+      "c": { "es": "Sí, aunque tenga que ocupar el sentido contrario, tras comprobar que puede hacerlo sin peligro.", "ru": "Да, даже заняв встречную полосу, предварительно убедившись в безопасности." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Cuando en un tramo con prohibición de adelantar hay un vehículo inmovilizado que ocupa el carril (y no se debe a necesidades del tráfico), se puede rebasar aunque haya que ocupar el sentido contrario, después de comprobar que se puede hacer sin peligro.", "ru": "Если на участке, где обгон запрещён, полосу занимает неподвижное ТС (и это не связано с условиями движения), его можно объехать, даже заняв встречную полосу, предварительно убедившись в безопасности." }
+  },
+  {
+    "id": "B-ADE-0018", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 88.1",
+    "question": { "es": "Va a rebasar un vehículo averiado que ocupa parte de su carril. ¿Qué debe hacer, según la norma vigente desde 2026?", "ru": "Вы объезжаете сломавшееся ТС, которое частично занимает вашу полосу. Что нужно сделать по правилам, действующим с 2026 года?" },
+    "options": {
+      "a": { "es": "Dejar al menos 1,5 metros de separación y reducir la velocidad al menos 20 km/h respecto al límite de la vía.", "ru": "Оставить не менее 1,5 метра и снизить скорость как минимум на 20 км/ч от предела на дороге." },
+      "b": { "es": "Pasar lo más rápido posible para estar poco tiempo junto a él.", "ru": "Проехать как можно быстрее, чтобы меньше находиться рядом." },
+      "c": { "es": "Encender la luz antiniebla trasera.", "ru": "Включить задний противотуманный фонарь." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Al rebasar un vehículo inmovilizado por avería, accidente, servicio de urgencia, auxilio, mantenimiento de la vía o regulación del tráfico que ocupa la calzada, hay que mantener al menos 1,5 metros, aunque haya que ocupar el sentido contrario, y reducir la velocidad al menos 20 km/h respecto al límite.", "ru": "Объезжая ТС, стоящее на проезжей части из-за поломки, ДТП, работы экстренных или аварийных служб, обслуживания дороги или регулирования движения, нужно держать не менее 1,5 метра, даже заняв встречную полосу, и снизить скорость минимум на 20 км/ч от предела." }
+  },
+  {
+    "id": "B-ADE-0019", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 83.2",
+    "question": { "es": "En una autovía muy congestionada, los vehículos ocupan todos los carriles y los de su carril avanzan más rápido que los del carril de al lado. ¿Está adelantando?", "ru": "На загруженной autovía машины заняли все полосы, и ваша полоса движется быстрее соседней. Считается ли это обгоном?" },
+    "options": {
+      "a": { "es": "Sí, y debe volver al carril más lento.", "ru": "Да, и нужно вернуться в более медленный ряд." },
+      "b": { "es": "No, en esa situación no se considera adelantamiento.", "ru": "Нет, в такой ситуации это не считается обгоном." },
+      "c": { "es": "Sí, por la derecha, lo que está prohibido.", "ru": "Да, справа, что запрещено." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Cuando la densidad del tráfico hace que los vehículos ocupen toda la calzada y su velocidad dependa del que les precede, que un carril vaya más rápido que otro no se considera adelantamiento. En esa situación no se debe cambiar de carril para adelantar.", "ru": "Когда из-за плотного движения машины заняли всю проезжую часть и их скорость зависит от впереди идущих, более быстрое движение одной полосы не считается обгоном. В такой ситуации нельзя менять полосу ради обгона." }
+  },
+  {
+    "id": "B-ADE-0020", "topic": "adelantamientos", "source": "generada", "ref": "RGC art. 86.3",
+    "question": { "es": "Conduce un camión lento por una carretera estrecha con mucho tráfico en sentido contrario y se forma una cola detrás. ¿Qué debe hacer?", "ru": "Вы ведёте медленный грузовик по узкой дороге с плотным встречным движением, и сзади образовалась очередь. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Mantener su velocidad: los demás deben esperar.", "ru": "Сохранять скорость: остальные должны ждать." },
+      "b": { "es": "Encender las luces de emergencia.", "ru": "Включить аварийную сигнализацию." },
+      "c": { "es": "Aminorar la marcha o apartarse cuanto antes al arcén, si es practicable, para dejar pasar a los que le siguen.", "ru": "Снизить скорость или как можно скорее съехать на обочину, если это возможно, чтобы пропустить едущих сзади." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los conductores de vehículos pesados, de grandes dimensiones o con un límite específico de velocidad deben aminorar la marcha o apartarse al arcén, si es practicable, para dejar pasar a los que les siguen cuando la vía o el tráfico no permitan adelantarlos con facilidad y sin peligro.", "ru": "Водители тяжёлых и крупногабаритных ТС или ТС с особым ограничением скорости должны снизить скорость или съехать на обочину, если это возможно, чтобы пропустить едущих сзади, когда дорога или движение не позволяют легко и безопасно их обогнать." }
+  }
+]

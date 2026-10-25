@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-EFI-0001", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Según la conducción eficiente, ¿cómo se debe arrancar un turismo moderno?", "ru": "Как, согласно принципам экономичного вождения, нужно заводить современный легковой автомобиль?" },
+    "options": {
+      "a": { "es": "Pisando el acelerador varias veces y dejándolo calentar parado unos minutos.", "ru": "Несколько раз нажать на газ и дать прогреться на месте несколько минут." },
+      "b": { "es": "Sin pisar el acelerador e iniciando la marcha enseguida.", "ru": "Не нажимая на газ и сразу трогаясь." },
+      "c": { "es": "Con el aire acondicionado al máximo.", "ru": "С кондиционером на максимуме." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los motores actuales se arrancan sin pisar el acelerador y conviene iniciar la marcha inmediatamente, conduciendo con suavidad los primeros kilómetros. Calentar el motor parado gasta combustible sin ningún beneficio.", "ru": "Современные двигатели заводят, не нажимая на газ, и лучше сразу трогаться, первые километры ведя машину плавно. Прогрев на месте тратит топливо без пользы." }
+  },
+  {
+    "id": "B-EFI-0002", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Para qué se usa la primera marcha en la conducción eficiente?", "ru": "Для чего в экономичном вождении используют первую передачу?" },
+    "options": {
+      "a": { "es": "Para circular por ciudad.", "ru": "Для езды по городу." },
+      "b": { "es": "Para subir cualquier cuesta.", "ru": "Для любого подъёма." },
+      "c": { "es": "Solo para iniciar la marcha; se cambia a segunda enseguida, tras unos metros.", "ru": "Только чтобы тронуться; на вторую переключаются сразу, через несколько метров." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La primera es la marcha que más consume: se usa solo para poner el vehículo en movimiento y se pasa a segunda en cuanto se ha recorrido una distancia corta, de unos pocos metros.", "ru": "Первая передача — самая затратная: её используют только чтобы тронуться и переходят на вторую, проехав несколько метров." }
+  },
+  {
+    "id": "B-EFI-0003", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "En un motor de gasolina, ¿a qué revoluciones se recomienda cambiar a una marcha más larga?", "ru": "На каких оборотах рекомендуется переключаться на более высокую передачу в бензиновом двигателе?" },
+    "options": {
+      "a": { "es": "Entre 2.000 y 2.500 rpm.", "ru": "От 2000 до 2500 об/мин." },
+      "b": { "es": "Al llegar a 4.000 rpm.", "ru": "При 4000 об/мин." },
+      "c": { "es": "Por debajo de 1.000 rpm.", "ru": "Ниже 1000 об/мин." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Para ahorrar combustible, en los motores de gasolina se cambia de marcha entre 2.000 y 2.500 revoluciones por minuto, y en los diésel entre 1.500 y 2.000. Apurar las marchas aumenta mucho el consumo.", "ru": "Чтобы экономить топливо, в бензиновых двигателях передачи переключают на 2000–2500 об/мин, а в дизельных — на 1500–2000. Раскручивать двигатель сильно увеличивает расход." }
+  },
+  {
+    "id": "B-EFI-0004", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "En un motor diésel, ¿a qué revoluciones se recomienda cambiar a una marcha más larga?", "ru": "На каких оборотах рекомендуется переключаться на более высокую передачу в дизельном двигателе?" },
+    "options": {
+      "a": { "es": "Entre 3.000 y 3.500 rpm.", "ru": "От 3000 до 3500 об/мин." },
+      "b": { "es": "Entre 1.500 y 2.000 rpm.", "ru": "От 1500 до 2000 об/мин." },
+      "c": { "es": "Siempre a 1.000 rpm.", "ru": "Всегда на 1000 об/мин." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En los motores diésel el cambio a una marcha superior se recomienda entre 1.500 y 2.000 rpm; en los de gasolina, entre 2.000 y 2.500 rpm.", "ru": "В дизельных двигателях на повышенную передачу рекомендуется переходить на 1500–2000 об/мин, в бензиновых — на 2000–2500 об/мин." }
+  },
+  {
+    "id": "B-EFI-0005", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "En general, ¿en qué marcha conviene circular para consumir menos?", "ru": "На какой передаче, как правило, выгоднее ехать для экономии топлива?" },
+    "options": {
+      "a": { "es": "En la más corta posible, con el motor muy revolucionado.", "ru": "На самой низкой возможной, с высокими оборотами." },
+      "b": { "es": "En punto muerto siempre que se pueda.", "ru": "На нейтрали, когда только возможно." },
+      "c": { "es": "En la marcha más larga posible y a bajas revoluciones, sin que el motor se ahogue.", "ru": "На самой высокой возможной передаче и низких оборотах, не допуская «захлёбывания» двигателя." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El consumo es menor circulando en la marcha más larga que permita la situación, a bajas revoluciones, siempre que el motor no tenga tirones.", "ru": "Расход ниже, если ехать на самой высокой передаче, которую позволяет ситуация, на низких оборотах, но без рывков двигателя." }
+  },
+  {
+    "id": "B-EFI-0006", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Al reducir la velocidad, ¿qué es más eficiente?", "ru": "Что эффективнее при снижении скорости?" },
+    "options": {
+      "a": { "es": "Levantar el pie del acelerador dejando la marcha engranada.", "ru": "Отпустить педаль газа, оставив передачу включённой." },
+      "b": { "es": "Poner punto muerto y dejar rodar.", "ru": "Включить нейтраль и катиться." },
+      "c": { "es": "Pisar el embrague y frenar.", "ru": "Выжать сцепление и тормозить." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Con la marcha engranada y sin pisar el acelerador, por encima de ciertas revoluciones los motores con inyección cortan el combustible, así que el consumo es prácticamente nulo y además se aprovecha el freno motor. En punto muerto el motor sigue gastando para mantenerse al ralentí.", "ru": "С включённой передачей и отпущенным газом двигатели с впрыском выше определённых оборотов отключают подачу топлива, поэтому расход почти нулевой, а ещё работает торможение двигателем. На нейтрали двигатель продолжает тратить топливо на холостом ходу." }
+  },
+  {
+    "id": "B-EFI-0007", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Si va a estar detenido más de un minuto aproximadamente, ¿qué es más eficiente?", "ru": "Что эффективнее, если вы будете стоять дольше примерно минуты?" },
+    "options": {
+      "a": { "es": "Mantener el motor en marcha y acelerar de vez en cuando.", "ru": "Не глушить двигатель и периодически газовать." },
+      "b": { "es": "Apagar el motor.", "ru": "Заглушить двигатель." },
+      "c": { "es": "Dejarlo al ralentí con el aire acondicionado puesto.", "ru": "Оставить на холостом ходу с включённым кондиционером." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En detenciones prolongadas, de más de un minuto aproximadamente, es recomendable apagar el motor: al ralentí también se consume combustible. Muchos vehículos lo hacen automáticamente con el sistema start-stop.", "ru": "При длительной остановке, примерно больше минуты, рекомендуется глушить двигатель: на холостом ходу он тоже расходует топливо. Многие машины делают это автоматически системой старт-стоп." }
+  },
+  {
+    "id": "B-EFI-0008", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué estilo de conducción reduce el consumo?", "ru": "Какой стиль вождения снижает расход топлива?" },
+    "options": {
+      "a": { "es": "Acelerar y frenar con fuerza para llegar antes.", "ru": "Резко разгоняться и тормозить, чтобы приехать быстрее." },
+      "b": { "es": "Cambiar de carril constantemente.", "ru": "Постоянно перестраиваться." },
+      "c": { "es": "Mantener una velocidad uniforme y anticiparse a lo que va a ocurrir.", "ru": "Держать равномерную скорость и предвидеть ситуацию." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La conducción eficiente se basa en mantener una velocidad lo más uniforme posible, anticiparse al tráfico y evitar acelerones y frenazos, que gastan combustible y aumentan el riesgo.", "ru": "Экономичное вождение основано на максимально равномерной скорости, предвидении ситуации и отказе от резких разгонов и торможений, которые тратят топливо и повышают риск." }
+  },
+  {
+    "id": "B-EFI-0009", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué temperatura se recomienda en el habitáculo para un uso eficiente de la climatización?", "ru": "Какую температуру в салоне рекомендуют для экономного использования климат-контроля?" },
+    "options": {
+      "a": { "es": "Entre 23 y 24 °C.", "ru": "23–24 °C." },
+      "b": { "es": "16 °C en verano.", "ru": "16 °C летом." },
+      "c": { "es": "La más fría posible.", "ru": "Как можно холоднее." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Una temperatura de unos 23-24 °C es confortable y evita un consumo excesivo del aire acondicionado, que puede aumentar notablemente el gasto de combustible. Además, el frío o el calor excesivos favorecen la fatiga.", "ru": "Около 23–24 °C — комфортно и без лишней нагрузки на кондиционер, который может заметно увеличить расход. К тому же сильный холод или жара способствуют усталости." }
+  },
+  {
+    "id": "B-EFI-0010", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Lleva una baca vacía en el techo que no va a usar. ¿Qué es lo más eficiente?", "ru": "На крыше пустой багажник, которым вы не пользуетесь. Что эффективнее всего?" },
+    "options": {
+      "a": { "es": "Dejarla puesta: no influye en el consumo.", "ru": "Оставить: на расход он не влияет." },
+      "b": { "es": "Quitarla, porque aumenta la resistencia al aire y el consumo.", "ru": "Снять: он увеличивает сопротивление воздуха и расход." },
+      "c": { "es": "Dejarla y circular más deprisa para compensar.", "ru": "Оставить и ехать быстрее, чтобы компенсировать." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Las bacas y los portaequipajes, incluso vacíos, empeoran la aerodinámica y aumentan el consumo, sobre todo a velocidades altas. Conviene retirarlos cuando no se usan.", "ru": "Багажники на крыше, даже пустые, ухудшают аэродинамику и увеличивают расход, особенно на высокой скорости. Если они не нужны, их лучше снять." }
+  },
+  {
+    "id": "B-EFI-0011", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Cómo influye en el consumo circular con los neumáticos con menos presión de la recomendada?", "ru": "Как влияет на расход езда с давлением в шинах ниже рекомендованного?" },
+    "options": {
+      "a": { "es": "Lo reduce, porque el neumático agarra más.", "ru": "Снижает, потому что шина лучше держит дорогу." },
+      "b": { "es": "No influye.", "ru": "Не влияет." },
+      "c": { "es": "Lo aumenta, porque crece la resistencia a la rodadura.", "ru": "Увеличивает, потому что растёт сопротивление качению." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Una presión baja aumenta la superficie de contacto y la resistencia a la rodadura, lo que eleva el consumo y el desgaste. Conviene revisar la presión periódicamente, en frío.", "ru": "Низкое давление увеличивает пятно контакта и сопротивление качению, что повышает расход и износ. Давление стоит регулярно проверять на холодных шинах." }
+  },
+  {
+    "id": "B-EFI-0012", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Ve a lo lejos que el semáforo que tiene delante se pone en rojo. ¿Qué es más eficiente?", "ru": "Вы видите издалека, что светофор впереди переключился на красный. Что эффективнее?" },
+    "options": {
+      "a": { "es": "Levantar ya el pie del acelerador y dejar rodar el vehículo con la marcha engranada.", "ru": "Уже сейчас отпустить газ и катиться с включённой передачей." },
+      "b": { "es": "Mantener la velocidad y frenar al final.", "ru": "Сохранять скорость и затормозить в последний момент." },
+      "c": { "es": "Acelerar para llegar antes de que cambie.", "ru": "Ускориться, чтобы успеть до переключения." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Anticiparse permite aprovechar la inercia del vehículo con la marcha engranada, sin consumir combustible, y evitar frenazos. Muchas veces el semáforo cambia antes de que haya que detenerse.", "ru": "Предвидение позволяет использовать инерцию с включённой передачей без расхода топлива и избежать резкого торможения. Часто светофор переключается раньше, чем приходится остановиться." }
+  },
+  {
+    "id": "B-EFI-0013", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué efecto tiene llevar en el maletero objetos pesados que no necesita?", "ru": "Как влияют на машину ненужные тяжёлые вещи в багажнике?" },
+    "options": {
+      "a": { "es": "Ninguno.", "ru": "Никак." },
+      "b": { "es": "Aumenta el consumo, porque el vehículo pesa más.", "ru": "Увеличивают расход, потому что машина тяжелее." },
+      "c": { "es": "Mejora la estabilidad y reduce el consumo.", "ru": "Улучшают устойчивость и снижают расход." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Cuanto más peso transporta el vehículo, más energía necesita para acelerar y subir pendientes, y más combustible consume. Conviene no llevar carga innecesaria.", "ru": "Чем больше вес, тем больше энергии нужно для разгона и подъёмов и тем выше расход. Лишний груз лучше не возить." }
+  },
+  {
+    "id": "B-EFI-0014", "topic": "eficiente", "source": "generada", "ref": "RGC art. 157",
+    "question": { "es": "¿Quién puede restringir la entrada de vehículos en una zona de bajas emisiones según criterios medioambientales?", "ru": "Кто может ограничить въезд ТС в зону с низким уровнем выбросов по экологическим критериям?" },
+    "options": {
+      "a": { "es": "Nadie: las vías públicas son libres para todos.", "ru": "Никто: дороги общего пользования открыты для всех." },
+      "b": { "es": "Solo la Guardia Civil.", "ru": "Только Гражданская гвардия." },
+      "c": { "es": "Las autoridades competentes, por ejemplo los ayuntamientos.", "ru": "Компетентные органы, например муниципалитеты." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Las autoridades competentes pueden restringir total o parcialmente la entrada y circulación de vehículos en las zonas de bajas emisiones, en zonas de prioridad residencial y en otras vías de su competencia, según criterios medioambientales.", "ru": "Компетентные органы могут полностью или частично ограничить въезд и движение ТС в зонах с низким уровнем выбросов, в жилых приоритетных зонах и на других подведомственных дорогах по экологическим критериям." }
+  },
+  {
+    "id": "B-EFI-0015", "topic": "eficiente", "source": "generada", "ref": "RGC art. 7.2",
+    "question": { "es": "¿Se puede circular con una motocicleta con el escape libre, sin silenciador?", "ru": "Можно ли ездить на мотоцикле с прямотоком, без глушителя?" },
+    "options": {
+      "a": { "es": "No, está prohibido en vías urbanas e interurbanas.", "ru": "Нет, это запрещено и в городе, и за городом." },
+      "b": { "es": "Sí, fuera de poblado.", "ru": "Да, вне населённых пунктов." },
+      "c": { "es": "Sí, de día.", "ru": "Да, днём." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Se prohíbe circular con vehículos a motor y ciclomotores con el llamado escape libre, sin el silenciador preceptivo, o con uno incompleto, deteriorado o inadecuado. Los agentes pueden inmovilizar el vehículo si supera los niveles de ruido o gases permitidos.", "ru": "Запрещено ездить на механических ТС и мопедах с прямотоком, без обязательного глушителя или с неполным, повреждённым или неподходящим глушителем. Агенты могут задержать ТС, если уровень шума или выбросов превышен." }
+  },
+  {
+    "id": "B-EFI-0016", "topic": "eficiente", "source": "generada", "ref": "LSV art. 63.5",
+    "question": { "es": "¿Qué beneficio tiene superar un curso de conducción segura y eficiente, si se cumplen los requisitos?", "ru": "Что даёт прохождение курса безопасного и экономичного вождения при соблюдении условий?" },
+    "options": {
+      "a": { "es": "Permite conducir camiones.", "ru": "Право управлять грузовиками." },
+      "b": { "es": "Suma 2 puntos al permiso, hasta un máximo de 15.", "ru": "2 дополнительных балла, максимум до 15." },
+      "c": { "es": "Elimina las multas pendientes.", "ru": "Отмену неоплаченных штрафов." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Superar los cursos de conducción segura y eficiente, con saldo positivo de puntos, compensa con dos puntos adicionales, hasta un máximo de 15, con una frecuencia máxima de un curso de cada tipo cada dos años.", "ru": "Прохождение курсов безопасного и экономичного вождения при положительном балансе баллов даёт два дополнительных балла, но не более 15 в сумме, не чаще одного курса каждого вида раз в два года." }
+  },
+  {
+    "id": "B-EFI-0017", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Cómo varía el consumo al aumentar la velocidad en carretera?", "ru": "Как меняется расход топлива с ростом скорости на трассе?" },
+    "options": {
+      "a": { "es": "Disminuye siempre.", "ru": "Всегда снижается." },
+      "b": { "es": "No varía.", "ru": "Не меняется." },
+      "c": { "es": "Aumenta notablemente, porque la resistencia del aire crece mucho con la velocidad.", "ru": "Заметно растёт, потому что сопротивление воздуха сильно увеличивается со скоростью." }
+    },
+    "correct": "c",
+    "explanation": { "es": "A partir de cierta velocidad la resistencia aerodinámica es la principal causa de consumo y crece mucho al aumentar la velocidad. Circular algo más despacio ahorra bastante combustible y aumenta la seguridad.", "ru": "Начиная с определённой скорости главная причина расхода — сопротивление воздуха, и оно сильно растёт со скоростью. Немного более медленная езда заметно экономит топливо и повышает безопасность." }
+  },
+  {
+    "id": "B-EFI-0018", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Ante una subida, ¿qué hace un conductor eficiente?", "ru": "Как ведёт себя экономичный водитель перед подъёмом?" },
+    "options": {
+      "a": { "es": "Se anticipa y la sube en la marcha más larga que permita mantener la velocidad sin forzar el motor.", "ru": "Заранее готовится и поднимается на самой высокой передаче, позволяющей держать скорость, не перегружая двигатель." },
+      "b": { "es": "Reduce a primera para subir con más fuerza.", "ru": "Переходит на первую передачу, чтобы ехать мощнее." },
+      "c": { "es": "Acelera a fondo al final de la cuesta.", "ru": "Резко газует в конце подъёма." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En las subidas conviene anticiparse y mantener la marcha más larga posible, aceptando una ligera pérdida de velocidad, sin forzar el motor. En las bajadas, aprovechar la inercia con la marcha engranada.", "ru": "На подъёмах лучше заранее подготовиться и держать максимально высокую передачу, допуская небольшую потерю скорости, но не перегружая двигатель. На спусках — использовать инерцию с включённой передачей." }
+  },
+  {
+    "id": "B-EFI-0019", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué ventajas tiene la conducción eficiente?", "ru": "Какие преимущества даёт экономичное вождение?" },
+    "options": {
+      "a": { "es": "Solo ahorra dinero.", "ru": "Только экономит деньги." },
+      "b": { "es": "Permite llegar siempre antes.", "ru": "Позволяет всегда приезжать раньше." },
+      "c": { "es": "Ahorra combustible, reduce las emisiones y el desgaste del vehículo y mejora la seguridad y el confort.", "ru": "Экономит топливо, снижает выбросы и износ машины, повышает безопасность и комфорт." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Además del ahorro de combustible, la conducción eficiente reduce las emisiones contaminantes y el desgaste de frenos, embrague y neumáticos, y al ser más tranquila y anticipada mejora la seguridad y el confort.", "ru": "Помимо экономии топлива, экономичное вождение снижает вредные выбросы и износ тормозов, сцепления и шин, а благодаря спокойной манере и предвидению повышает безопасность и комфорт." }
+  },
+  {
+    "id": "B-EFI-0020", "topic": "eficiente", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma); RGC art. 54",
+    "question": { "es": "¿Por qué una distancia de seguridad amplia ayuda a conducir de forma eficiente?", "ru": "Почему большая дистанция помогает ездить экономично?" },
+    "options": {
+      "a": { "es": "No tiene relación con la eficiencia.", "ru": "К экономичности это отношения не имеет." },
+      "b": { "es": "Porque permite anticiparse y evitar frenazos y acelerones.", "ru": "Потому что позволяет предвидеть ситуацию и избегать резких торможений и разгонов." },
+      "c": { "es": "Porque el vehículo de delante tira del nuestro con su estela.", "ru": "Потому что впереди идущая машина «тянет» нашу за собой." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Con una distancia amplia se ve mejor lo que ocurre delante y se puede reducir la velocidad soltando el acelerador, en lugar de frenar bruscamente y volver a acelerar. Así se ahorra combustible y se gana seguridad.", "ru": "При большой дистанции лучше видно, что происходит впереди, и можно снижать скорость, отпуская газ, а не резко тормозить и снова разгоняться. Это экономит топливо и повышает безопасность." }
+  }
+]

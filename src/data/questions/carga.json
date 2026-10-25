@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-CAR-0001", "topic": "carga", "source": "generada", "ref": "RGC art. 9.1",
+    "question": { "es": "¿Cuántas personas puede transportar un turismo?", "ru": "Сколько человек может перевозить легковой автомобиль?" },
+    "options": {
+      "a": { "es": "Las que quepan, si nadie va de pie.", "ru": "Сколько поместится, если никто не стоит." },
+      "b": { "es": "Una más de las plazas autorizadas, si es un niño.", "ru": "На одного больше разрешённых мест, если это ребёнок." },
+      "c": { "es": "Como máximo, el número de plazas que tenga autorizadas, sin superar la MMA.", "ru": "Не больше числа разрешённых мест и без превышения РММ." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El número de personas transportadas no puede superar el de plazas autorizadas del vehículo y, entre viajeros y equipaje, nunca puede sobrepasarse la masa máxima autorizada.", "ru": "Число перевозимых людей не может превышать число разрешённых мест, а вместе с багажом нельзя превышать разрешённую максимальную массу." }
+  },
+  {
+    "id": "B-CAR-0002", "topic": "carga", "source": "generada", "ref": "RGC art. 10.1",
+    "question": { "es": "¿Puede llevar a una persona en el maletero de un turismo durante un trayecto corto?", "ru": "Можно ли везти человека в багажнике легкового автомобиля на короткое расстояние?" },
+    "options": {
+      "a": { "es": "No: está prohibido transportar personas en un lugar distinto al destinado y acondicionado para ellas.", "ru": "Нет: запрещено перевозить людей вне мест, предназначенных и оборудованных для них." },
+      "b": { "es": "Sí, si es en poblado.", "ru": "Да, в населённом пункте." },
+      "c": { "es": "Sí, si va tumbada.", "ru": "Да, если он лежит." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Está prohibido transportar personas en un emplazamiento distinto al destinado y acondicionado para ellas. Solo en vehículos de mercancías se permite, en ciertas condiciones reguladas, que viajen personas en la zona de carga.", "ru": "Запрещено перевозить людей в местах, не предназначенных и не оборудованных для них. Только в грузовых ТС при определённых установленных условиях люди могут ехать в грузовом отсеке." }
+  },
+  {
+    "id": "B-CAR-0003", "topic": "carga", "source": "generada", "ref": "RGC art. 15.3",
+    "question": { "es": "En un turismo, ¿cuánto puede sobresalir la carga por la parte posterior?", "ru": "Насколько груз может выступать сзади легкового автомобиля?" },
+    "options": {
+      "a": { "es": "Hasta 3 metros.", "ru": "До 3 метров." },
+      "b": { "es": "Hasta un 10 % de la longitud del vehículo (un 15 % si la carga es indivisible).", "ru": "До 10 % длины ТС (до 15 %, если груз неделимый)." },
+      "c": { "es": "No puede sobresalir nada.", "ru": "Не может выступать вообще." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En los vehículos no destinados exclusivamente al transporte de mercancías, como los turismos, la carga puede sobresalir por detrás hasta un 10 % de su longitud, o un 15 % si es indivisible. Por delante y por los lados no puede sobresalir.", "ru": "У ТС, не предназначенных только для перевозки грузов, например легковых автомобилей, груз может выступать сзади до 10 % их длины или до 15 %, если он неделимый. Спереди и по бокам выступать нельзя." }
+  },
+  {
+    "id": "B-CAR-0004", "topic": "carga", "source": "generada", "ref": "RGC art. 15.6",
+    "question": { "es": "Lleva una carga que sobresale por detrás de su vehículo. ¿Cómo debe señalizarla?", "ru": "Груз выступает сзади вашего ТС. Как его нужно обозначить?" },
+    "options": {
+      "a": { "es": "Con un trapo de cualquier color.", "ru": "Тряпкой любого цвета." },
+      "b": { "es": "Con las luces de emergencia encendidas.", "ru": "Включённой аварийной сигнализацией." },
+      "c": { "es": "Con la señal V-20, colocada en el extremo posterior de la carga.", "ru": "Знаком V-20 на заднем конце груза." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La carga que sobresale por detrás debe señalizarse con la señal V-20 (panel con franjas diagonales rojas y blancas) en su extremo posterior, perpendicular al eje del vehículo. Si sobresale por toda la anchura, se colocan dos paneles, uno en cada extremo.", "ru": "Выступающий сзади груз обозначают знаком V-20 (табличка с красно-белыми диагональными полосами) на его заднем конце, перпендикулярно оси ТС. Если груз выступает по всей ширине, ставят две таблички — по одной с каждого края." }
+  },
+  {
+    "id": "B-CAR-0005", "topic": "carga", "source": "generada", "ref": "RGC art. 15.6",
+    "question": { "es": "De noche, ¿qué debe llevar además la carga que sobresale por detrás del vehículo?", "ru": "Что ещё должно быть на выступающем сзади грузе ночью?" },
+    "options": {
+      "a": { "es": "Una luz roja.", "ru": "Красный фонарь." },
+      "b": { "es": "Una luz blanca.", "ru": "Белый фонарь." },
+      "c": { "es": "Una luz amarilla intermitente.", "ru": "Мигающий жёлтый фонарь." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Entre la puesta y la salida del sol, o con poca visibilidad, la carga que sobresale por detrás debe llevar además una luz roja. Si sobresale por delante, la señalización se hace con una luz blanca.", "ru": "В тёмное время суток или при плохой видимости выступающий сзади груз должен иметь ещё и красный фонарь. Если груз выступает спереди, его обозначают белым фонарём." }
+  },
+  {
+    "id": "B-CAR-0006", "topic": "carga", "source": "generada", "ref": "RGC art. 14.1",
+    "question": { "es": "¿Cómo debe ir dispuesta la carga de un vehículo?", "ru": "Как должен быть размещён груз в ТС?" },
+    "options": {
+      "a": { "es": "Como sea, mientras quepa.", "ru": "Как угодно, лишь бы помещался." },
+      "b": { "es": "Sujeta de forma que no pueda caer ni desplazarse peligrosamente, comprometer la estabilidad ni ocultar luces o placas obligatorias.", "ru": "Закреплён так, чтобы не мог упасть или опасно сместиться, нарушить устойчивость или закрыть фонари и обязательные таблички." },
+      "c": { "es": "Siempre sobre el techo.", "ru": "Всегда на крыше." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La carga y sus accesorios deben ir dispuestos y, si es necesario, sujetos para que no arrastren, caigan o se desplacen peligrosamente, no comprometan la estabilidad, no produzcan ruido o polvo evitables y no oculten luces, placas ni distintivos obligatorios.", "ru": "Груз и его крепления должны быть размещены и при необходимости закреплены так, чтобы не волочиться, не падать и не смещаться опасно, не нарушать устойчивость, не создавать лишнего шума или пыли и не закрывать фонари, номера и обязательные знаки." }
+  },
+  {
+    "id": "B-CAR-0007", "topic": "carga", "source": "generada", "ref": "RGC art. 14.2",
+    "question": { "es": "Transporta arena en un vehículo descubierto. ¿Qué debe hacer?", "ru": "Вы перевозите песок в открытом кузове. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Nada, si circula despacio.", "ru": "Ничего, если ехать медленно." },
+      "b": { "es": "Mojarla para que no se levante polvo.", "ru": "Намочить его, чтобы не было пыли." },
+      "c": { "es": "Cubrirla total y eficazmente.", "ru": "Полностью и надёжно его укрыть." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El transporte de materias que produzcan polvo o puedan caer debe hacerse siempre cubriéndolas total y eficazmente.", "ru": "Материалы, которые пылят или могут высыпаться, всегда нужно перевозить полностью и надёжно укрытыми." }
+  },
+  {
+    "id": "B-CAR-0008", "topic": "carga", "source": "generada", "ref": "RGC art. 12.1",
+    "question": { "es": "Como norma general, ¿a partir de qué edad puede ir de pasajero en una motocicleta?", "ru": "С какого возраста, по общему правилу, можно ездить пассажиром на мотоцикле?" },
+    "options": {
+      "a": { "es": "Mayor de 12 años, con casco homologado.", "ru": "Старше 12 лет, в сертифицированном шлеме." },
+      "b": { "es": "Mayor de 16 años.", "ru": "Старше 16 лет." },
+      "c": { "es": "Desde cualquier edad, si va con un adulto.", "ru": "С любого возраста, если вместе со взрослым." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En ciclomotores y motocicletas puede viajar un pasajero mayor de 12 años, si así consta en el permiso de circulación, con casco homologado, a horcajadas, con los pies en los reposapiés y en el asiento detrás del conductor.", "ru": "На мопеде и мотоцикле может ехать пассажир старше 12 лет, если это указано в регистрационных документах, в сертифицированном шлеме, верхом, поставив ноги на подножки, на сиденье за водителем." }
+  },
+  {
+    "id": "B-CAR-0009", "topic": "carga", "source": "generada", "ref": "RGC art. 12.2",
+    "question": { "es": "¿Puede un niño de 9 años viajar de pasajero en la motocicleta que conduce su madre?", "ru": "Может ли 9-летний ребёнок ехать пассажиром на мотоцикле, которым управляет его мать?" },
+    "options": {
+      "a": { "es": "No, nunca hasta los 12 años.", "ru": "Нет, до 12 лет никогда." },
+      "b": { "es": "Sí, excepcionalmente los mayores de 7 años pueden ir con su padre, madre o tutor (o un adulto autorizado), con casco homologado.", "ru": "Да, в виде исключения дети старше 7 лет могут ехать с отцом, матерью или опекуном (или уполномоченным взрослым) в сертифицированном шлеме." },
+      "c": { "es": "Sí, sentado delante de la madre.", "ru": "Да, сидя перед матерью." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Excepcionalmente, los mayores de 7 años pueden viajar en motocicletas o ciclomotores conducidos por su padre, madre o tutor, o por adultos autorizados por ellos, con casco homologado y en las mismas condiciones que cualquier pasajero.", "ru": "В виде исключения дети старше 7 лет могут ездить на мотоциклах и мопедах, которыми управляют их отец, мать, опекун или уполномоченные ими взрослые, в сертифицированном шлеме и на тех же условиях, что и любой пассажир." }
+  },
+  {
+    "id": "B-CAR-0010", "topic": "carga", "source": "generada", "ref": "RGC art. 12.1",
+    "question": { "es": "¿Dónde debe ir el pasajero de una motocicleta?", "ru": "Где должен находиться пассажир мотоцикла?" },
+    "options": {
+      "a": { "es": "Entre el conductor y el manillar, si es pequeño.", "ru": "Между водителем и рулём, если он маленький." },
+      "b": { "es": "Sentado de lado, si lleva falda.", "ru": "Сидя боком, если на нём юбка." },
+      "c": { "es": "A horcajadas en el asiento detrás del conductor, con los pies en los reposapiés.", "ru": "Верхом на сиденье за водителем, поставив ноги на подножки." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El pasajero debe ir a horcajadas, con los pies apoyados en los reposapiés laterales y en el asiento situado detrás del conductor. En ningún caso puede situarse entre el conductor y el manillar.", "ru": "Пассажир должен сидеть верхом, поставив ноги на боковые подножки, на сиденье за водителем. Сидеть между водителем и рулём нельзя ни в каком случае." }
+  },
+  {
+    "id": "B-CAR-0011", "topic": "carga", "source": "generada", "ref": "RGC art. 12.3",
+    "question": { "es": "¿En qué condiciones puede una motocicleta arrastrar un remolque?", "ru": "При каких условиях мотоцикл может буксировать прицеп?" },
+    "options": {
+      "a": { "es": "Si el remolque no supera el 50 % de la masa en vacío de la moto, de día, con buena visibilidad, reduciendo un 10 % la velocidad y sin llevar personas en él.", "ru": "Если прицеп не тяжелее 50 % снаряжённой массы мотоцикла, днём, при хорошей видимости, со скоростью на 10 % ниже и без людей в прицепе." },
+      "b": { "es": "Nunca puede llevar remolque.", "ru": "Никогда." },
+      "c": { "es": "Siempre, sin condiciones especiales.", "ru": "Всегда, без особых условий." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Motocicletas, vehículos de tres ruedas y ciclomotores pueden arrastrar un remolque que no supere el 50 % de su masa en vacío, circulando de día y sin visibilidad reducida, a una velocidad un 10 % inferior a la genérica y sin transportar personas en él.", "ru": "Мотоциклы, трёхколёсные ТС и мопеды могут буксировать прицеп не тяжелее 50 % их снаряжённой массы — днём, без ухудшения видимости, со скоростью на 10 % ниже общей и без людей в прицепе." }
+  },
+  {
+    "id": "B-CAR-0012", "topic": "carga", "source": "generada", "ref": "RGC art. 154.1",
+    "question": { "es": "Según la norma vigente desde 2026, ¿quién puede llevar pasajeros o carga en una bicicleta?", "ru": "Кто, согласно правилам, действующим с 2026 года, может перевозить на велосипеде пассажиров или груз?" },
+    "options": {
+      "a": { "es": "Cualquier ciclista mayor de 12 años.", "ru": "Любой велосипедист старше 12 лет." },
+      "b": { "es": "Un conductor mayor de edad, si se cumplen los requisitos técnicos.", "ru": "Совершеннолетний водитель при соблюдении технических требований." },
+      "c": { "es": "Nadie: está prohibido.", "ru": "Никто: это запрещено." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En las bicicletas y demás ciclos se puede transportar carga y pasajeros si el conductor es mayor de edad y se cumplen los requisitos técnicos, por ejemplo asientos adicionales o remolques homologados.", "ru": "На велосипедах и других циклах можно перевозить груз и пассажиров, если водитель совершеннолетний и соблюдены технические требования, например сертифицированные дополнительные сиденья или прицепы." }
+  },
+  {
+    "id": "B-CAR-0013", "topic": "carga", "source": "generada", "ref": "RGC art. 154.2",
+    "question": { "es": "En una bicicleta de una sola plaza, ¿a qué menores se puede llevar en un asiento adicional?", "ru": "Каких детей можно возить на дополнительном сиденье одноместного велосипеда?" },
+    "options": {
+      "a": { "es": "A cualquier menor de 12 años.", "ru": "Любых детей до 12 лет." },
+      "b": { "es": "Solo a bebés de menos de un año.", "ru": "Только младенцев до года." },
+      "c": { "es": "A menores de hasta 22 kg que sean capaces de sentarse por sí solos.", "ru": "Детей весом до 22 кг, которые умеют сидеть самостоятельно." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Las bicicletas que por construcción no pueden ser ocupadas por más de una persona pueden transportar menores de hasta 22 kg capaces de sentarse por sí solos, en asientos adicionales que cumplan las especificaciones técnicas.", "ru": "Велосипеды, рассчитанные на одного человека, могут перевозить детей весом до 22 кг, умеющих сидеть самостоятельно, на дополнительных сиденьях, соответствующих техническим требованиям." }
+  },
+  {
+    "id": "B-CAR-0014", "topic": "carga", "source": "generada", "ref": "RGC art. 154.4",
+    "question": { "es": "En un remolque de bicicleta, ¿qué animales se pueden transportar?", "ru": "Каких животных можно перевозить в велосипедном прицепе?" },
+    "options": {
+      "a": { "es": "Animales de hasta 15 kg.", "ru": "Животных весом до 15 кг." },
+      "b": { "es": "Ninguno.", "ru": "Никаких." },
+      "c": { "es": "Cualquier animal, sin límite de peso.", "ru": "Любых, без ограничения веса." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En las bicicletas se pueden usar remolques, semirremolques u otros elementos que cumplan las especificaciones técnicas para transportar personas, animales de hasta 15 kg o carga, con las restricciones que pueda poner el ayuntamiento.", "ru": "К велосипедам можно цеплять прицепы, полуприцепы и другие устройства, соответствующие техническим требованиям, для перевозки людей, животных весом до 15 кг или груза, с ограничениями, которые может ввести муниципалитет." }
+  },
+  {
+    "id": "B-CAR-0015", "topic": "carga", "source": "generada", "ref": "RGC art. 15.1 y 15.3",
+    "question": { "es": "¿Puede llevar en la baca de su turismo una carga que sobresalga por los laterales del vehículo?", "ru": "Можно ли везти на багажнике крыши легкового автомобиля груз, выступающий за боковые габариты?" },
+    "options": {
+      "a": { "es": "Sí, hasta 0,40 metros por cada lado.", "ru": "Да, до 0,40 метра с каждой стороны." },
+      "b": { "es": "No: en un turismo la carga solo puede sobresalir por la parte posterior, dentro del límite permitido.", "ru": "Нет: у легкового автомобиля груз может выступать только сзади, в пределах допустимого." },
+      "c": { "es": "Sí, si lo señaliza con la V-20.", "ru": "Да, если обозначить его знаком V-20." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La carga no puede sobresalir de la proyección en planta del vehículo, salvo en los casos previstos. En los vehículos que no son exclusivamente de mercancías solo se permite que sobresalga por detrás (10 %, o 15 % si es indivisible). El vuelo lateral de 0,40 m es para vehículos de mercancías con cargas indivisibles.", "ru": "Груз не может выходить за проекцию ТС в плане, кроме предусмотренных случаев. У ТС, не предназначенных только для грузов, он может выступать только сзади (10 % или 15 %, если неделимый). Боковой вынос 0,40 м разрешён грузовым ТС с неделимыми грузами." }
+  },
+  {
+    "id": "B-CAR-0016", "topic": "carga", "source": "generada", "ref": "RGC art. 9.1",
+    "question": { "es": "Con todas las plazas ocupadas y el maletero lleno, ¿qué límite de masa no puede superar su turismo?", "ru": "Какой предел массы нельзя превышать, если все места заняты и багажник полон?" },
+    "options": {
+      "a": { "es": "La tara.", "ru": "Снаряжённую массу (tara)." },
+      "b": { "es": "La masa en vacío más 500 kg.", "ru": "Массу пустого ТС плюс 500 кг." },
+      "c": { "es": "La masa máxima autorizada (MMA).", "ru": "Разрешённую максимальную массу (РММ)." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Entre viajeros y equipaje nunca se puede sobrepasar la masa máxima autorizada del vehículo, que figura en su documentación. Superarla empeora la frenada y la estabilidad.", "ru": "Пассажиры вместе с багажом никогда не должны превышать разрешённую максимальную массу ТС, указанную в его документах. Её превышение ухудшает торможение и устойчивость." }
+  },
+  {
+    "id": "B-CAR-0017", "topic": "carga", "source": "generada", "ref": "RGC art. 15.6",
+    "question": { "es": "Si una carga sobresale por delante de un vehículo, ¿cómo debe señalizarse de noche?", "ru": "Как ночью обозначают груз, выступающий спереди ТС?" },
+    "options": {
+      "a": { "es": "Con una luz blanca.", "ru": "Белым фонарём." },
+      "b": { "es": "Con una luz roja.", "ru": "Красным фонарём." },
+      "c": { "es": "Con una luz azul.", "ru": "Синим фонарём." }
+    },
+    "correct": "a",
+    "explanation": { "es": "De noche o con poca visibilidad, la carga que sobresale por delante se señaliza con una luz blanca, y la que sobresale por detrás, con una luz roja, además de la señal V-20.", "ru": "Ночью или при плохой видимости груз, выступающий спереди, обозначают белым фонарём, а выступающий сзади — красным, вместе со знаком V-20." }
+  },
+  {
+    "id": "B-CAR-0018", "topic": "carga", "source": "generada", "ref": "RGC art. 10.3",
+    "question": { "es": "En un vehículo que transporta a la vez personas y carga, ¿qué debe tener?", "ru": "Что должно быть в ТС, которое одновременно перевозит людей и груз?" },
+    "options": {
+      "a": { "es": "Nada especial.", "ru": "Ничего особенного." },
+      "b": { "es": "Una protección adecuada para que la carga no estorbe a los ocupantes ni pueda dañarlos si sale proyectada.", "ru": "Подходящую защиту, чтобы груз не мешал пассажирам и не травмировал их, если его отбросит." },
+      "c": { "es": "Un extintor.", "ru": "Огнетушитель." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los vehículos autorizados a transportar simultáneamente personas y carga deben llevar una protección adecuada a la carga, de manera que no estorbe a los ocupantes ni pueda dañarlos en caso de ser proyectada.", "ru": "ТС, которым разрешено одновременно перевозить людей и груз, должны иметь защиту, подходящую для груза, чтобы он не мешал пассажирам и не травмировал их, если его отбросит." }
+  },
+  {
+    "id": "B-CAR-0019", "topic": "carga", "source": "generada", "ref": "RGC art. 15.5",
+    "question": { "es": "Además de señalizarla, ¿qué precaución exige la norma con la carga que sobresale del vehículo?", "ru": "Какую меру предосторожности, кроме обозначения, требуют правила для выступающего груза?" },
+    "options": {
+      "a": { "es": "Circular siempre con las luces de emergencia.", "ru": "Всегда ехать с аварийной сигнализацией." },
+      "b": { "es": "Ir acompañado de otro vehículo.", "ru": "Ехать в сопровождении другого ТС." },
+      "c": { "es": "Resguardar su extremo saliente para aminorar los efectos de un posible roce o choque.", "ru": "Защитить выступающий конец, чтобы смягчить последствия возможного касания или удара." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Cuando la carga sobresale, dentro de los límites permitidos, hay que tomar las precauciones necesarias para evitar daños a los demás y resguardar su extremidad saliente para aminorar los efectos de un roce o choque.", "ru": "Если груз выступает в допустимых пределах, нужно принять меры, чтобы не причинить вреда другим, и защитить выступающий конец, чтобы смягчить последствия касания или удара." }
+  },
+  {
+    "id": "B-CAR-0020", "topic": "carga", "source": "generada", "ref": "RGC art. 15.2.a",
+    "question": { "es": "Un camión de 8 metros de longitud transporta postes de longitud indivisible. ¿Cuánto pueden sobresalir?", "ru": "Грузовик длиной 8 метров везёт столбы неделимой длины. Насколько они могут выступать?" },
+    "options": {
+      "a": { "es": "2 metros por delante y 3 metros por detrás.", "ru": "2 метра спереди и 3 метра сзади." },
+      "b": { "es": "1 metro por cada extremo.", "ru": "По 1 метру с каждого конца." },
+      "c": { "es": "Un tercio de su longitud por detrás.", "ru": "На треть его длины сзади." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En vehículos de mercancías de más de 5 metros, las cargas de longitud indivisible pueden sobresalir 2 metros por delante y 3 por detrás. En los de 5 metros o menos, un tercio de la longitud del vehículo por cada extremo.", "ru": "У грузовых ТС длиннее 5 метров грузы неделимой длины могут выступать на 2 метра спереди и 3 метра сзади. У ТС длиной 5 метров и меньше — на треть длины ТС с каждого конца." }
+  }
+]

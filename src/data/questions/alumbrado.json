@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-ALU-0001", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 99.1",
+    "question": { "es": "De noche, además de las luces de posición, ¿a partir de qué anchura debe un vehículo llevar encendidas las luces de gálibo?", "ru": "С какой ширины ТС ночью должно, кроме габаритных огней, включать контурные огни (gálibo)?" },
+    "options": {
+      "a": { "es": "Si su anchura supera los 2,10 metros.", "ru": "Если ширина больше 2,10 метра." },
+      "b": { "es": "Si su anchura supera los 2,50 metros.", "ru": "Если ширина больше 2,50 метра." },
+      "c": { "es": "Si su anchura supera los 1,80 metros.", "ru": "Если ширина больше 1,80 метра." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Entre el ocaso y la salida del sol, con visibilidad reducida y en túneles, todo vehículo debe llevar encendidas las luces de posición y, si su anchura supera 2,10 metros, también las de gálibo.", "ru": "В тёмное время суток, при плохой видимости и в тоннелях любое ТС должно ехать с габаритными огнями, а если оно шире 2,10 метра — ещё и с контурными." }
+  },
+  {
+    "id": "B-ALU-0002", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 98.1",
+    "question": { "es": "¿Cuándo hay que llevar encendido el alumbrado al circular por un túnel señalizado?", "ru": "Когда нужно включать освещение при проезде обозначенного тоннеля?" },
+    "options": {
+      "a": { "es": "Solo de noche.", "ru": "Только ночью." },
+      "b": { "es": "A cualquier hora del día.", "ru": "В любое время суток." },
+      "c": { "es": "Solo si el túnel no tiene iluminación.", "ru": "Только если в тоннеле нет освещения." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En los túneles, pasos inferiores y tramos afectados por la señal de túnel hay que llevar encendido el alumbrado que corresponda a cualquier hora del día, aunque el túnel esté iluminado.", "ru": "В тоннелях, подземных проездах и на участках со знаком «Тоннель» нужно ехать с соответствующим освещением в любое время суток, даже если тоннель освещён." }
+  },
+  {
+    "id": "B-ALU-0003", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 100.1",
+    "question": { "es": "¿En qué caso debe llevar encendida la luz de carretera (largo alcance)?", "ru": "В каком случае нужно включать дальний свет?" },
+    "options": {
+      "a": { "es": "De noche en una calle bien iluminada de poblado.", "ru": "Ночью на хорошо освещённой улице населённого пункта." },
+      "b": { "es": "Siempre que llueva.", "ru": "Всегда, когда идёт дождь." },
+      "c": { "es": "De noche, fuera de poblado, en una vía insuficientemente iluminada y circulando a más de 40 km/h, si no va a deslumbrar.", "ru": "Ночью, вне населённого пункта, на недостаточно освещённой дороге, при скорости более 40 км/ч, если вы никого не ослепите." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La luz de carretera se usa entre el ocaso y la salida del sol, fuera de poblado, en vías insuficientemente iluminadas, a más de 40 km/h, salvo que haya que cambiarla por la de cruce para no deslumbrar.", "ru": "Дальний свет используют в тёмное время суток, вне населённых пунктов, на недостаточно освещённых дорогах при скорости более 40 км/ч, если не нужно переключиться на ближний, чтобы не ослепить других." }
+  },
+  {
+    "id": "B-ALU-0004", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 100.3",
+    "question": { "es": "¿Cuándo se considera que una vía está insuficientemente iluminada?", "ru": "Когда дорога считается недостаточно освещённой?" },
+    "options": {
+      "a": { "es": "Cuando en algún punto no se puede leer una matrícula a 10 metros o no se distingue un vehículo oscuro a 50 metros.", "ru": "Когда в какой-то её точке нельзя прочитать номерной знак с 10 метров или различить тёмный автомобиль с 50 метров." },
+      "b": { "es": "Cuando no hay farolas en al menos un lado.", "ru": "Когда хотя бы с одной стороны нет фонарей." },
+      "c": { "es": "Cuando no se ven las líneas de la calzada a 100 metros.", "ru": "Когда разметка не видна с 100 метров." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Una vía está insuficientemente iluminada si, con vista normal, en algún punto de su calzada no puede leerse una placa de matrícula a 10 metros o no se distingue un vehículo pintado de oscuro a 50 metros.", "ru": "Дорога недостаточно освещена, если при нормальном зрении в какой-либо точке проезжей части нельзя прочитать номерной знак с 10 метров или различить тёмный автомобиль с 50 метров." }
+  },
+  {
+    "id": "B-ALU-0005", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 100.2",
+    "question": { "es": "¿Puede llevar encendida la luz de carretera con el vehículo estacionado?", "ru": "Можно ли оставлять включённым дальний свет у стоящего на стоянке ТС?" },
+    "options": {
+      "a": { "es": "Sí, si es de noche y la vía está a oscuras.", "ru": "Да, если ночью на дороге темно." },
+      "b": { "es": "No, está prohibido con el vehículo parado o estacionado.", "ru": "Нет, при остановке или стоянке это запрещено." },
+      "c": { "es": "Sí, en vías interurbanas.", "ru": "Да, на загородных дорогах." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Se prohíbe usar la luz de carretera siempre que el vehículo esté parado o estacionado, porque deslumbraría a quienes se acercan.", "ru": "Пользоваться дальним светом, когда ТС стоит или припарковано, запрещено, потому что он ослепляет приближающихся." }
+  },
+  {
+    "id": "B-ALU-0006", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 102.1",
+    "question": { "es": "Circula de noche con la luz de carretera y se acerca un vehículo de frente. ¿Cuándo puede volver a encender la luz de carretera?", "ru": "Вы едете ночью с дальним светом, навстречу приближается машина. Когда можно снова включить дальний свет?" },
+    "options": {
+      "a": { "es": "En cuanto el otro conductor cambie a cruce.", "ru": "Как только другой водитель переключится на ближний." },
+      "b": { "es": "Cuando esté a unos 50 metros del otro vehículo.", "ru": "Когда до другой машины останется около 50 метров." },
+      "c": { "es": "Después de rebasar la posición del vehículo con el que se cruza.", "ru": "После того как вы проедете мимо встречной машины." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Hay que cambiar a la luz de cruce en cuanto se aprecie la posibilidad de deslumbrar, aunque el otro no lo haga, y no se vuelve a la de carretera hasta rebasar, en el cruce, la posición del vehículo cruzado.", "ru": "Переключаться на ближний свет нужно, как только возникает возможность ослепить, даже если встречный этого не делает, а возвращаться к дальнему — только после того, как вы разъехались с встречной машиной." }
+  },
+  {
+    "id": "B-ALU-0007", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 102.2",
+    "question": { "es": "Circula de noche detrás de otro vehículo, a corta distancia. ¿Debe usar la luz de cruce?", "ru": "Ночью вы едете за другой машиной на небольшом расстоянии. Нужно ли использовать ближний свет?" },
+    "options": {
+      "a": { "es": "Sí, porque la luz de carretera puede deslumbrarle a través del retrovisor.", "ru": "Да, потому что дальний свет может ослепить его через зеркало заднего вида." },
+      "b": { "es": "No, el deslumbramiento solo afecta a los que vienen de frente.", "ru": "Нет, ослепление касается только встречных." },
+      "c": { "es": "Solo si el otro conductor se lo indica.", "ru": "Только если другой водитель это покажет." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La obligación de evitar el deslumbramiento incluye a los vehículos que circulan en el mismo sentido, cuyos conductores pueden quedar deslumbrados a través del espejo retrovisor.", "ru": "Обязанность не ослеплять распространяется и на ТС, едущие в том же направлении: их водителей можно ослепить через зеркало заднего вида." }
+  },
+  {
+    "id": "B-ALU-0008", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 102.3",
+    "question": { "es": "Un vehículo que viene de frente le deslumbra. ¿Qué debe hacer?", "ru": "Встречная машина вас ослепила. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Encender su luz de carretera para que el otro se dé cuenta.", "ru": "Включить свой дальний свет, чтобы встречный это заметил." },
+      "b": { "es": "Reducir la velocidad lo necesario, incluso hasta detenerse, para no alcanzar a vehículos o peatones que vayan en su mismo sentido.", "ru": "Снизить скорость насколько нужно, вплоть до остановки, чтобы не наехать на ТС или пешеходов, движущихся в вашем направлении." },
+      "c": { "es": "Mirar fijamente las luces del otro vehículo.", "ru": "Смотреть прямо на фары встречной машины." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En caso de deslumbramiento, el conductor que lo sufre debe reducir la velocidad lo necesario, incluso hasta detenerse por completo, para evitar alcanzar a vehículos o peatones que circulen en su mismo sentido.", "ru": "Ослеплённый водитель должен снизить скорость настолько, насколько нужно, вплоть до полной остановки, чтобы не наехать на ТС или пешеходов, движущихся в том же направлении." }
+  },
+  {
+    "id": "B-ALU-0009", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 101.1",
+    "question": { "es": "De noche, por una calle de poblado bien iluminada, ¿qué alumbrado debe llevar un turismo?", "ru": "Какое освещение должен включать легковой автомобиль ночью на хорошо освещённой улице населённого пункта?" },
+    "options": {
+      "a": { "es": "Solo las luces de posición.", "ru": "Только габаритные огни." },
+      "b": { "es": "La luz de carretera.", "ru": "Дальний свет." },
+      "c": { "es": "Las luces de posición y la de cruce.", "ru": "Габаритные огни и ближний свет." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Todo vehículo de motor y ciclomotor que circule de noche por vías suficientemente iluminadas debe llevar encendido, además del alumbrado de posición, el de cruce.", "ru": "Любое механическое ТС и мопед ночью на достаточно освещённых дорогах должны ехать с габаритными огнями и ближним светом." }
+  },
+  {
+    "id": "B-ALU-0010", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 104.a",
+    "question": { "es": "¿Qué vehículos deben llevar encendida la luz de cruce también durante el día, en cualquier vía?", "ru": "Каким ТС нужно ехать с ближним светом и днём, на любой дороге?" },
+    "options": {
+      "a": { "es": "Las motocicletas.", "ru": "Мотоциклам." },
+      "b": { "es": "Los turismos.", "ru": "Легковым автомобилям." },
+      "c": { "es": "Los autobuses.", "ru": "Автобусам." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Las motocicletas deben circular con la luz de cruce encendida también de día, en cualquier vía. Además, todos los vehículos deben llevarla de día en carriles reversibles, adicionales circunstanciales o habilitados en sentido contrario al normal.", "ru": "Мотоциклы обязаны ездить с ближним светом и днём на любой дороге. Кроме того, все ТС должны включать его днём на реверсивных, временных дополнительных полосах и полосах, открытых для движения во встречном направлении." }
+  },
+  {
+    "id": "B-ALU-0011", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 104.b",
+    "question": { "es": "De día circula con su turismo por un carril reversible. ¿Qué alumbrado debe llevar?", "ru": "Днём вы едете на легковом автомобиле по реверсивной полосе. Какое освещение нужно включить?" },
+    "options": {
+      "a": { "es": "Ninguno, porque es de día.", "ru": "Никакого, ведь сейчас день." },
+      "b": { "es": "La luz de cruce.", "ru": "Ближний свет." },
+      "c": { "es": "La luz antiniebla trasera.", "ru": "Задний противотуманный фонарь." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Todos los vehículos que circulen por un carril reversible, por un carril adicional circunstancial o por un carril habilitado en sentido contrario al normal deben llevar encendida la luz de cruce también de día.", "ru": "Все ТС на реверсивной полосе, временной дополнительной полосе или полосе, открытой для движения во встречном направлении, должны ехать с ближним светом и днём." }
+  },
+  {
+    "id": "B-ALU-0012", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 105.1",
+    "question": { "es": "Su turismo queda inmovilizado de noche en el arcén de una carretera. ¿Qué luces debe llevar encendidas?", "ru": "Ночью ваш легковой автомобиль остановился на обочине дороги. Какие огни должны гореть?" },
+    "options": {
+      "a": { "es": "La luz de carretera, para que lo vean.", "ru": "Дальний свет, чтобы машину было видно." },
+      "b": { "es": "Ninguna, para no gastar batería.", "ru": "Никакие, чтобы не разрядить аккумулятор." },
+      "c": { "es": "Las luces de posición (y las de gálibo, si las lleva).", "ru": "Габаритные огни (и контурные, если они есть)." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Todo vehículo inmovilizado entre la puesta y la salida del sol, o con poca visibilidad, en la calzada o el arcén de una vía, debe tener encendidas las luces de posición y, en su caso, las de gálibo.", "ru": "Любое ТС, остановившееся на проезжей части или обочине в тёмное время суток или при плохой видимости, должно иметь включённые габаритные огни, а при наличии — и контурные." }
+  },
+  {
+    "id": "B-ALU-0013", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 105.2",
+    "question": { "es": "Estaciona de noche en una travesía insuficientemente iluminada. ¿Qué luces debe dejar encendidas?", "ru": "Ночью вы оставили машину на недостаточно освещённом участке дороги в населённом пункте (travesía). Какие огни должны гореть?" },
+    "options": {
+      "a": { "es": "Las de posición, que puede sustituir por las de estacionamiento.", "ru": "Габаритные, которые можно заменить стояночными огнями." },
+      "b": { "es": "Las de cruce.", "ru": "Ближний свет." },
+      "c": { "es": "Ninguna, porque está en poblado.", "ru": "Никакие, потому что это населённый пункт." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En una travesía insuficientemente iluminada, el vehículo parado o estacionado de noche debe tener encendidas las luces de posición; puede sustituirlas por las de estacionamiento o, si está en línea, por las dos de posición del lado de la calzada.", "ru": "На недостаточно освещённой travesía стоящее ночью ТС должно иметь включённые габаритные огни; их можно заменить стояночными или, при стоянке вдоль края, двумя габаритными со стороны проезжей части." }
+  },
+  {
+    "id": "B-ALU-0014", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 105.3",
+    "question": { "es": "De noche estaciona en una calle urbana (que no es travesía) con buena iluminación. ¿Tiene que dejar encendidas las luces de posición?", "ru": "Ночью вы поставили машину на хорошо освещённой городской улице (не travesía). Нужно ли оставлять габаритные огни?" },
+    "options": {
+      "a": { "es": "Sí, siempre.", "ru": "Да, всегда." },
+      "b": { "es": "No es obligatorio si la iluminación permite a los demás verlo a distancia suficiente.", "ru": "Не обязательно, если освещение позволяет другим видеть машину на достаточном расстоянии." },
+      "c": { "es": "Sí, y además la luz de cruce.", "ru": "Да, и ещё ближний свет." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En las vías urbanas que no son travesías no es obligatorio que los vehículos estacionados lleven las luces de posición cuando la iluminación permite a otros usuarios distinguirlos a distancia suficiente.", "ru": "На городских улицах, не являющихся travesías, припаркованным ТС не обязательно оставлять габаритные огни, если освещение позволяет другим видеть их на достаточном расстоянии." }
+  },
+  {
+    "id": "B-ALU-0015", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 106.2",
+    "question": { "es": "Circula de día con niebla que reduce sensiblemente la visibilidad. ¿Qué luz debe utilizar?", "ru": "Вы едете днём в тумане, который сильно снижает видимость. Каким светом нужно пользоваться?" },
+    "options": {
+      "a": { "es": "Ninguna, porque es de día.", "ru": "Никаким, ведь сейчас день." },
+      "b": { "es": "Solo la de posición.", "ru": "Только габаритными огнями." },
+      "c": { "es": "La antiniebla delantera o la de cruce o la de carretera.", "ru": "Передними противотуманными фарами, ближним или дальним светом." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Con niebla, lluvia intensa, nevada o nubes de humo o polvo es obligatorio el alumbrado aunque sea de día: la antiniebla delantera o la luz de cruce o de carretera. La antiniebla delantera puede usarse sola o junto con las otras.", "ru": "В туман, сильный дождь, снегопад, дым или пыль освещение обязательно и днём: передние противотуманные фары, ближний или дальний свет. Противотуманные фары можно включать отдельно или вместе с другими." }
+  },
+  {
+    "id": "B-ALU-0016", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 106.2",
+    "question": { "es": "Sin niebla ni lluvia, ¿en qué otro caso puede usar la luz antiniebla delantera?", "ru": "В каком ещё случае, без тумана и дождя, можно включать передние противотуманные фары?" },
+    "options": {
+      "a": { "es": "En tramos de vías estrechas, de 6,50 metros de anchura o menos, señalizadas con una sucesión de curvas.", "ru": "На участках узких дорог шириной 6,50 метра или меньше, обозначенных знаком о серии поворотов." },
+      "b": { "es": "Siempre que circule de noche fuera de poblado.", "ru": "Всегда ночью вне населённого пункта." },
+      "c": { "es": "En autopistas, para ser más visible.", "ru": "На автомагистралях, чтобы быть заметнее." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La antiniebla delantera solo puede usarse con condiciones meteorológicas o ambientales que reduzcan sensiblemente la visibilidad o en tramos de vías estrechas con muchas curvas: calzada de 6,50 metros o menos señalizada con curvas próximas entre sí.", "ru": "Передние противотуманные фары можно включать только при погоде, сильно ухудшающей видимость, или на узких извилистых участках: проезжая часть 6,50 метра или уже, обозначенная знаками о последовательных поворотах." }
+  },
+  {
+    "id": "B-ALU-0017", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 106.2",
+    "question": { "es": "¿Cuándo debe llevarse encendida la luz antiniebla trasera?", "ru": "Когда нужно включать задний противотуманный фонарь?" },
+    "options": {
+      "a": { "es": "Siempre que se circule de noche.", "ru": "Всегда ночью." },
+      "b": { "es": "Solo con condiciones especialmente desfavorables, como niebla espesa, lluvia muy intensa o fuerte nevada.", "ru": "Только в особо неблагоприятных условиях: густой туман, очень сильный дождь или сильный снегопад." },
+      "c": { "es": "Cuando llueva un poco, aunque se vea bien.", "ru": "При небольшом дожде, даже если видимость хорошая." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La antiniebla trasera solo debe encenderse cuando las condiciones son especialmente desfavorables: niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo. En otros casos deslumbra a quien va detrás.", "ru": "Задний противотуманный фонарь включают только в особо плохих условиях: густой туман, очень сильный дождь, сильный снегопад или плотная пыль или дым. В остальных случаях он слепит едущих сзади." }
+  },
+  {
+    "id": "B-ALU-0018", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 107",
+    "question": { "es": "De noche se le avería en ruta el alumbrado y tiene que seguir con una luz de menor intensidad. ¿Qué debe hacer?", "ru": "Ночью в пути у вас сломалось освещение, и приходится ехать с более слабым светом. Что нужно делать?" },
+    "options": {
+      "a": { "es": "Seguir a la velocidad normal de la vía.", "ru": "Ехать с обычной для дороги скоростью." },
+      "b": { "es": "Encender las luces de emergencia y circular por el carril izquierdo.", "ru": "Включить аварийную сигнализацию и ехать по левой полосе." },
+      "c": { "es": "Reducir la velocidad hasta la que le permita detenerse dentro de la zona iluminada.", "ru": "Снизить скорость до такой, при которой можно остановиться в пределах освещённой зоны." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Si por una avería irreparable en ruta hay que circular con un alumbrado de menor intensidad, se debe reducir la velocidad hasta la que permita detener el vehículo dentro de la zona iluminada.", "ru": "Если из-за неустранимой в пути поломки приходится ехать с более слабым освещением, нужно снизить скорость до такой, чтобы ТС можно было остановить в пределах освещённой зоны." }
+  },
+  {
+    "id": "B-ALU-0019", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 100.2",
+    "question": { "es": "¿Puede alternar destellos de las luces de carretera y de cruce para saludar a un conocido?", "ru": "Можно ли мигать, чередуя дальний и ближний свет, чтобы поприветствовать знакомого?" },
+    "options": {
+      "a": { "es": "No: los destellos solo pueden usarse con las finalidades previstas en el reglamento, como advertir.", "ru": "Нет: мигание фарами допускается только в целях, предусмотренных правилами, например для предупреждения." },
+      "b": { "es": "Sí, siempre que sea de día.", "ru": "Да, если сейчас день." },
+      "c": { "es": "Sí, si no hay otros vehículos.", "ru": "Да, если нет других машин." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Está prohibido el empleo alternativo, en forma de destellos, de la luz de carretera y la de cruce con finalidades distintas a las previstas en el reglamento, como avisar de un adelantamiento o de un peligro.", "ru": "Запрещено мигать, чередуя дальний и ближний свет, в целях, не предусмотренных правилами. Правила допускают это, например, чтобы предупредить об обгоне или опасности." }
+  },
+  {
+    "id": "B-ALU-0020", "topic": "alumbrado", "source": "generada", "ref": "RGC art. 101.1",
+    "question": { "es": "De noche circula por una calle de poblado insuficientemente iluminada. ¿Qué alumbrado debe llevar, como mínimo?", "ru": "Ночью вы едете по недостаточно освещённой улице населённого пункта. Какое освещение нужно включить как минимум?" },
+    "options": {
+      "a": { "es": "Solo las luces de posición.", "ru": "Только габаритные огни." },
+      "b": { "es": "Las luces de posición y la de cruce.", "ru": "Габаритные огни и ближний свет." },
+      "c": { "es": "La antiniebla trasera.", "ru": "Задний противотуманный фонарь." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En los poblados, cuando la vía está insuficientemente iluminada, también hay que llevar encendida la luz de cruce, además del alumbrado de posición.", "ru": "В населённых пунктах на недостаточно освещённых улицах тоже нужно включать ближний свет вместе с габаритными огнями." }
+  }
+]

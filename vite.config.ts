@@ -34,6 +34,12 @@ export default defineConfig(({ mode }) => {
     define: {
       __APP_VERSION__: JSON.stringify(process.env.npm_package_version ?? '1.0.0'),
     },
+    build: {
+      rollupOptions: {
+        // El banco de preguntas va en su propio chunk: cambia a otro ritmo que el código.
+        output: { manualChunks: (id: string) => (id.includes('/src/data/') ? 'bank' : undefined) },
+      },
+    },
     plugins: [
       devApi(),
       react(),

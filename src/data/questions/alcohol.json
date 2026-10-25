@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-ALC-0001", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20",
+    "question": { "es": "¿Cuál es la tasa máxima de alcohol en aire espirado para un conductor de turismo con más de dos años de permiso?", "ru": "Какой максимальный уровень алкоголя в выдыхаемом воздухе допустим для водителя легкового автомобиля со стажем более двух лет?" },
+    "options": {
+      "a": { "es": "0,15 mg/l.", "ru": "0,15 мг/л." },
+      "b": { "es": "0,25 mg/l (0,5 g/l en sangre).", "ru": "0,25 мг/л (0,5 г/л в крови)." },
+      "c": { "es": "0,50 mg/l.", "ru": "0,50 мг/л." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La tasa general es de 0,5 gramos de alcohol por litro de sangre o 0,25 miligramos por litro de aire espirado. Hay límites más bajos para conductores noveles, profesionales y menores de edad.", "ru": "Общий предел — 0,5 грамма алкоголя на литр крови или 0,25 миллиграмма на литр выдыхаемого воздуха. Для новичков, профессиональных водителей и несовершеннолетних пределы ниже." }
+  },
+  {
+    "id": "B-ALC-0002", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20",
+    "question": { "es": "Durante los dos años siguientes a la obtención del permiso, ¿qué tasa de alcohol en aire espirado no se puede superar?", "ru": "Какой уровень алкоголя в выдыхаемом воздухе нельзя превышать в течение двух лет после получения прав?" },
+    "options": {
+      "a": { "es": "0,25 mg/l, la misma que el resto.", "ru": "0,25 мг/л, как у всех." },
+      "b": { "es": "0 mg/l.", "ru": "0 мг/л." },
+      "c": { "es": "0,15 mg/l (0,3 g/l en sangre).", "ru": "0,15 мг/л (0,3 г/л в крови)." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los conductores de cualquier vehículo no pueden superar 0,3 g/l en sangre ni 0,15 mg/l en aire espirado durante los dos años siguientes a la obtención del permiso o licencia.", "ru": "Водители любых ТС в течение двух лет после получения прав или лицензии не могут превышать 0,3 г/л в крови и 0,15 мг/л в выдыхаемом воздухе." }
+  },
+  {
+    "id": "B-ALC-0003", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20",
+    "question": { "es": "¿Cuál es la tasa máxima de alcohol en aire espirado para el conductor de un camión de más de 3.500 kg de MMA?", "ru": "Каков максимальный уровень алкоголя в выдыхаемом воздухе для водителя грузовика с РММ более 3500 кг?" },
+    "options": {
+      "a": { "es": "0,15 mg/l.", "ru": "0,15 мг/л." },
+      "b": { "es": "0,25 mg/l.", "ru": "0,25 мг/л." },
+      "c": { "es": "0,30 mg/l.", "ru": "0,30 мг/л." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los conductores de vehículos de mercancías de más de 3.500 kg, de viajeros de más de nueve plazas, de servicio público, transporte escolar y de menores, mercancías peligrosas, urgencias o transportes especiales no pueden superar 0,3 g/l en sangre ni 0,15 mg/l en aire espirado.", "ru": "Водители грузовиков свыше 3500 кг, автобусов более чем на девять мест, общественного транспорта, школьных перевозок и перевозок детей, опасных грузов, экстренных служб и специальных перевозок не могут превышать 0,3 г/л в крови и 0,15 мг/л в выдыхаемом воздухе." }
+  },
+  {
+    "id": "B-ALC-0004", "topic": "alcohol", "source": "generada", "ref": "LSV art. 14.1",
+    "question": { "es": "¿Qué tasa de alcohol puede tener un conductor menor de edad, por ejemplo, el de un ciclomotor de 16 años?", "ru": "Какой уровень алкоголя допускается у несовершеннолетнего водителя, например 16-летнего водителя мопеда?" },
+    "options": {
+      "a": { "es": "0,15 mg/l en aire espirado.", "ru": "0,15 мг/л в выдыхаемом воздухе." },
+      "b": { "es": "Ninguna: 0 g/l en sangre y 0 mg/l en aire espirado.", "ru": "Никакой: 0 г/л в крови и 0 мг/л в выдыхаемом воздухе." },
+      "c": { "es": "0,25 mg/l, como cualquier conductor.", "ru": "0,25 мг/л, как у любого водителя." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La Ley de Tráfico establece que el conductor menor de edad no puede circular en ningún caso con una tasa de alcohol superior a 0 gramos por litro en sangre ni a 0 miligramos por litro en aire espirado.", "ru": "Закон о дорожном движении устанавливает, что несовершеннолетний водитель ни в каком случае не может ездить с уровнем алкоголя выше 0 г/л в крови и 0 мг/л в выдыхаемом воздухе." }
+  },
+  {
+    "id": "B-ALC-0005", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20 y 21",
+    "question": { "es": "¿Están sometidos los ciclistas a los límites de alcohol y a las pruebas de alcoholemia?", "ru": "Распространяются ли на велосипедистов ограничения по алкоголю и проверки на алкоголь?" },
+    "options": {
+      "a": { "es": "No, porque la bicicleta no tiene motor.", "ru": "Нет, потому что у велосипеда нет мотора." },
+      "b": { "es": "Solo en vías interurbanas.", "ru": "Только на загородных дорогах." },
+      "c": { "es": "Sí: no pueden superar las tasas establecidas y están obligados a someterse a las pruebas.", "ru": "Да: им нельзя превышать установленные пределы, и они обязаны проходить проверки." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los límites de alcohol se aplican expresamente a los conductores de vehículos y de bicicletas, que también quedan obligados a someterse a las pruebas de detección.", "ru": "Ограничения по алкоголю прямо распространяются на водителей ТС и велосипедов; они также обязаны проходить проверку." }
+  },
+  {
+    "id": "B-ALC-0006", "topic": "alcohol", "source": "generada", "ref": "RGC art. 21; LSV art. 14.2",
+    "question": { "es": "¿Quién está obligado a someterse a las pruebas de alcoholemia?", "ru": "Кто обязан проходить проверку на алкоголь?" },
+    "options": {
+      "a": { "es": "Todos los conductores y, además, los demás usuarios de la vía implicados en un accidente.", "ru": "Все водители, а также другие участники движения, причастные к ДТП." },
+      "b": { "es": "Solo los conductores que hayan cometido una infracción.", "ru": "Только водители, совершившие нарушение." },
+      "c": { "es": "Solo los conductores profesionales.", "ru": "Только профессиональные водители." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Todos los conductores de vehículos y de bicicletas están obligados a someterse a las pruebas. También los demás usuarios de la vía, como los peatones, cuando estén implicados en un accidente.", "ru": "Все водители ТС и велосипедов обязаны проходить проверку. Другие участники движения, например пешеходы, — тоже, если они причастны к ДТП." }
+  },
+  {
+    "id": "B-ALC-0007", "topic": "alcohol", "source": "generada", "ref": "RGC art. 23.1 y 23.2",
+    "question": { "es": "La primera prueba de alcoholemia da positivo. ¿Qué tiempo mínimo debe pasar hasta la segunda prueba, si usted lo controla?", "ru": "Первая проверка на алкоголь положительная. Какое минимальное время должно пройти до второй проверки, если вы за этим следите?" },
+    "options": {
+      "a": { "es": "1 minuto.", "ru": "1 минута." },
+      "b": { "es": "10 minutos.", "ru": "10 минут." },
+      "c": { "es": "30 minutos.", "ru": "30 минут." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Si la primera prueba supera la tasa, el agente hace una segunda prueba de contraste en aire espirado, y el interesado tiene derecho a controlar que entre ambas pasen al menos 10 minutos.", "ru": "Если первая проверка показала превышение, агент проводит вторую контрольную проверку по выдыхаемому воздуху, и проверяемый вправе проследить, чтобы между ними прошло не менее 10 минут." }
+  },
+  {
+    "id": "B-ALC-0008", "topic": "alcohol", "source": "generada", "ref": "LSV art. 14.5; RGC art. 23.3 y 23.4",
+    "question": { "es": "Si no está de acuerdo con el resultado del etilómetro, ¿qué puede pedir?", "ru": "Что можно потребовать, если вы не согласны с результатом алкотестера?" },
+    "options": {
+      "a": { "es": "Nada: el resultado del etilómetro es definitivo.", "ru": "Ничего: результат алкотестера окончательный." },
+      "b": { "es": "Repetir la prueba al día siguiente.", "ru": "Повторить проверку на следующий день." },
+      "c": { "es": "Una prueba de contraste, preferentemente un análisis de sangre, que pagará usted si da positivo.", "ru": "Контрольный анализ, преимущественно крови, который вы оплатите, если результат окажется положительным." }
+    },
+    "correct": "c",
+    "explanation": { "es": "A petición del interesado se pueden repetir las pruebas a efectos de contraste, preferentemente mediante análisis de sangre. El interesado deposita su importe, que paga si el resultado es positivo y se le devuelve si es negativo.", "ru": "По просьбе проверяемого можно провести контрольный анализ, преимущественно крови. Его стоимость вносится заранее: при положительном результате она оплачивается проверяемым, при отрицательном — возвращается." }
+  },
+  {
+    "id": "B-ALC-0009", "topic": "alcohol", "source": "generada", "ref": "LSV art. 14.3",
+    "question": { "es": "¿En qué consiste normalmente la prueba para detectar drogas en un control de tráfico?", "ru": "В чём обычно заключается проверка на наркотики на дорожном контроле?" },
+    "options": {
+      "a": { "es": "En una prueba salival con un dispositivo autorizado y un posterior análisis de una muestra de saliva.", "ru": "В тесте слюны с помощью разрешённого устройства и последующем анализе образца слюны." },
+      "b": { "es": "En soplar en un etilómetro.", "ru": "В том, чтобы подуть в алкотестер." },
+      "c": { "es": "En una prueba de equilibrio caminando en línea recta.", "ru": "В тесте на равновесие с ходьбой по прямой." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Para detectar drogas se hace una prueba salival con un dispositivo autorizado y, después, un análisis de una muestra de saliva en cantidad suficiente. Si hay razones que lo impidan, se puede ordenar un reconocimiento médico o análisis clínicos.", "ru": "Для выявления наркотиков проводят тест слюны разрешённым устройством, а затем анализ достаточного образца слюны. Если это невозможно, могут назначить медосмотр или клинические анализы." }
+  },
+  {
+    "id": "B-ALC-0010", "topic": "alcohol", "source": "generada", "ref": "LSV art. 14.1; RGC art. 27.1",
+    "question": { "es": "Toma un medicamento recetado por su médico. ¿Puede conducir?", "ru": "Вы принимаете лекарство, назначенное врачом. Можно ли садиться за руль?" },
+    "options": {
+      "a": { "es": "Sí, en cualquier caso, porque está recetado.", "ru": "Да, в любом случае, раз оно назначено." },
+      "b": { "es": "Sí, siempre que el medicamento no altere su capacidad para conducir con seguridad.", "ru": "Да, если лекарство не ухудшает способность безопасно управлять ТС." },
+      "c": { "es": "No, nunca se puede conducir tomando medicamentos.", "ru": "Нет, с лекарствами водить нельзя никогда." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Se excluyen de la prohibición las sustancias usadas bajo prescripción facultativa y con finalidad terapéutica, siempre que el conductor esté en condiciones de conducir con diligencia y precaución. Pero no se puede conducir bajo el efecto de medicamentos que alteren el estado físico o mental necesario.", "ru": "Запрет не касается веществ, принимаемых по назначению врача для лечения, если водитель способен управлять ТС внимательно и осторожно. Но нельзя водить под действием лекарств, нарушающих нужное физическое или психическое состояние." }
+  },
+  {
+    "id": "B-ALC-0011", "topic": "alcohol", "source": "generada", "ref": "LSV art. 14.1",
+    "question": { "es": "Según la Ley de Tráfico, ¿qué está prohibido en relación con las drogas?", "ru": "Что, согласно Закону о дорожном движении, запрещено в отношении наркотиков?" },
+    "options": {
+      "a": { "es": "Solo conducir con síntomas visibles de estar drogado.", "ru": "Только вождение с видимыми признаками опьянения." },
+      "b": { "es": "Solo conducir después de haber consumido el mismo día.", "ru": "Только вождение в день употребления." },
+      "c": { "es": "Conducir con presencia de drogas en el organismo, aunque no haya síntomas.", "ru": "Вождение при наличии наркотиков в организме, даже без признаков опьянения." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La ley prohíbe conducir con presencia de drogas en el organismo, sin necesidad de que haya síntomas, salvo las sustancias usadas con prescripción médica y finalidad terapéutica que no impidan conducir con seguridad.", "ru": "Закон запрещает водить при наличии наркотиков в организме, даже без признаков опьянения, кроме веществ, принимаемых по назначению врача для лечения и не мешающих безопасному вождению." }
+  },
+  {
+    "id": "B-ALC-0012", "topic": "alcohol", "source": "generada", "ref": "RGC art. 28.2; CP art. 383",
+    "question": { "es": "¿Qué consecuencia tiene negarse a someterse a las pruebas de detección de drogas o alcohol requeridas por un agente?", "ru": "Каковы последствия отказа пройти проверку на наркотики или алкоголь по требованию агента?" },
+    "options": {
+      "a": { "es": "Es una infracción muy grave y, además, puede constituir un delito.", "ru": "Это особо грубое нарушение, которое к тому же может считаться преступлением." },
+      "b": { "es": "Ninguna, si después demuestra que no había bebido.", "ru": "Никаких, если потом доказать, что вы не пили." },
+      "c": { "es": "Solo una advertencia verbal.", "ru": "Только устное предупреждение." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Incumplir la obligación de someterse a las pruebas es una infracción muy grave, y el Código Penal castiga como delito la negativa a someterse a las pruebas legalmente establecidas cuando el agente lo requiere. Además, el agente puede inmovilizar el vehículo.", "ru": "Отказ пройти проверку — особо грубое нарушение, а Уголовный кодекс наказывает как преступление отказ от законно установленных проверок по требованию агента. Кроме того, агент может задержать ТС." }
+  },
+  {
+    "id": "B-ALC-0013", "topic": "alcohol", "source": "generada", "ref": "CP art. 379.2",
+    "question": { "es": "¿A partir de qué tasa de alcohol en aire espirado conducir se considera delito, en cualquier caso?", "ru": "С какого уровня алкоголя в выдыхаемом воздухе вождение в любом случае считается преступлением?" },
+    "options": {
+      "a": { "es": "Más de 0,25 mg/l.", "ru": "Более 0,25 мг/л." },
+      "b": { "es": "Más de 0,60 mg/l (1,2 g/l en sangre).", "ru": "Более 0,60 мг/л (1,2 г/л в крови)." },
+      "c": { "es": "Más de 1 mg/l.", "ru": "Более 1 мг/л." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El Código Penal castiga a quien conduce con una tasa de alcohol en aire espirado superior a 0,60 mg/l o en sangre superior a 1,2 g/l. Con tasas menores también puede ser delito si se conduce bajo la influencia del alcohol.", "ru": "Уголовный кодекс наказывает вождение с уровнем алкоголя выше 0,60 мг/л в выдыхаемом воздухе или 1,2 г/л в крови. При более низком уровне это тоже может быть преступлением, если водитель находится под влиянием алкоголя." }
+  },
+  {
+    "id": "B-ALC-0014", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20 (información sanitaria DGT)",
+    "question": { "es": "Ha bebido alcohol y quiere conducir. ¿Qué reduce realmente su tasa de alcohol?", "ru": "Вы выпили алкоголь и хотите сесть за руль. Что действительно снижает уровень алкоголя?" },
+    "options": {
+      "a": { "es": "Tomar un café cargado.", "ru": "Крепкий кофе." },
+      "b": { "es": "Darse una ducha fría.", "ru": "Холодный душ." },
+      "c": { "es": "Solo el paso del tiempo, mientras el organismo lo elimina.", "ru": "Только время, пока организм его выводит." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El café, la ducha o comer pueden hacer que uno se sienta más despejado, pero no reducen la tasa de alcohol: solo el tiempo permite que el organismo lo elimine. Si va a conducir, lo seguro es no beber.", "ru": "Кофе, душ или еда могут взбодрить, но не снижают уровень алкоголя: вывести его из организма может только время. Если предстоит вести машину, безопаснее всего не пить." }
+  },
+  {
+    "id": "B-ALC-0015", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20 (información sanitaria DGT)",
+    "question": { "es": "¿Qué efecto produce el alcohol en el conductor, incluso en pequeñas cantidades?", "ru": "Как алкоголь, даже в небольшом количестве, влияет на водителя?" },
+    "options": {
+      "a": { "es": "Aumenta el tiempo de reacción y da una falsa sensación de seguridad.", "ru": "Увеличивает время реакции и даёт ложное чувство уверенности." },
+      "b": { "es": "Mejora los reflejos porque relaja.", "ru": "Улучшает реакцию, потому что расслабляет." },
+      "c": { "es": "No tiene ningún efecto por debajo de la tasa permitida.", "ru": "Ниже разрешённого уровня никак не влияет." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Incluso por debajo de los límites, el alcohol aumenta el tiempo de reacción, empeora la coordinación y la percepción de las distancias y produce una falsa sensación de seguridad que lleva a asumir más riesgos.", "ru": "Даже ниже разрешённых пределов алкоголь увеличивает время реакции, ухудшает координацию и оценку расстояний и создаёт ложное чувство уверенности, из-за которого водитель больше рискует." }
+  },
+  {
+    "id": "B-ALC-0016", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20 (información sanitaria DGT)",
+    "question": { "es": "¿Cómo afecta el alcohol a la visión del conductor?", "ru": "Как алкоголь влияет на зрение водителя?" },
+    "options": {
+      "a": { "es": "Amplía el campo visual.", "ru": "Расширяет поле зрения." },
+      "b": { "es": "Reduce el campo visual y dificulta la visión periférica y la adaptación a la oscuridad y a los deslumbramientos.", "ru": "Сужает поле зрения, ухудшает периферийное зрение и адаптацию к темноте и ослеплению." },
+      "c": { "es": "Solo afecta a la visión de los colores.", "ru": "Влияет только на восприятие цветов." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El alcohol reduce el campo visual (efecto túnel), empeora la visión periférica y la percepción de las distancias, y retrasa la recuperación tras un deslumbramiento.", "ru": "Алкоголь сужает поле зрения (эффект туннеля), ухудшает периферийное зрение и оценку расстояний и замедляет восстановление после ослепления." }
+  },
+  {
+    "id": "B-ALC-0017", "topic": "alcohol", "source": "generada", "ref": "RGC art. 21.d",
+    "question": { "es": "En un control preventivo, un agente le pide que sople, aunque no ha cometido ninguna infracción. ¿Debe hacerlo?", "ru": "На профилактическом контроле агент просит вас подуть в алкотестер, хотя вы ничего не нарушили. Нужно ли это делать?" },
+    "options": {
+      "a": { "es": "No, solo si ha cometido una infracción.", "ru": "Нет, только если было нарушение." },
+      "b": { "es": "No, solo si muestra síntomas de haber bebido.", "ru": "Нет, только при признаках опьянения." },
+      "c": { "es": "Sí: los agentes pueden someter a la prueba a los conductores dentro de los controles preventivos.", "ru": "Да: агенты вправе проверять водителей в рамках профилактических контролей." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los agentes pueden hacer la prueba a los implicados en un accidente, a quien conduce con síntomas, a los denunciados por una infracción y a cualquier conductor requerido dentro de los controles preventivos de alcoholemia.", "ru": "Агенты могут проверять причастных к ДТП, водителей с признаками опьянения, нарушителей и любого водителя в рамках профилактических проверок на алкоголь." }
+  },
+  {
+    "id": "B-ALC-0018", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20",
+    "question": { "es": "Obtuvo el permiso hace un año y da 0,20 mg/l en aire espirado. ¿Supera la tasa permitida?", "ru": "Вы получили права год назад, и тест показал 0,20 мг/л в выдыхаемом воздухе. Превышен ли допустимый уровень?" },
+    "options": {
+      "a": { "es": "Sí, porque durante los dos primeros años el límite es 0,15 mg/l.", "ru": "Да, потому что в первые два года предел — 0,15 мг/л." },
+      "b": { "es": "No, porque el límite es 0,25 mg/l.", "ru": "Нет, потому что предел — 0,25 мг/л." },
+      "c": { "es": "No, porque los noveles no tienen límite especial.", "ru": "Нет, потому что для новичков особого предела нет." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Durante los dos años siguientes a la obtención del permiso, el límite es de 0,15 mg/l en aire espirado (0,3 g/l en sangre). 0,20 mg/l lo supera.", "ru": "В течение двух лет после получения прав предел — 0,15 мг/л в выдыхаемом воздухе (0,3 г/л в крови). 0,20 мг/л его превышает." }
+  },
+  {
+    "id": "B-ALC-0019", "topic": "alcohol", "source": "generada", "ref": "RGC art. 22.2",
+    "question": { "es": "Tras un accidente, un conductor está tan malherido que no puede soplar. ¿Quién decide qué pruebas de alcohol se le hacen?", "ru": "После ДТП водитель так тяжело ранен, что не может подуть в алкотестер. Кто решает, какие проверки на алкоголь ему провести?" },
+    "options": {
+      "a": { "es": "Nadie: queda exento de las pruebas.", "ru": "Никто: он освобождается от проверок." },
+      "b": { "es": "El personal facultativo del centro médico al que sea evacuado.", "ru": "Медицинский персонал больницы, куда его доставили." },
+      "c": { "es": "Sus familiares.", "ru": "Его родственники." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Cuando las lesiones o enfermedades impiden hacer las pruebas, el personal facultativo del centro médico al que se evacúa a la persona decide qué pruebas se realizan, por ejemplo un análisis de sangre.", "ru": "Если травмы или болезнь не позволяют провести проверку, медицинский персонал учреждения, куда доставлен человек, решает, какие анализы сделать, например анализ крови." }
+  },
+  {
+    "id": "B-ALC-0020", "topic": "alcohol", "source": "generada", "ref": "RGC art. 20",
+    "question": { "es": "¿Qué tasa máxima de alcohol en aire espirado tiene un conductor de taxi en servicio, con más de dos años de permiso?", "ru": "Каков максимальный уровень алкоголя в выдыхаемом воздухе для водителя такси при исполнении, со стажем более двух лет?" },
+    "options": {
+      "a": { "es": "0,25 mg/l, como cualquier turismo.", "ru": "0,25 мг/л, как для любого легкового автомобиля." },
+      "b": { "es": "0,30 mg/l.", "ru": "0,30 мг/л." },
+      "c": { "es": "0,15 mg/l, por ser un vehículo de servicio público.", "ru": "0,15 мг/л, так как это общественный транспорт." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los conductores de vehículos de servicio público, como los taxis, no pueden superar 0,3 g/l en sangre ni 0,15 mg/l en aire espirado, igual que los de camiones pesados, autobuses, transporte escolar o mercancías peligrosas.", "ru": "Водители общественного транспорта, например такси, не могут превышать 0,3 г/л в крови и 0,15 мг/л в выдыхаемом воздухе, как и водители тяжёлых грузовиков, автобусов, школьных перевозок или опасных грузов." }
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-SEN-0001", "topic": "senales", "source": "generada", "ref": "RGC art. 145; RGC anexo I, 5", "image": "/images/senales/r-1.svg",
+    "question": { "es": "¿Qué indica esta señal?", "ru": "Что означает этот знак?" },
+    "options": {
+      "a": { "es": "Obligación de ceder el paso a los vehículos que circulen por la vía a la que se aproxima.", "ru": "Обязанность уступить дорогу ТС, движущимся по дороге, к которой вы приближаетесь." },
+      "b": { "es": "Peligro por la proximidad de una intersección.", "ru": "Опасность: приближение к перекрёстку." },
+      "c": { "es": "Obligación de detenerse siempre ante la línea de detención.", "ru": "Обязанность всегда останавливаться перед стоп-линией." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Es la señal R-1, ceda el paso: obliga a ceder el paso a los vehículos de la vía a la que se aproxima, deteniéndose solo si es necesario. La obligación de detenerse siempre corresponde a la señal de STOP.", "ru": "Это знак R-1 «Уступите дорогу»: нужно уступить дорогу ТС на дороге, к которой вы приближаетесь, останавливаясь только при необходимости. Обязательная остановка в любом случае — это знак «STOP»." }
+  },
+  {
+    "id": "B-SEN-0002", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 5 y 6.3", "image": "/images/senales/r-2.svg",
+    "question": { "es": "Al llegar a esta señal, el conductor debe...", "ru": "Подъехав к этому знаку, водитель должен..." },
+    "options": {
+      "a": { "es": "detenerse solo si se acercan otros vehículos.", "ru": "...остановиться, только если приближаются другие ТС." },
+      "b": { "es": "detenerse ante la línea de detención o, si no la hay, inmediatamente antes de la calzada a la que se aproxima, y ceder el paso.", "ru": "...остановиться перед стоп-линией, а если её нет — непосредственно перед проезжей частью, к которой он подъезжает, и уступить дорогу." },
+      "c": { "es": "reducir la velocidad y ceder el paso, sin necesidad de detenerse si la vía está libre.", "ru": "...снизить скорость и уступить дорогу, не останавливаясь, если дорога свободна." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La señal de STOP (detención obligatoria) obliga a detener el vehículo siempre, aunque no venga nadie, ante la línea de detención o, si no existe, inmediatamente antes de la calzada a la que se aproxima; después hay que ceder el paso.", "ru": "Знак «STOP» (остановка обязательна) требует всегда останавливаться, даже если никого нет, — перед стоп-линией, а если её нет, непосредственно перед проезжей частью, к которой вы подъезжаете; затем нужно уступить дорогу." }
+  },
+  {
+    "id": "B-SEN-0003", "topic": "senales", "source": "generada", "ref": "RGC art. 145; RGC anexo I, 5", "image": "/images/senales/r-3.svg",
+    "question": { "es": "¿Qué indica esta señal?", "ru": "Что означает этот знак?" },
+    "options": {
+      "a": { "es": "Que debe ceder el paso en la próxima intersección.", "ru": "Что нужно уступить дорогу на ближайшем перекрёстке." },
+      "b": { "es": "El final de la calzada con prioridad.", "ru": "Конец главной дороги." },
+      "c": { "es": "Que circula por una calzada con prioridad en las intersecciones.", "ru": "Что вы едете по главной дороге с преимуществом на перекрёстках." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Es la señal R-3, calzada con prioridad: los vehículos que circulan por ella tienen prioridad en las intersecciones sobre los que se incorporan desde otras vías. El fin de esa prioridad se indica con la misma señal cruzada por franjas negras (R-4).", "ru": "Это знак R-3 «Главная дорога»: ТС на ней имеют преимущество на перекрёстках перед теми, кто выезжает с других дорог. Конец преимущества обозначается тем же знаком, перечёркнутым чёрными полосами (R-4)." }
+  },
+  {
+    "id": "B-SEN-0004", "topic": "senales", "source": "generada", "ref": "RGC art. 145.2.b; RGC anexo I, 5", "image": "/images/senales/r-101.svg",
+    "question": { "es": "¿Qué prohíbe esta señal?", "ru": "Что запрещает этот знак?" },
+    "options": {
+      "a": { "es": "La entrada a toda clase de vehículos.", "ru": "Въезд всех видов ТС." },
+      "b": { "es": "Solo el estacionamiento.", "ru": "Только стоянку." },
+      "c": { "es": "La circulación de camiones.", "ru": "Движение грузовиков." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Es la señal R-101, entrada prohibida. Como señal de prohibición de entrada, rige para quienes la encuentran de frente y a partir del lugar en que está colocada: ningún vehículo puede entrar por ahí, normalmente porque es el sentido contrario de una vía de sentido único.", "ru": "Это знак R-101 «Въезд запрещён». Как запрещающий въезд знак, он действует для тех, кто видит его перед собой, начиная с места установки: ни одно ТС не может туда въехать — обычно это встречное направление улицы с односторонним движением." }
+  },
+  {
+    "id": "B-SEN-0005", "topic": "senales", "source": "generada", "ref": "RGC art. 145.2.b; RGC anexo I, 5", "image": "/images/senales/r-100.svg",
+    "question": { "es": "Esta señal circular, blanca con borde rojo y sin ningún símbolo, significa...", "ru": "Этот круглый белый знак с красной каймой без символов означает..." },
+    "options": {
+      "a": { "es": "fin de todas las prohibiciones.", "ru": "...конец всех запретов." },
+      "b": { "es": "circulación prohibida a toda clase de vehículos en ambos sentidos.", "ru": "...движение всех ТС запрещено в обоих направлениях." },
+      "c": { "es": "prohibido el paso solo a peatones.", "ru": "...запрещён проход только пешеходам." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Es la señal R-100, circulación prohibida: ningún vehículo puede circular por esa vía en ningún sentido. El fin de prohibiciones es una señal distinta, blanca con franjas diagonales.", "ru": "Это знак R-100 «Движение запрещено»: ни одно ТС не может ехать по этой дороге ни в каком направлении. «Конец всех запретов» — другой знак, белый с диагональными полосами." }
+  },
+  {
+    "id": "B-SEN-0006", "topic": "senales", "source": "generada", "ref": "RGC art. 145.4; RGC anexo I, 5", "image": "/images/senales/r-301-60.svg",
+    "question": { "es": "¿Qué significa esta señal?", "ru": "Что означает этот знак?" },
+    "options": {
+      "a": { "es": "Velocidad recomendada de 60 km/h.", "ru": "Рекомендуемая скорость 60 км/ч." },
+      "b": { "es": "Velocidad mínima obligatoria de 60 km/h.", "ru": "Обязательная минимальная скорость 60 км/ч." },
+      "c": { "es": "Prohibido circular a más de 60 km/h desde el lugar donde está colocada.", "ru": "Запрещено ехать быстрее 60 км/ч, начиная с места установки знака." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Es la señal R-301, velocidad máxima: prohíbe superar la velocidad indicada. Las señales de reglamentación rigen a partir de la sección donde están colocadas, salvo que un panel complementario indique otra distancia. La velocidad mínima se indica con una señal azul.", "ru": "Это знак R-301 «Ограничение максимальной скорости»: запрещено превышать указанную скорость. Предписания знаков действуют с места их установки, если табличка не указывает другое расстояние. Минимальная скорость обозначается синим знаком." }
+  },
+  {
+    "id": "B-SEN-0007", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 5", "image": "/images/senales/r-411-30.svg",
+    "question": { "es": "¿Qué indica esta señal?", "ru": "Что означает этот знак?" },
+    "options": {
+      "a": { "es": "Obligación de circular, como mínimo, a 30 km/h.", "ru": "Обязанность ехать со скоростью не менее 30 км/ч." },
+      "b": { "es": "Prohibido superar los 30 km/h.", "ru": "Запрещено превышать 30 км/ч." },
+      "c": { "es": "Zona de estacionamiento limitado a 30 minutos.", "ru": "Зона стоянки, ограниченной 30 минутами." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Las señales circulares azules son de obligación. La R-411, velocidad mínima, obliga a circular al menos a la velocidad indicada, salvo que las circunstancias del tráfico lo impidan. La velocidad máxima se indica con fondo blanco y borde rojo.", "ru": "Круглые синие знаки — предписывающие. R-411 «Минимальная скорость» обязывает ехать не медленнее указанной скорости, если этого не мешают условия движения. Максимальная скорость обозначается белым знаком с красной каймой." }
+  },
+  {
+    "id": "B-SEN-0008", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 5", "image": "/images/senales/r-305.svg",
+    "question": { "es": "¿Qué indica esta señal?", "ru": "Что означает этот знак?" },
+    "options": {
+      "a": { "es": "Paso estrecho: prioridad para los vehículos que vienen de frente.", "ru": "Узкий проезд: преимущество у встречных ТС." },
+      "b": { "es": "Adelantamiento prohibido.", "ru": "Обгон запрещён." },
+      "c": { "es": "Prohibida la circulación de turismos.", "ru": "Движение легковых автомобилей запрещено." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Es la señal R-305, adelantamiento prohibido: a partir de ella no se puede adelantar a los vehículos de motor que circulan por la calzada hasta que una señal indique el fin de la prohibición.", "ru": "Это знак R-305 «Обгон запрещён»: с этого места нельзя обгонять механические ТС на проезжей части, пока знак не укажет конец запрета." }
+  },
+  {
+    "id": "B-SEN-0009", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 5", "image": "/images/senales/r-307.svg",
+    "question": { "es": "¿Qué prohíbe esta señal?", "ru": "Что запрещает этот знак?" },
+    "options": {
+      "a": { "es": "Solo el estacionamiento; la parada está permitida.", "ru": "Только стоянку; остановка разрешена." },
+      "b": { "es": "La circulación de vehículos de motor.", "ru": "Движение механических ТС." },
+      "c": { "es": "La parada y el estacionamiento.", "ru": "Остановку и стоянку." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Es la señal R-307, parada y estacionamiento prohibido: el aspa roja sobre fondo azul prohíbe tanto parar como estacionar en el lado de la vía en que está colocada. Si tiene una sola franja diagonal, solo prohíbe estacionar.", "ru": "Это знак R-307 «Остановка и стоянка запрещены»: красный крест на синем фоне запрещает и останавливаться, и стоять на той стороне дороги, где он установлен. Если полоса одна, запрещена только стоянка." }
+  },
+  {
+    "id": "B-SEN-0010", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 5", "image": "/images/senales/r-308.svg",
+    "question": { "es": "Junto a esta señal, ¿puede detener su turismo un momento para que baje un pasajero, sin abandonar el vehículo?", "ru": "Можно ли рядом с этим знаком ненадолго остановить легковой автомобиль, чтобы вышел пассажир, не покидая машину?" },
+    "options": {
+      "a": { "es": "Sí, porque esta señal solo prohíbe el estacionamiento.", "ru": "Да, потому что этот знак запрещает только стоянку." },
+      "b": { "es": "No, porque prohíbe la parada y el estacionamiento.", "ru": "Нет, потому что он запрещает остановку и стоянку." },
+      "c": { "es": "Solo si es un vehículo de servicio público.", "ru": "Только если это ТС общественного транспорта." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Es la señal R-308, estacionamiento prohibido (una sola franja roja). Permite la parada: inmovilizar el vehículo menos de dos minutos sin que el conductor lo abandone, por ejemplo para que baje un pasajero.", "ru": "Это знак R-308 «Стоянка запрещена» (одна красная полоса). Остановка разрешена: можно стоять менее двух минут, не покидая ТС, например чтобы высадить пассажира." }
+  },
+  {
+    "id": "B-SEN-0011", "topic": "senales", "source": "generada", "ref": "RGC art. 145.2.e; RGC anexo I, 5", "image": "/images/senales/r-402.svg",
+    "question": { "es": "¿Qué indica esta señal?", "ru": "Что означает этот знак?" },
+    "options": {
+      "a": { "es": "Peligro por la proximidad de una glorieta, sin ninguna obligación.", "ru": "Предупреждение о кольцевой развязке, без каких-либо обязанностей." },
+      "b": { "es": "Intersección de sentido giratorio obligatorio: hay que circular en el sentido que indican las flechas.", "ru": "Перекрёсток с круговым движением: нужно двигаться в направлении стрелок." },
+      "c": { "es": "Obligación de cambiar de sentido.", "ru": "Обязательный разворот." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Es una señal de obligación (circular y azul): la R-402 obliga a circular por la intersección en el sentido de giro indicado por las flechas. La señal de peligro que advierte de una glorieta es triangular.", "ru": "Это предписывающий знак (круглый синий): R-402 обязывает двигаться по перекрёстку в направлении, показанном стрелками. Предупреждающий знак о кольцевой развязке — треугольный." }
+  },
+  {
+    "id": "B-SEN-0012", "topic": "senales", "source": "generada", "ref": "RGC art. 144; RGC anexo I, 5", "image": "/images/senales/p-50.svg",
+    "question": { "es": "¿Qué indica esta señal?", "ru": "Что означает этот знак?" },
+    "options": {
+      "a": { "es": "Que es obligatorio detenerse.", "ru": "Что остановка обязательна." },
+      "b": { "es": "Que la vía está cortada.", "ru": "Что дорога перекрыта." },
+      "c": { "es": "Un peligro distinto de los que indican las demás señales de peligro, que suele precisarse con un panel complementario.", "ru": "Опасность, не указанную другими предупреждающими знаками; обычно её поясняет табличка." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Es la señal P-50, otros peligros. Las señales triangulares con borde rojo advierten de un peligro difícil de percibir a tiempo; la P-50 se usa cuando ese peligro no tiene una señal específica y su naturaleza puede indicarse con un panel complementario.", "ru": "Это знак P-50 «Прочие опасности». Треугольные знаки с красной каймой предупреждают об опасности, которую трудно вовремя заметить; P-50 используют, когда для неё нет специального знака, а её характер можно пояснить табличкой." }
+  },
+  {
+    "id": "B-SEN-0013", "topic": "senales", "source": "generada", "ref": "RGC art. 144; RGC anexo I, 5", "image": "/images/senales/p-25.svg", "needsReview": true,
+    "question": { "es": "¿De qué advierte esta señal?", "ru": "О чём предупреждает этот знак?" },
+    "options": {
+      "a": { "es": "De que se va a circular por una calzada con circulación en los dos sentidos.", "ru": "О том, что дальше движение по проезжей части в обоих направлениях." },
+      "b": { "es": "De que es obligatorio circular por el carril izquierdo.", "ru": "О том, что обязательно ехать по левой полосе." },
+      "c": { "es": "De que empieza una autovía.", "ru": "О начале скоростной дороги (autovía)." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Es la señal P-25, circulación en los dos sentidos: advierte de que, tras un tramo de sentido único o de calzadas separadas, se pasa a una calzada en la que se circula en ambos sentidos.", "ru": "Это знак P-25 «Двустороннее движение»: предупреждает, что после участка с односторонним движением или раздельными проезжими частями начинается проезжая часть с движением в обоих направлениях." }
+  },
+  {
+    "id": "B-SEN-0014", "topic": "senales", "source": "generada", "ref": "RGC art. 133",
+    "question": { "es": "Un semáforo está en verde, pero un agente le indica con el brazo levantado verticalmente que se detenga. ¿Qué debe hacer?", "ru": "Светофор зелёный, но регулировщик поднятой вертикально рукой показывает остановиться. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Seguir, porque el semáforo en verde le da paso.", "ru": "Ехать дальше, потому что зелёный свет разрешает движение." },
+      "b": { "es": "Detenerse, porque las señales de los agentes prevalecen sobre los semáforos.", "ru": "Остановиться, потому что сигналы регулировщика имеют приоритет над светофором." },
+      "c": { "es": "Detenerse solo si no hay otros vehículos detrás.", "ru": "Остановиться, только если сзади нет других ТС." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El orden de preferencia es: 1.º señales y órdenes de los agentes; 2.º señalización circunstancial y balizamiento; 3.º semáforos; 4.º señales verticales; 5.º marcas viales. La orden del agente prevalece sobre el semáforo.", "ru": "Порядок приоритета: 1) сигналы и указания регулировщиков; 2) временные знаки и ограждения; 3) светофоры; 4) вертикальные знаки; 5) разметка. Указание регулировщика важнее светофора." }
+  },
+  {
+    "id": "B-SEN-0015", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 1.1.a",
+    "question": { "es": "Usted ya ha entrado en una intersección cuando el agente que regula el tráfico levanta el brazo verticalmente. ¿Qué debe hacer?", "ru": "Вы уже въехали на перекрёсток, когда регулировщик поднял руку вертикально. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Detenerse inmediatamente en medio de la intersección.", "ru": "Немедленно остановиться посреди перекрёстка." },
+      "b": { "es": "Dar marcha atrás hasta salir de la intersección.", "ru": "Сдать назад и выехать с перекрёстка." },
+      "c": { "es": "Continuar con precaución: esa señal no obliga a detenerse a quienes ya han entrado en la intersección.", "ru": "Продолжать движение с осторожностью: этот сигнал не обязывает останавливаться тех, кто уже въехал на перекрёсток." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El brazo levantado verticalmente obliga a detenerse a quienes se acerquen al agente, salvo a quienes no puedan hacerlo con seguridad. Si se hace en una intersección, no obliga a detenerse a los conductores que ya hayan entrado en ella.", "ru": "Поднятая вертикально рука обязывает остановиться всех, кто приближается к регулировщику, кроме тех, кто не может сделать это безопасно. Если сигнал подан на перекрёстке, он не обязывает останавливаться водителей, уже въехавших на него." }
+  },
+  {
+    "id": "B-SEN-0016", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 4.2.d",
+    "question": { "es": "¿Qué obliga a hacer una luz amarilla intermitente en un semáforo para vehículos?", "ru": "Что обязывает делать мигающий жёлтый сигнал светофора для ТС?" },
+    "options": {
+      "a": { "es": "A extremar la precaución y, en su caso, ceder el paso.", "ru": "Быть предельно осторожным и при необходимости уступить дорогу." },
+      "b": { "es": "A detenerse siempre, como ante una luz roja.", "ru": "Всегда останавливаться, как на красный свет." },
+      "c": { "es": "A acelerar para cruzar antes de que cambie a rojo.", "ru": "Ускориться, чтобы проехать до красного сигнала." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La luz amarilla intermitente obliga a extremar la precaución y, en su caso, ceder el paso. Además, no exime de cumplir otras señales que obliguen a detenerse, como un STOP. Desde 2026, en los pasos para peatones con semáforo, esta luz no puede coincidir con el verde fijo de los peatones.", "ru": "Мигающий жёлтый обязывает быть предельно осторожным и при необходимости уступить дорогу. Он не отменяет других знаков, требующих остановки, например «STOP». С 2026 года на пешеходных переходах со светофором этот сигнал не может гореть одновременно с постоянным зелёным для пешеходов." }
+  },
+  {
+    "id": "B-SEN-0017", "topic": "senales", "source": "generada", "ref": "RGC anexo I, 4.2.c",
+    "question": { "es": "El semáforo cambia de verde a amarillo fijo cuando usted está tan cerca que no podría detenerse con seguridad. ¿Qué debe hacer?", "ru": "Светофор переключился с зелёного на постоянный жёлтый, когда вы так близко, что не можете безопасно остановиться. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Frenar bruscamente para detenerse antes del semáforo.", "ru": "Резко затормозить, чтобы остановиться перед светофором." },
+      "b": { "es": "Continuar la marcha, ya que no puede detenerse en condiciones de seguridad suficientes.", "ru": "Продолжить движение, раз безопасно остановиться невозможно." },
+      "c": { "es": "Dar marcha atrás.", "ru": "Сдать назад." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La luz amarilla fija obliga a detenerse igual que la roja, salvo que, cuando se enciende, el vehículo esté tan cerca que no pueda detenerse antes del semáforo con seguridad suficiente. En ese caso puede continuar.", "ru": "Постоянный жёлтый требует остановиться так же, как красный, кроме случая, когда в момент его включения ТС так близко, что не может безопасно остановиться перед светофором. Тогда можно продолжить движение." }
+  },
+  {
+    "id": "B-SEN-0018", "topic": "senales", "source": "generada", "ref": "RGC art. 171.c",
+    "question": { "es": "¿Qué significa una línea amarilla discontinua pintada en el bordillo?", "ru": "Что означает жёлтая прерывистая линия на бордюре?" },
+    "options": {
+      "a": { "es": "Que la parada y el estacionamiento están prohibidos.", "ru": "Что остановка и стоянка запрещены." },
+      "b": { "es": "Que es una zona de estacionamiento de pago.", "ru": "Что это зона платной стоянки." },
+      "c": { "es": "Que el estacionamiento está prohibido o sometido a alguna restricción temporal en ese lado.", "ru": "Что стоянка запрещена или временно ограничена на этой стороне." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La línea amarilla discontinua en el bordillo prohíbe el estacionamiento (o lo restringe temporalmente, según indiquen las señales) en toda su longitud y en ese lado. Si la línea amarilla es continua, prohíbe la parada y el estacionamiento.", "ru": "Жёлтая прерывистая линия на бордюре запрещает стоянку (или временно ограничивает её, как укажут знаки) по всей длине линии на этой стороне. Если жёлтая линия сплошная, запрещены и остановка, и стоянка." }
+  },
+  {
+    "id": "B-SEN-0019", "topic": "senales", "source": "generada", "ref": "RGC art. 171.a",
+    "question": { "es": "¿Qué indica una marca amarilla en zigzag junto al borde de la calzada?", "ru": "Что означает жёлтая зигзагообразная разметка у края проезжей части?" },
+    "options": {
+      "a": { "es": "Que está prohibido estacionar porque el lugar está reservado a un uso especial, como una parada de autobús.", "ru": "Что стоянка запрещена, так как место предназначено для особого использования, например для остановки автобуса." },
+      "b": { "es": "Un tramo con curvas peligrosas.", "ru": "Участок с опасными поворотами." },
+      "c": { "es": "Una zona de estacionamiento para motocicletas.", "ru": "Зону стоянки для мотоциклов." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La marca amarilla en zigzag indica que el estacionamiento está prohibido porque ese lugar está reservado a un uso especial que no implica una larga permanencia, como las paradas de autobús o la carga y descarga.", "ru": "Жёлтый зигзаг означает, что стоянка запрещена, потому что место отведено для особого кратковременного использования, например для остановки автобусов или погрузки и разгрузки." }
+  },
+  {
+    "id": "B-SEN-0020", "topic": "senales", "source": "generada", "ref": "RGC art. 133; RGC anexo I, 5 (2.5 y 2.6)",
+    "question": { "es": "Encuentra señales de peligro y de reglamentación con fondo naranja en lugar de blanco. ¿Qué indican?", "ru": "Вы видите предупреждающие и запрещающие знаки с оранжевым фоном вместо белого. Что это означает?" },
+    "options": {
+      "a": { "es": "Que son señales antiguas que ya no tienen validez.", "ru": "Что это старые знаки, которые больше не действуют." },
+      "b": { "es": "Señalización circunstancial que modifica el régimen normal de la vía por causas distintas a las obras, y que prevalece sobre semáforos, señales fijas y marcas viales.", "ru": "Временные знаки, меняющие обычный режим дороги по причинам, не связанным с ремонтом; они важнее светофоров, постоянных знаков и разметки." },
+      "c": { "es": "Que son solo recomendaciones.", "ru": "Что это лишь рекомендации." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Las señales de obras llevan fondo amarillo; la señalización circunstancial por otras causas usa el color naranja. Ambas modifican el régimen normal de la vía y, en el orden de preferencia, solo están por detrás de las órdenes de los agentes.", "ru": "Знаки дорожных работ имеют жёлтый фон, а временные знаки по другим причинам — оранжевый. И те и другие меняют обычный режим дороги и по приоритету уступают только указаниям регулировщиков." }
+  }
+]

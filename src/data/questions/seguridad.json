@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-SEG-0001", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.1",
+    "question": { "es": "¿En qué vías es obligatorio el cinturón de seguridad para el conductor y los ocupantes de un turismo?", "ru": "На каких дорогах водитель и пассажиры легкового автомобиля обязаны пристёгиваться ремнём безопасности?" },
+    "options": {
+      "a": { "es": "Solo en vías interurbanas.", "ru": "Только на загородных дорогах." },
+      "b": { "es": "Tanto en vías urbanas como interurbanas.", "ru": "И в городе, и за городом." },
+      "c": { "es": "Solo en autopistas y autovías.", "ru": "Только на автомагистралях и autovías." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El conductor y los ocupantes deben usar los cinturones de seguridad homologados, debidamente abrochados, tanto en vías urbanas como interurbanas.", "ru": "Водитель и пассажиры должны пользоваться сертифицированными ремнями, правильно пристёгнутыми, как в городе, так и за городом." }
+  },
+  {
+    "id": "B-SEG-0002", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.1 y 117.3",
+    "question": { "es": "¿Qué deben utilizar los menores de edad que miden 135 cm o menos cuando viajan en un turismo?", "ru": "Чем должны пользоваться несовершеннолетние ростом 135 см и ниже в легковом автомобиле?" },
+    "options": {
+      "a": { "es": "El cinturón de seguridad para adultos.", "ru": "Взрослым ремнём безопасности." },
+      "b": { "es": "Ningún sistema, si van en el asiento trasero.", "ru": "Ничем, если они сидят сзади." },
+      "c": { "es": "Un sistema de retención infantil homologado adaptado a su talla y peso.", "ru": "Сертифицированным детским удерживающим устройством по росту и весу." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los menores de estatura igual o inferior a 135 cm deben usar sistemas de retención infantil homologados adaptados a su talla y peso, y como norma general viajar en los asientos traseros.", "ru": "Несовершеннолетние ростом 135 см и ниже должны пользоваться сертифицированными детскими удерживающими устройствами по росту и весу и, как правило, ездить на задних сиденьях." }
+  },
+  {
+    "id": "B-SEG-0003", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.3",
+    "question": { "es": "En un turismo, ¿dónde deben viajar, como norma general, los menores que miden 135 cm o menos?", "ru": "Где, по общему правилу, должны ехать в легковом автомобиле несовершеннолетние ростом 135 см и ниже?" },
+    "options": {
+      "a": { "es": "En los asientos traseros.", "ru": "На задних сиденьях." },
+      "b": { "es": "En el asiento del copiloto, para vigilarlos mejor.", "ru": "На переднем пассажирском сиденье, чтобы лучше за ними следить." },
+      "c": { "es": "Donde quieran, si llevan sistema de retención.", "ru": "Где угодно, если есть удерживающее устройство." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En vehículos de hasta nueve plazas, estos menores deben situarse en los asientos traseros con un sistema de retención adecuado. Solo pueden ir delante en casos excepcionales previstos por la norma.", "ru": "В ТС до девяти мест такие дети должны сидеть сзади в подходящем удерживающем устройстве. Впереди — только в исключительных случаях, предусмотренных правилами." }
+  },
+  {
+    "id": "B-SEG-0004", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.3",
+    "question": { "es": "¿En cuál de estos casos puede viajar en el asiento delantero un niño de 120 cm, con su sistema de retención homologado?", "ru": "В каком из этих случаев ребёнок ростом 120 см может ехать на переднем сиденье в сертифицированном удерживающем устройстве?" },
+    "options": {
+      "a": { "es": "Cuando el viaje es corto.", "ru": "Если поездка короткая." },
+      "b": { "es": "Cuando todos los asientos traseros ya están ocupados por otros menores de 135 cm o menos.", "ru": "Если все задние сиденья уже заняты другими детьми ростом 135 см и ниже." },
+      "c": { "es": "Cuando el niño lo prefiere.", "ru": "Если ребёнок так хочет." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Excepcionalmente pueden ir delante, con su sistema de retención: si el vehículo no tiene asientos traseros, si todos los traseros están ocupados por otros menores de 135 cm o menos, o si no es posible instalar atrás todos los sistemas de retención.", "ru": "В виде исключения они могут ехать впереди в удерживающем устройстве: если в ТС нет задних сидений, если все задние заняты другими детьми ростом 135 см и ниже или если сзади невозможно установить все устройства." }
+  },
+  {
+    "id": "B-SEG-0005", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.3",
+    "question": { "es": "Si un bebé viaja delante en una silla orientada hacia atrás y el asiento tiene airbag frontal, ¿qué hay que hacer?", "ru": "Что нужно сделать, если младенец едет впереди в кресле, установленном против хода движения, а у сиденья есть фронтальная подушка безопасности?" },
+    "options": {
+      "a": { "es": "Nada: el airbag protege al bebé.", "ru": "Ничего: подушка защитит младенца." },
+      "b": { "es": "Girar la silla para que mire hacia delante.", "ru": "Развернуть кресло лицом вперёд." },
+      "c": { "es": "Desactivar el airbag; solo así se puede usar un sistema orientado hacia atrás.", "ru": "Отключить подушку безопасности: только так можно использовать кресло против хода движения." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Si el menor ocupa el asiento delantero y el vehículo tiene airbag frontal, solo puede usar un sistema de retención orientado hacia atrás si el airbag está desactivado, porque al inflarse golpearía la silla.", "ru": "Если ребёнок сидит впереди, а у ТС есть фронтальная подушка, кресло против хода движения допускается только при отключённой подушке: при срабатывании она ударила бы по креслу." }
+  },
+  {
+    "id": "B-SEG-0006", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.4",
+    "question": { "es": "¿Cómo deben instalarse los sistemas de retención infantil?", "ru": "Как нужно устанавливать детские удерживающие устройства?" },
+    "options": {
+      "a": { "es": "Siempre según las instrucciones de su fabricante.", "ru": "Всегда по инструкции производителя." },
+      "b": { "es": "Como mejor encajen en el asiento.", "ru": "Как они лучше встанут на сиденье." },
+      "c": { "es": "Sujetos solo con el cinturón, aunque el fabricante indique otra forma.", "ru": "Только ремнём, даже если производитель указывает иначе." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los sistemas de retención infantil se instalan siempre de acuerdo con las instrucciones del fabricante, que indican de qué forma y en qué vehículos se pueden usar de forma segura.", "ru": "Детские удерживающие устройства всегда устанавливают по инструкции производителя, где указано, как и в каких ТС ими можно безопасно пользоваться." }
+  },
+  {
+    "id": "B-SEG-0007", "topic": "seguridad", "source": "generada", "ref": "RGC art. 119.1.a",
+    "question": { "es": "¿En qué momento puede el conductor de un turismo circular sin el cinturón abrochado?", "ru": "Когда водитель легкового автомобиля может ехать непристёгнутым?" },
+    "options": {
+      "a": { "es": "En trayectos urbanos cortos.", "ru": "В коротких поездках по городу." },
+      "b": { "es": "Al hacer la maniobra de marcha atrás o de estacionamiento.", "ru": "При движении задним ходом или парковке." },
+      "c": { "es": "Cuando circula a menos de 30 km/h.", "ru": "При скорости менее 30 км/ч." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los conductores pueden circular sin cinturón solo mientras hacen la maniobra de marcha atrás o de estacionamiento. También están exentas las personas con certificado de exención por razones médicas graves.", "ru": "Водители могут не пристёгиваться только во время движения задним ходом или парковки. Освобождены также люди с медицинской справкой об освобождении по серьёзным причинам." }
+  },
+  {
+    "id": "B-SEG-0008", "topic": "seguridad", "source": "generada", "ref": "RGC art. 119 (apartado 3 suprimido por el RD 518/2026)",
+    "question": { "es": "Desde octubre de 2026, ¿debe llevar el cinturón abrochado un taxista que circula de servicio por la ciudad?", "ru": "Должен ли с октября 2026 года пристёгиваться таксист, работающий в городе?" },
+    "options": {
+      "a": { "es": "No, los taxistas de servicio están exentos.", "ru": "Нет, таксисты при исполнении освобождены." },
+      "b": { "es": "Solo si lleva pasajeros.", "ru": "Только если везёт пассажиров." },
+      "c": { "es": "Sí: la exención que tenían los taxistas se ha suprimido.", "ru": "Да: прежнее освобождение для таксистов отменено." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La reforma del Reglamento General de Circulación de 2026 suprimió las exenciones de taxistas de servicio, repartidores e instructores de autoescuela. Hoy deben llevar el cinturón como cualquier conductor.", "ru": "Реформа Общего регламента дорожного движения 2026 года отменила освобождение для таксистов при исполнении, курьеров и инструкторов автошкол. Теперь они должны пристёгиваться, как любой водитель." }
+  },
+  {
+    "id": "B-SEG-0009", "topic": "seguridad", "source": "generada", "ref": "RGC art. 119.2",
+    "question": { "es": "¿Quién puede ir sin cinturón en cualquier tipo de vía?", "ru": "Кто может не пристёгиваться на любой дороге?" },
+    "options": {
+      "a": { "es": "Los pasajeros de una ambulancia asistencial en servicio de urgencia que ocupan el habitáculo del paciente para atenderle.", "ru": "Пассажиры реанимобиля при срочном вызове, находящиеся в отсеке пациента, чтобы оказывать ему помощь." },
+      "b": { "es": "Los conductores de vehículos de reparto.", "ru": "Водители, развозящие товары." },
+      "c": { "es": "Los pasajeros de los asientos traseros.", "ru": "Пассажиры задних сидений." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los conductores y pasajeros de vehículos de urgencia en servicio solo están exentos en poblado. Pero los pasajeros de las ambulancias asistenciales que atienden al paciente en ruta están exentos en todo tipo de vías.", "ru": "Водители и пассажиры экстренных ТС при исполнении освобождены только в населённых пунктах. А пассажиры реанимобилей, оказывающие помощь пациенту в пути, освобождены на любых дорогах." }
+  },
+  {
+    "id": "B-SEG-0010", "topic": "seguridad", "source": "generada", "ref": "RGC art. 119.2",
+    "question": { "es": "En un taxi que circula por ciudad, ¿puede viajar un niño de 120 cm sin sistema de retención infantil?", "ru": "Может ли ребёнок ростом 120 см ехать в такси по городу без детского удерживающего устройства?" },
+    "options": {
+      "a": { "es": "No, nunca.", "ru": "Нет, никогда." },
+      "b": { "es": "Sí, siempre que ocupe un asiento trasero.", "ru": "Да, если он сидит сзади." },
+      "c": { "es": "Sí, en el asiento delantero.", "ru": "Да, на переднем сиденье." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Cuando los taxis circulan en tráfico urbano o áreas urbanas de grandes ciudades pueden transportar a personas de menos de 135 cm sin sistema de retención adaptado, siempre que ocupen un asiento trasero.", "ru": "Такси в городском движении или городской зоне крупных городов могут перевозить людей ростом менее 135 см без детского удерживающего устройства, если те сидят сзади." }
+  },
+  {
+    "id": "B-SEG-0011", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.2",
+    "question": { "es": "En un autobús equipado con cinturones, ¿qué deben utilizar los pasajeros de tres o más años que miden 135 cm o menos?", "ru": "Чем должны пользоваться в автобусе с ремнями безопасности пассажиры от трёх лет ростом 135 см и ниже?" },
+    "options": {
+      "a": { "es": "Nada, porque es un transporte colectivo.", "ru": "Ничем, ведь это общественный транспорт." },
+      "b": { "es": "Solo pueden viajar en brazos de un adulto.", "ru": "Им можно ехать только на руках у взрослого." },
+      "c": { "es": "Un sistema de retención infantil adaptado o, si no lo hay, el cinturón si es adecuado a su talla y peso.", "ru": "Подходящим детским удерживающим устройством, а если его нет — ремнём, если он подходит по росту и весу." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En vehículos de más de nueve plazas, los menores de 135 cm o menos de tres o más años deben usar sistemas de retención infantil adaptados; si no hay, usarán los cinturones si son adecuados a su talla y peso. El conductor o el guía debe informar de la obligación de abrocharse.", "ru": "В ТС более чем на девять мест дети от трёх лет ростом 135 см и ниже должны пользоваться подходящими удерживающими устройствами, а при их отсутствии — ремнями, если те подходят по росту и весу. Водитель или гид обязан сообщить пассажирам о необходимости пристегнуться." }
+  },
+  {
+    "id": "B-SEG-0012", "topic": "seguridad", "source": "generada", "ref": "RGC art. 118.1.a",
+    "question": { "es": "¿Qué casco deben llevar el conductor y el pasajero de una motocicleta?", "ru": "Какой шлем должны носить водитель и пассажир мотоцикла?" },
+    "options": {
+      "a": { "es": "Un casco homologado (Reglamento UNECE R22), bien abrochado, en todo tipo de vías.", "ru": "Сертифицированный шлем (Правила ООН № 22), правильно застёгнутый, на любой дороге." },
+      "b": { "es": "Cualquier casco, solo en vías interurbanas.", "ru": "Любой шлем, только на загородных дорогах." },
+      "c": { "es": "El casco solo es obligatorio para el conductor.", "ru": "Шлем обязателен только для водителя." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Conductores y pasajeros de motocicletas, vehículos de tres ruedas, cuadriciclos, ciclomotores y quads deben usar casco homologado conforme al Reglamento UNECE R22, adecuadamente abrochado, en todo tipo de vías.", "ru": "Водители и пассажиры мотоциклов, трёхколёсных ТС, квадрициклов, мопедов и квадроциклов обязаны носить шлем, сертифицированный по Правилам ООН № 22, правильно застёгнутый, на любых дорогах." }
+  },
+  {
+    "id": "B-SEG-0013", "topic": "seguridad", "source": "generada", "ref": "RGC art. 118.1.b",
+    "question": { "es": "Desde octubre de 2026, ¿cuándo deben llevar guantes de protección los motoristas?", "ru": "Когда с октября 2026 года мотоциклисты обязаны носить защитные перчатки?" },
+    "options": {
+      "a": { "es": "Solo cuando llueve.", "ru": "Только в дождь." },
+      "b": { "es": "Cuando circulan por vías interurbanas.", "ru": "При движении по загородным дорогам." },
+      "c": { "es": "Nunca son obligatorios.", "ru": "Они никогда не обязательны." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Además del casco, conductores y pasajeros de motocicletas, ciclomotores y vehículos similares deben usar guantes de protección cuando circulan por vías interurbanas, y calzado cerrado que cubra todo el pie en todo tipo de vías.", "ru": "Помимо шлема, водители и пассажиры мотоциклов, мопедов и подобных ТС должны носить защитные перчатки на загородных дорогах и закрытую обувь, полностью закрывающую стопу, на любых дорогах." }
+  },
+  {
+    "id": "B-SEG-0014", "topic": "seguridad", "source": "generada", "ref": "RGC art. 118.1.c",
+    "question": { "es": "¿Qué calzado deben llevar el conductor y el pasajero de un ciclomotor?", "ru": "Какую обувь должны носить водитель и пассажир мопеда?" },
+    "options": {
+      "a": { "es": "Cualquiera, incluso sandalias.", "ru": "Любую, даже сандалии." },
+      "b": { "es": "Botas de motorista homologadas, solo en autovía.", "ru": "Сертифицированные мотоботы, только на autovía." },
+      "c": { "es": "Calzado cerrado que cubra todo el pie, en todo tipo de vías.", "ru": "Закрытую обувь, полностью закрывающую стопу, на любых дорогах." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Desde la reforma de 2026, conductores y pasajeros de motocicletas, ciclomotores, vehículos de tres ruedas, cuadriciclos y quads deben llevar calzado cerrado que cubra todo el pie en todo tipo de vías, salvo que el vehículo tenga estructura de autoprotección y cinturones.", "ru": "После реформы 2026 года водители и пассажиры мотоциклов, мопедов, трёхколёсных ТС, квадрициклов и квадроциклов должны носить закрытую обувь, полностью закрывающую стопу, на любых дорогах, если у ТС нет защитного каркаса с ремнями." }
+  },
+  {
+    "id": "B-SEG-0015", "topic": "seguridad", "source": "generada", "ref": "RGC art. 118.2",
+    "question": { "es": "¿Cuándo es obligatorio el casco para un ciclista adulto que no circula por trabajo?", "ru": "Когда шлем обязателен для взрослого велосипедиста, который едет не по работе?" },
+    "options": {
+      "a": { "es": "En las vías interurbanas.", "ru": "На загородных дорогах." },
+      "b": { "es": "Nunca.", "ru": "Никогда." },
+      "c": { "es": "Solo en ciudad.", "ru": "Только в городе." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los ciclistas deben llevar casco homologado o certificado, bien abrochado, en vías interurbanas; los menores de 16 años, en todo tipo de vías. Quienes circulan en bicicleta por trabajo también deben llevarlo en vías urbanas y travesías. Desde 2026 ya no hay exenciones por calor o pendientes.", "ru": "Велосипедисты должны носить сертифицированный шлем, правильно застёгнутый, на загородных дорогах; дети до 16 лет — на любых дорогах. Те, кто ездит на велосипеде по работе, обязаны носить его и в городе. С 2026 года исключений из-за жары или подъёмов больше нет." }
+  },
+  {
+    "id": "B-SEG-0016", "topic": "seguridad", "source": "generada", "ref": "RGC art. 118.3",
+    "question": { "es": "¿Deben llevar casco los conductores de vehículos de movilidad personal (patinetes eléctricos)?", "ru": "Должны ли носить шлем водители средств индивидуальной мобильности (электросамокатов)?" },
+    "options": {
+      "a": { "es": "Solo los menores de 16 años.", "ru": "Только дети до 16 лет." },
+      "b": { "es": "Sí, siempre, casco homologado o certificado bien abrochado.", "ru": "Да, всегда — сертифицированный шлем, правильно застёгнутый." },
+      "c": { "es": "No, es solo recomendable.", "ru": "Нет, это лишь рекомендуется." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los conductores de vehículos de movilidad personal están obligados a usar casco homologado o certificado, adecuadamente abrochado. De noche o con poca visibilidad deben llevar además un elemento luminoso o reflectante visible a 150 metros.", "ru": "Водители средств индивидуальной мобильности обязаны носить сертифицированный шлем, правильно застёгнутый. Ночью или при плохой видимости они также должны иметь светящийся или светоотражающий элемент, заметный с 150 метров." }
+  },
+  {
+    "id": "B-SEG-0017", "topic": "seguridad", "source": "generada", "ref": "RGC art. 118.4",
+    "question": { "es": "¿Cuándo debe ponerse el chaleco reflectante el conductor de un turismo?", "ru": "Когда водитель легкового автомобиля должен надеть светоотражающий жилет?" },
+    "options": {
+      "a": { "es": "Siempre que conduzca de noche.", "ru": "Всегда, когда едет ночью." },
+      "b": { "es": "Solo si un agente se lo pide.", "ru": "Только если попросит агент." },
+      "c": { "es": "Cuando salga del vehículo y ocupe la calzada o el arcén de una vía interurbana.", "ru": "Когда выходит из машины на проезжую часть или обочину загородной дороги." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los conductores de turismos, motocicletas, autobuses, vehículos de mercancías, mixtos y conjuntos deben usar el chaleco reflectante de alta visibilidad, que forma parte de la dotación obligatoria, cuando salgan del vehículo y ocupen la calzada o el arcén de una vía interurbana.", "ru": "Водители легковых автомобилей, мотоциклов, автобусов, грузовых, грузопассажирских ТС и автопоездов должны надевать светоотражающий жилет из обязательного комплекта, когда выходят из ТС на проезжую часть или обочину загородной дороги." }
+  },
+  {
+    "id": "B-SEG-0018", "topic": "seguridad", "source": "generada", "ref": "RGC art. 119.1.b",
+    "question": { "es": "Una persona con un certificado médico de exención del cinturón viaja en un turismo. ¿Qué debe hacer con ese certificado?", "ru": "Человек со справкой об освобождении от ремня по медицинским причинам едет в легковом автомобиле. Что делать со справкой?" },
+    "options": {
+      "a": { "es": "Llevarlo y presentarlo cuando se lo pida un agente.", "ru": "Иметь её при себе и предъявлять по требованию агента." },
+      "b": { "es": "Pegarlo en el parabrisas.", "ru": "Наклеить на лобовое стекло." },
+      "c": { "es": "Nada: la exención es automática.", "ru": "Ничего: освобождение действует автоматически." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Las personas con certificado de exención por razones médicas graves o con discapacidad pueden circular sin cinturón, pero deben presentar el certificado cuando lo requiera un agente. Los expedidos en otro Estado de la UE valen con su traducción oficial.", "ru": "Люди со справкой об освобождении по серьёзным медицинским причинам или по инвалидности могут не пристёгиваться, но должны предъявлять справку по требованию агента. Справки из других стран ЕС действуют с официальным переводом." }
+  },
+  {
+    "id": "B-SEG-0019", "topic": "seguridad", "source": "generada", "ref": "RGC art. 117.1",
+    "question": { "es": "En un turismo, ¿quién está obligado a llevar el cinturón de seguridad abrochado?", "ru": "Кто в легковом автомобиле обязан пристёгиваться?" },
+    "options": {
+      "a": { "es": "Solo el conductor y el copiloto.", "ru": "Только водитель и передний пассажир." },
+      "b": { "es": "El conductor y todos los ocupantes, delante y detrás.", "ru": "Водитель и все пассажиры, спереди и сзади." },
+      "c": { "es": "Solo los ocupantes de los asientos delanteros en vías interurbanas.", "ru": "Только сидящие впереди на загородных дорогах." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La obligación de usar el cinturón alcanza al conductor y a todos los ocupantes, en los asientos delanteros y traseros, en cualquier vía. Los menores de 135 cm o menos usarán un sistema de retención infantil.", "ru": "Обязанность пристёгиваться касается водителя и всех пассажиров, впереди и сзади, на любой дороге. Дети ростом 135 см и ниже должны сидеть в детских удерживающих устройствах." }
+  },
+  {
+    "id": "B-SEG-0020", "topic": "seguridad", "source": "generada", "ref": "RGC art. 118.2",
+    "question": { "es": "Un ciclista circula de noche por una carretera. Además del alumbrado de la bicicleta, ¿qué debe llevar?", "ru": "Велосипедист едет ночью по загородной дороге. Что ему нужно иметь, кроме освещения велосипеда?" },
+    "options": {
+      "a": { "es": "Nada más.", "ru": "Больше ничего." },
+      "b": { "es": "Un chaleco de cualquier color.", "ru": "Жилет любого цвета." },
+      "c": { "es": "Al menos un elemento luminoso o reflectante, visible a 150 metros.", "ru": "Хотя бы один светящийся или светоотражающий элемент, видимый с 150 метров." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los ciclistas que circulen por vía interurbana entre el ocaso y la salida del sol, o con poca visibilidad, deben llevar al menos un elemento luminoso o reflectante que sea visible a una distancia mínima de 150 metros.", "ru": "Велосипедисты на загородной дороге в тёмное время суток или при плохой видимости должны иметь хотя бы один светящийся или светоотражающий элемент, видимый на расстоянии не менее 150 метров." }
+  }
+]

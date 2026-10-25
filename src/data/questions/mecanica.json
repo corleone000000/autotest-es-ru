@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-MEC-0001", "topic": "mecanica", "source": "generada", "ref": "RGV anexo VII",
+    "question": { "es": "¿Qué profundidad mínima deben tener las ranuras principales del dibujo de los neumáticos de un turismo?", "ru": "Какой минимальной глубины должен быть рисунок протектора в основных канавках шин легкового автомобиля?" },
+    "options": {
+      "a": { "es": "1 mm.", "ru": "1 мм." },
+      "b": { "es": "1,6 mm.", "ru": "1,6 мм." },
+      "c": { "es": "3 mm.", "ru": "3 мм." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los neumáticos de turismos, furgonetas ligeras y remolques ligeros deben tener, durante toda su utilización, una profundidad mínima de 1,6 mm en las ranuras principales de la banda de rodadura. Con menos dibujo evacuan peor el agua.", "ru": "Шины легковых автомобилей, лёгких фургонов и лёгких прицепов на протяжении всей эксплуатации должны иметь глубину основных канавок протектора не менее 1,6 мм. С меньшим рисунком они хуже отводят воду." }
+  },
+  {
+    "id": "B-MEC-0002", "topic": "mecanica", "source": "generada", "ref": "RGV art. 10; RD 920/2017, art. 6",
+    "question": { "es": "¿Cuándo debe pasar un turismo particular nuevo su primera inspección técnica (ITV)?", "ru": "Когда новый частный легковой автомобиль должен пройти первый техосмотр (ITV)?" },
+    "options": {
+      "a": { "es": "Al año de su matriculación.", "ru": "Через год после регистрации." },
+      "b": { "es": "A los dos años.", "ru": "Через два года." },
+      "c": { "es": "A los cuatro años.", "ru": "Через четыре года." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los turismos de uso particular están exentos de ITV durante sus primeros cuatro años. Después pasan la inspección cada dos años hasta los diez años de antigüedad y, a partir de entonces, cada año.", "ru": "Частные легковые автомобили освобождены от техосмотра в первые четыре года. Затем его проходят каждые два года до десяти лет, а после — ежегодно." }
+  },
+  {
+    "id": "B-MEC-0003", "topic": "mecanica", "source": "generada", "ref": "RGV art. 10; RD 920/2017, art. 6",
+    "question": { "es": "Un turismo particular tiene siete años. ¿Con qué periodicidad debe pasar la ITV?", "ru": "Частному легковому автомобилю семь лет. Как часто он должен проходить техосмотр?" },
+    "options": {
+      "a": { "es": "Cada dos años.", "ru": "Раз в два года." },
+      "b": { "es": "Cada año.", "ru": "Каждый год." },
+      "c": { "es": "Cada cuatro años.", "ru": "Раз в четыре года." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Entre los cuatro y los diez años de antigüedad, los turismos particulares pasan la ITV cada dos años. A partir de los diez años, cada año.", "ru": "С четырёх до десяти лет частные легковые автомобили проходят техосмотр раз в два года. После десяти лет — ежегодно." }
+  },
+  {
+    "id": "B-MEC-0004", "topic": "mecanica", "source": "generada", "ref": "RGV art. 10; RD 920/2017, art. 6",
+    "question": { "es": "Un turismo particular tiene doce años. ¿Cada cuánto debe pasar la ITV?", "ru": "Частному легковому автомобилю двенадцать лет. Как часто ему нужен техосмотр?" },
+    "options": {
+      "a": { "es": "Cada dos años.", "ru": "Раз в два года." },
+      "b": { "es": "Cada año.", "ru": "Каждый год." },
+      "c": { "es": "Cada seis meses.", "ru": "Раз в полгода." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los turismos de uso particular con más de diez años de antigüedad deben pasar la inspección técnica anualmente.", "ru": "Частные легковые автомобили старше десяти лет должны проходить техосмотр ежегодно." }
+  },
+  {
+    "id": "B-MEC-0005", "topic": "mecanica", "source": "generada", "ref": "RGV anexo XII, 1",
+    "question": { "es": "¿Qué dotación obligatoria debe llevar un turismo?", "ru": "Какой обязательный комплект должен быть в легковом автомобиле?" },
+    "options": {
+      "a": { "es": "Dos triángulos de emergencia y un botiquín.", "ru": "Два аварийных треугольника и аптечка." },
+      "b": { "es": "Un extintor y un juego de lámparas de repuesto.", "ru": "Огнетушитель и запасные лампы." },
+      "c": { "es": "El dispositivo V-16, un chaleco reflectante y una rueda de repuesto (o una alternativa con sus herramientas).", "ru": "Маячок V-16, светоотражающий жилет и запасное колесо (или альтернативное решение с инструментами)." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los turismos deben llevar el dispositivo luminoso de preseñalización de peligro V-16, un chaleco reflectante de alta visibilidad y una rueda de repuesto o de uso temporal con sus herramientas, o un sistema alternativo. El extintor es obligatorio en autobuses y vehículos de más de 3.500 kg.", "ru": "В легковом автомобиле должны быть световой знак аварийной остановки V-16, светоотражающий жилет и запасное или временное колесо с инструментами (или альтернативная система). Огнетушитель обязателен в автобусах и ТС массой более 3500 кг." }
+  },
+  {
+    "id": "B-MEC-0006", "topic": "mecanica", "source": "generada", "ref": "RGV anexo XII, 1.a; RD 159/2021",
+    "question": { "es": "Desde el 1 de enero de 2026, ¿qué dispositivo hay que usar para preseñalizar un vehículo inmovilizado en la vía?", "ru": "Каким устройством с 1 января 2026 года нужно обозначать ТС, остановившееся на дороге?" },
+    "options": {
+      "a": { "es": "La luz V-16 conectada, colocada en la parte más alta del vehículo.", "ru": "Подключённым маячком V-16 на самой высокой точке ТС." },
+      "b": { "es": "Dos triángulos, a 50 metros por delante y por detrás.", "ru": "Двумя треугольниками в 50 метрах спереди и сзади." },
+      "c": { "es": "Solo las luces de emergencia.", "ru": "Только аварийной сигнализацией." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Desde 2026 los triángulos ya no sirven como preseñalización: el único dispositivo válido es la luz V-16 conectada, que se coloca en la parte más alta del vehículo sin necesidad de caminar por la vía y comunica su ubicación a la plataforma DGT 3.0.", "ru": "С 2026 года треугольники больше не считаются знаком аварийной остановки: единственное допустимое устройство — подключённый маячок V-16, который ставят на самую высокую точку ТС, не выходя на дорогу; он передаёт местоположение на платформу DGT 3.0." }
+  },
+  {
+    "id": "B-MEC-0007", "topic": "mecanica", "source": "generada", "ref": "RGV anexo XII, 1.c",
+    "question": { "es": "Su turismo no lleva rueda de repuesto, sino un kit antipinchazos. ¿Es legal?", "ru": "В вашем легковом автомобиле нет запасного колеса, а есть набор для ремонта проколов. Это законно?" },
+    "options": {
+      "a": { "es": "No, la rueda de repuesto completa es siempre obligatoria.", "ru": "Нет, полноразмерное запасное колесо обязательно всегда." },
+      "b": { "es": "Sí: se admite un sistema alternativo que garantice la movilidad, respetando sus limitaciones de uso.", "ru": "Да: допускается альтернативная система, обеспечивающая возможность движения, с соблюдением её ограничений." },
+      "c": { "es": "Solo en vehículos eléctricos.", "ru": "Только в электромобилях." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La dotación admite una rueda completa de repuesto, una rueda de uso temporal o un sistema alternativo al cambio de rueda que ofrezca garantías suficientes para la movilidad. En cada caso se circulará respetando las limitaciones de esa alternativa, como una velocidad máxima.", "ru": "В комплект допускается полноразмерное запасное колесо, временное колесо или альтернатива замене колеса, достаточно гарантирующая возможность движения. В каждом случае нужно соблюдать её ограничения, например по максимальной скорости." }
+  },
+  {
+    "id": "B-MEC-0008", "topic": "mecanica", "source": "generada", "ref": "RGV anexo XII, 3",
+    "question": { "es": "Desde octubre de 2026, ¿qué elemento de la dotación deben llevar también las motocicletas?", "ru": "Что с октября 2026 года обязаны возить с собой и мотоциклы?" },
+    "options": {
+      "a": { "es": "Un extintor.", "ru": "Огнетушитель." },
+      "b": { "es": "Una rueda de repuesto.", "ru": "Запасное колесо." },
+      "c": { "es": "Un chaleco reflectante de alta visibilidad.", "ru": "Светоотражающий жилет повышенной видимости." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La reforma de 2026 añadió que las motocicletas deben llevar un chaleco reflectante de alta visibilidad que reúna los requisitos de los equipos de protección individual.", "ru": "Реформа 2026 года добавила обязанность возить на мотоцикле светоотражающий жилет повышенной видимости, соответствующий требованиям к средствам индивидуальной защиты." }
+  },
+  {
+    "id": "B-MEC-0009", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Cuándo debe comprobarse la presión de inflado de los neumáticos?", "ru": "Когда нужно проверять давление в шинах?" },
+    "options": {
+      "a": { "es": "Con los neumáticos en frío.", "ru": "На холодных шинах." },
+      "b": { "es": "Justo después de un viaje largo por autopista.", "ru": "Сразу после долгой поездки по автомагистрали." },
+      "c": { "es": "Solo en la ITV.", "ru": "Только на техосмотре." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La presión se mide en frío, porque al circular el aire se calienta y la presión aumenta. Lo recomendable es revisarla con frecuencia, también la de la rueda de repuesto, y ajustarla a los valores del fabricante.", "ru": "Давление измеряют на холодных шинах: при движении воздух нагревается и давление растёт. Проверять его рекомендуется часто, в том числе в запасном колесе, и выставлять по значениям производителя." }
+  },
+  {
+    "id": "B-MEC-0010", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué ocurre si circula con los neumáticos con una presión inferior a la recomendada?", "ru": "Что происходит, если ездить с давлением в шинах ниже рекомендованного?" },
+    "options": {
+      "a": { "es": "Mejora la adherencia y baja el consumo.", "ru": "Улучшается сцепление и снижается расход." },
+      "b": { "es": "Aumentan el consumo y el desgaste en los bordes del neumático, y empeora la estabilidad.", "ru": "Растут расход топлива и износ краёв протектора, ухудшается устойчивость." },
+      "c": { "es": "No tiene ningún efecto.", "ru": "Ни на что не влияет." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Con poca presión la banda de rodadura se apoya sobre todo por los bordes, que se desgastan más; aumenta la resistencia a la rodadura y el consumo, se calienta el neumático y empeoran la estabilidad y la frenada.", "ru": "При низком давлении шина опирается в основном на края протектора, которые изнашиваются сильнее; растут сопротивление качению и расход, шина перегревается, ухудшаются устойчивость и торможение." }
+  },
+  {
+    "id": "B-MEC-0011", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma); RGC art. 46.1.g",
+    "question": { "es": "Si su vehículo sufre aquaplaning en un charco, ¿qué debe hacer?", "ru": "Что делать, если в луже у машины начался аквапланинг?" },
+    "options": {
+      "a": { "es": "Frenar a fondo.", "ru": "Резко затормозить до упора." },
+      "b": { "es": "Girar el volante con fuerza hacia el arcén.", "ru": "Резко повернуть руль к обочине." },
+      "c": { "es": "Soltar el acelerador, no frenar bruscamente y sujetar el volante firme y recto.", "ru": "Отпустить педаль газа, не тормозить резко и держать руль крепко и прямо." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En el aquaplaning los neumáticos pierden contacto con el asfalto. Hay que soltar el acelerador, no frenar ni girar bruscamente y mantener el volante recto hasta recuperar la adherencia. Para evitarlo: moderar la velocidad con agua en la calzada y llevar buen dibujo.", "ru": "При аквапланинге шины теряют контакт с асфальтом. Нужно отпустить газ, не тормозить и не поворачивать резко и держать руль прямо, пока сцепление не восстановится. Чтобы этого избежать, снижайте скорость на мокрой дороге и следите за протектором." }
+  },
+  {
+    "id": "B-MEC-0012", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué ventaja principal aporta el sistema ABS en una frenada de emergencia?", "ru": "Какое главное преимущество даёт АБС при экстренном торможении?" },
+    "options": {
+      "a": { "es": "Evita que las ruedas se bloqueen, de modo que se puede seguir dirigiendo el vehículo.", "ru": "Не даёт колёсам заблокироваться, поэтому машиной можно продолжать управлять." },
+      "b": { "es": "Hace que el vehículo se detenga siempre en menos metros, en cualquier superficie.", "ru": "Всегда сокращает тормозной путь на любом покрытии." },
+      "c": { "es": "Permite frenar sin pisar el pedal.", "ru": "Позволяет тормозить, не нажимая педаль." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El ABS impide el bloqueo de las ruedas al frenar con fuerza, lo que permite mantener el control de la dirección para esquivar un obstáculo. En emergencia se pisa el freno a fondo y se mantiene. No garantiza menos distancia de frenado en todas las superficies, por ejemplo en grava o nieve.", "ru": "АБС не даёт колёсам заблокироваться при сильном торможении, сохраняя управляемость, чтобы объехать препятствие. В экстренной ситуации педаль нажимают до упора и держат. На любом покрытии, например на гравии или снегу, более короткий тормозной путь она не гарантирует." }
+  },
+  {
+    "id": "B-MEC-0013", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Se enciende en rojo el testigo de temperatura del motor. ¿Qué debe hacer?", "ru": "Загорелся красный индикатор температуры двигателя. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Acelerar para que entre más aire al radiador.", "ru": "Прибавить газу, чтобы к радиатору поступало больше воздуха." },
+      "b": { "es": "Abrir inmediatamente el tapón del radiador para que se enfríe.", "ru": "Сразу открыть крышку радиатора, чтобы он остыл." },
+      "c": { "es": "Detenerse en un lugar seguro, parar el motor y no abrir el circuito de refrigeración en caliente.", "ru": "Остановиться в безопасном месте, заглушить двигатель и не открывать систему охлаждения, пока она горячая." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Si el motor se calienta en exceso hay que detenerse en un lugar seguro y pararlo para evitar averías graves. No se debe abrir el tapón del circuito de refrigeración en caliente: el líquido sale a presión y puede causar quemaduras.", "ru": "Если двигатель перегрелся, нужно остановиться в безопасном месте и заглушить его, чтобы избежать серьёзной поломки. Крышку системы охлаждения нельзя открывать горячей: жидкость выходит под давлением и может обжечь." }
+  },
+  {
+    "id": "B-MEC-0014", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿En qué ruedas deben colocarse las cadenas para nieve?", "ru": "На какие колёса надевают цепи противоскольжения?" },
+    "options": {
+      "a": { "es": "En las ruedas motrices.", "ru": "На ведущие колёса." },
+      "b": { "es": "Siempre en las traseras.", "ru": "Всегда на задние." },
+      "c": { "es": "Solo en una rueda de cada eje.", "ru": "Только на одно колесо каждой оси." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Las cadenas se colocan en las ruedas motrices, que son las que transmiten la fuerza del motor al suelo: las delanteras en un vehículo de tracción delantera y las traseras en uno de propulsión trasera. Con cadenas hay que circular despacio.", "ru": "Цепи надевают на ведущие колёса, передающие усилие двигателя на дорогу: на передние у переднеприводной машины и на задние у заднеприводной. С цепями нужно ехать медленно." }
+  },
+  {
+    "id": "B-MEC-0015", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "En un descenso largo y pronunciado, ¿cómo conviene controlar la velocidad?", "ru": "Как лучше контролировать скорость на длинном крутом спуске?" },
+    "options": {
+      "a": { "es": "Usando solo el freno de servicio de forma continua.", "ru": "Только рабочим тормозом, не отпуская педаль." },
+      "b": { "es": "Con una marcha corta para aprovechar el freno motor, ayudándose del freno de servicio de forma intermitente.", "ru": "На низкой передаче, используя торможение двигателем и периодически помогая рабочим тормозом." },
+      "c": { "es": "En punto muerto, para ahorrar combustible.", "ru": "На нейтрали, чтобы сэкономить топливо." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En pendientes largas se usa una marcha corta para aprovechar el freno motor y se frena de forma intermitente. Frenar sin parar calienta los frenos y les hace perder eficacia; bajar en punto muerto elimina el freno motor y es peligroso.", "ru": "На длинных спусках включают низкую передачу, чтобы тормозить двигателем, и тормозят прерывисто. Постоянное торможение перегревает тормоза и снижает их эффективность; спуск на нейтрали лишает торможения двигателем и опасен." }
+  },
+  {
+    "id": "B-MEC-0016", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué es la fatiga de los frenos?", "ru": "Что такое «усталость» (перегрев) тормозов?" },
+    "options": {
+      "a": { "es": "El desgaste normal de las pastillas con los años.", "ru": "Обычный износ колодок со временем." },
+      "b": { "es": "Que el pedal se queda duro con el motor parado.", "ru": "Твёрдая педаль тормоза при заглушенном двигателе." },
+      "c": { "es": "La pérdida de eficacia de los frenos por calentamiento, tras usarlos de forma continuada.", "ru": "Потеря эффективности тормозов из-за перегрева после длительного использования." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Cuando los frenos se usan de forma prolongada, por ejemplo en un descenso, se calientan en exceso y pierden eficacia. Se evita utilizando el freno motor y frenando de forma intermitente.", "ru": "При долгом использовании, например на спуске, тормоза перегреваются и теряют эффективность. Этого избегают, тормозя двигателем и используя тормоза прерывисто." }
+  },
+  {
+    "id": "B-MEC-0017", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Para qué sirve el líquido refrigerante del motor?", "ru": "Для чего нужна охлаждающая жидкость двигателя?" },
+    "options": {
+      "a": { "es": "Para mantener el motor a una temperatura adecuada y protegerlo contra la congelación y la corrosión.", "ru": "Чтобы поддерживать нужную температуру двигателя и защищать его от замерзания и коррозии." },
+      "b": { "es": "Para lubricar los pistones.", "ru": "Чтобы смазывать поршни." },
+      "c": { "es": "Para limpiar el parabrisas.", "ru": "Чтобы мыть лобовое стекло." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El líquido refrigerante absorbe el calor del motor y lo disipa en el radiador; además lleva anticongelante y anticorrosivo. Su nivel se comprueba con el motor frío. La lubricación corresponde al aceite.", "ru": "Охлаждающая жидкость забирает тепло двигателя и отдаёт его в радиаторе; в её составе есть антифриз и антикоррозийные присадки. Уровень проверяют на холодном двигателе. Смазкой занимается масло." }
+  },
+  {
+    "id": "B-MEC-0018", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Con el vehículo en marcha se enciende el testigo de presión de aceite. ¿Qué debe hacer?", "ru": "Во время движения загорелся индикатор давления масла. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Seguir hasta el próximo taller, aunque esté lejos.", "ru": "Доехать до ближайшего автосервиса, даже если он далеко." },
+      "b": { "es": "Detenerse en cuanto sea seguro y parar el motor, porque puede averiarse gravemente.", "ru": "Остановиться, как только это безопасно, и заглушить двигатель, иначе он может серьёзно сломаться." },
+      "c": { "es": "Ignorarlo si el motor suena bien.", "ru": "Не обращать внимания, если двигатель звучит нормально." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El testigo de presión de aceite indica que el motor no se está lubricando bien. Seguir circulando puede provocar una avería grave, así que hay que detenerse en un lugar seguro, parar el motor y comprobar el nivel de aceite.", "ru": "Индикатор давления масла означает, что двигатель плохо смазывается. Продолжение движения может привести к серьёзной поломке, поэтому нужно остановиться в безопасном месте, заглушить двигатель и проверить уровень масла." }
+  },
+  {
+    "id": "B-MEC-0019", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "Observa un bulto (hernia) en el flanco de un neumático. ¿Qué debe hacer?", "ru": "Вы заметили вздутие (грыжу) на боковине шины. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Aumentar la presión para compensarlo.", "ru": "Повысить давление, чтобы это компенсировать." },
+      "b": { "es": "Nada, si el dibujo tiene más de 1,6 mm.", "ru": "Ничего, если глубина протектора больше 1,6 мм." },
+      "c": { "es": "Sustituir el neumático, porque su estructura está dañada y puede reventar.", "ru": "Заменить шину: её каркас повреждён, и она может лопнуть." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Un bulto en el flanco indica que la estructura interna del neumático está dañada, normalmente por un golpe. Puede reventar en marcha, así que hay que sustituirlo aunque el dibujo esté bien.", "ru": "Вздутие на боковине говорит о повреждении внутреннего каркаса шины, обычно после удара. Она может лопнуть на ходу, поэтому её нужно заменить, даже если протектор в порядке." }
+  },
+  {
+    "id": "B-MEC-0020", "topic": "mecanica", "source": "generada", "ref": "Conocimiento técnico (no regulado en norma)",
+    "question": { "es": "¿Qué efecto tienen unos amortiguadores en mal estado?", "ru": "К чему приводят изношенные амортизаторы?" },
+    "options": {
+      "a": { "es": "Aumentan la distancia de frenado y empeoran la estabilidad y la adherencia.", "ru": "Увеличивают тормозной путь и ухудшают устойчивость и сцепление." },
+      "b": { "es": "Solo hacen el viaje menos cómodo.", "ru": "Только делают поездку менее комфортной." },
+      "c": { "es": "Reducen el consumo de combustible.", "ru": "Снижают расход топлива." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los amortiguadores mantienen las ruedas en contacto con el suelo. Si están gastados, las ruedas rebotan, se pierde adherencia, aumenta la distancia de frenado y el vehículo es menos estable en curvas.", "ru": "Амортизаторы удерживают колёса в контакте с дорогой. Если они изношены, колёса подпрыгивают, сцепление теряется, тормозной путь растёт, а машина менее устойчива в поворотах." }
+  }
+]

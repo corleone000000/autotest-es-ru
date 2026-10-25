@@ -140,3 +140,17 @@ Ella revisa un muestreo las primeras veces; si algo suena raro, se corrige en el
 - Cuentas de usuario, multiusuario, monetización.
 - Otros permisos (A, C, D).
 - Audio/lectura en voz alta (posible fase futura).
+
+---
+
+## 10. Notas de implementación (estado actual)
+
+- **Fases 0–5 + 1.5 implementadas.** Ver README.md para arrancar, desplegar e instalar.
+- **Banco:** un archivo por tema en `src/data/questions/<tema>.json` (en lugar de un único `questions.json`); se cargan con `import.meta.glob`. Tema 1 añadido: "Introducción y definiciones" (`definiciones`). 310 preguntas: 30 del tema 1 y 20 de cada uno de los otros 14.
+- **Modelo de datos:** además de la sección 4, `Question` tiene `ref` (norma citada, obligatoria en las generadas), `video?` (pregunta de vídeo, examen DGT 2026) y `needsReview?`. `Attempt` añade `usedGlossary` y `mode`. Las preguntas importadas son `LocalQuestion` (con `imageBlob`/`videoBlob`) y viven en IndexedDB con clave `mq:<id>`.
+- **Normativa:** verificada contra el texto consolidado del BOE (API de datos abiertos, `scripts/lib/boe.ts`) a octubre de 2026, incluidas las reformas del RGC por el RD 465/2025 (señalización) y el RD 518/2026 (usuarios vulnerables, en vigor el 1/10/2026). Ante una duda real se marca `needsReview: true`.
+- **usedTranslation** solo cuenta si el ruso estaba visible antes de responder (en práctica) o en algún momento durante el examen. Con "traducción siempre visible" cuenta siempre.
+- **Repaso de fallos:** cualquier fallo (en cualquier modo) mete la pregunta; sale tras 3 aciertos seguidos.
+- **Semáforo:** verde si hay 10 simulacros (simulado o real) con ≥85 % aprobados y uso del ruso <10 % en los últimos 14 días; amarillo si ≥60 % aprobados y ruso <25 %.
+- **Importación:** `api/import.ts` usa `claude-opus-5-5` con salida estructurada (Zod) y fallback por rechazo; la captura se reduce a JPEG ≤1568 px en el cliente y Claude devuelve el recuadro de la imagen para recortarla. `IMPORT_TOKEN` protege el endpoint.
+- **Traducciones:** escritas a mano (no había API key) siguiendo `glossary.json`; `scripts/translate.ts` rellena las que falten con la API.

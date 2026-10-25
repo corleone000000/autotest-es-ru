@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-PAR-0001", "topic": "parada", "source": "generada", "ref": "RGC art. 90.1",
+    "question": { "es": "En una vía interurbana, ¿dónde debe efectuarse la parada o el estacionamiento?", "ru": "Где нужно останавливаться или ставить машину на стоянку на загородной дороге?" },
+    "options": {
+      "a": { "es": "Fuera de la calzada, en el lado derecho y dejando libre la parte transitable del arcén.", "ru": "Вне проезжей части, справа, оставив свободной проезжую часть обочины." },
+      "b": { "es": "En el arcén, ocupándolo por completo.", "ru": "На обочине, полностью её заняв." },
+      "c": { "es": "En la calzada, lo más cerca posible del borde derecho.", "ru": "На проезжей части, как можно ближе к правому краю." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En vías interurbanas hay que parar o estacionar siempre fuera de la calzada, en el lado derecho, y dejando libre la parte transitable del arcén. Solo por emergencia se puede quedar en la calzada o en el arcén, señalizándolo debidamente.", "ru": "На загородных дорогах останавливаться и стоять нужно всегда вне проезжей части, справа, оставляя свободной проезжую часть обочины. Оставаться на проезжей части или обочине можно только в экстренном случае, обозначив ТС." }
+  },
+  {
+    "id": "B-PAR-0002", "topic": "parada", "source": "generada", "ref": "RGC art. 90.2",
+    "question": { "es": "En una calle urbana de sentido único, ¿en qué lado puede estacionar, si no hay señales que lo prohíban?", "ru": "На какой стороне городской улицы с односторонним движением можно поставить машину, если знаки этого не запрещают?" },
+    "options": {
+      "a": { "es": "Solo en el lado derecho.", "ru": "Только на правой стороне." },
+      "b": { "es": "En el lado derecho o en el izquierdo.", "ru": "На правой или на левой стороне." },
+      "c": { "es": "Solo en el lado izquierdo.", "ru": "Только на левой стороне." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En vías urbanas el vehículo se sitúa lo más cerca posible del borde derecho, pero en las vías de sentido único también se puede parar o estacionar en el lado izquierdo.", "ru": "В городе ТС ставят как можно ближе к правому краю, но на улицах с односторонним движением можно останавливаться и стоять и у левого края." }
+  },
+  {
+    "id": "B-PAR-0003", "topic": "parada", "source": "generada", "ref": "RGC art. 90.2",
+    "question": { "es": "En una calle urbana de doble sentido sin zona específica de estacionamiento, ¿dónde debe parar?", "ru": "Где нужно остановиться на городской улице с двусторонним движением, если специального места нет?" },
+    "options": {
+      "a": { "es": "En el centro de la calzada.", "ru": "Посередине проезжей части." },
+      "b": { "es": "En el lado izquierdo, si hay más espacio.", "ru": "У левого края, если там больше места." },
+      "c": { "es": "Lo más cerca posible del borde derecho de la calzada.", "ru": "Как можно ближе к правому краю проезжей части." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Cuando en vías urbanas hay que parar o estacionar en la calzada o en el arcén, el vehículo se sitúa lo más cerca posible de su borde derecho. Solo en las vías de sentido único se puede usar también el lado izquierdo.", "ru": "Если в городе приходится останавливаться на проезжей части или обочине, ТС ставят как можно ближе к правому краю. Левый край можно использовать только на улицах с односторонним движением." }
+  },
+  {
+    "id": "B-PAR-0004", "topic": "parada", "source": "generada", "ref": "RGC art. 92.1 y 92.2",
+    "question": { "es": "Como norma general, ¿cómo debe colocarse el vehículo al estacionar?", "ru": "Как, по общему правилу, нужно ставить ТС на стоянку?" },
+    "options": {
+      "a": { "es": "Paralelamente al borde de la calzada, aprovechando al máximo el espacio disponible.", "ru": "Параллельно краю проезжей части, максимально рационально используя свободное место." },
+      "b": { "es": "Siempre en batería (perpendicular).", "ru": "Всегда перпендикулярно (ёлочкой или в ряд)." },
+      "c": { "es": "Como el conductor prefiera.", "ru": "Как удобнее водителю." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La parada y el estacionamiento se hacen paralelamente al borde de la calzada, salvo que las características de la vía aconsejen otra colocación, y de forma que se aproveche al máximo el espacio que queda.", "ru": "Останавливаться и ставить ТС нужно параллельно краю проезжей части, если особенности дороги не требуют иного, и так, чтобы оставшееся место использовалось наилучшим образом." }
+  },
+  {
+    "id": "B-PAR-0005", "topic": "parada", "source": "generada", "ref": "RGC art. 92.3",
+    "question": { "es": "Antes de bajarse de su turismo estacionado, ¿qué debe hacer?", "ru": "Что нужно сделать, прежде чем выйти из припаркованного легкового автомобиля?" },
+    "options": {
+      "a": { "es": "Dejar el motor en marcha si va a tardar poco.", "ru": "Оставить двигатель работающим, если уходите ненадолго." },
+      "b": { "es": "Parar el motor, desconectar el arranque y dejar accionado el freno de estacionamiento.", "ru": "Заглушить двигатель, выключить зажигание и затянуть стояночный тормоз." },
+      "c": { "es": "Encender la señal de emergencia.", "ru": "Включить аварийную сигнализацию." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Al dejar su puesto, el conductor debe parar el motor, desconectar el sistema de arranque, dejar accionado el freno de estacionamiento y, si se aleja, tomar precauciones para impedir que se use sin autorización.", "ru": "Покидая место водителя, нужно заглушить двигатель, выключить систему запуска, затянуть стояночный тормоз и, если вы отходите, принять меры против использования ТС без разрешения." }
+  },
+  {
+    "id": "B-PAR-0006", "topic": "parada", "source": "generada", "ref": "RGC art. 92.3.c",
+    "question": { "es": "Estaciona un turismo con caja de cambios manual en una cuesta, mirando hacia arriba. ¿Qué marcha debe dejar puesta?", "ru": "Вы паркуете легковой автомобиль с механической коробкой передач на подъёме, передом вверх. Какую передачу нужно оставить?" },
+    "options": {
+      "a": { "es": "La marcha atrás.", "ru": "Заднюю передачу." },
+      "b": { "es": "Punto muerto.", "ru": "Нейтраль." },
+      "c": { "es": "La primera velocidad.", "ru": "Первую передачу." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En un vehículo con caja de cambios hay que dejar la primera velocidad en pendiente ascendente y la marcha atrás en pendiente descendente (o la posición de estacionamiento en un cambio automático), además del freno de estacionamiento.", "ru": "В ТС с коробкой передач на подъёме оставляют первую передачу, а на спуске — заднюю (в автомате — положение парковки), помимо стояночного тормоза." }
+  },
+  {
+    "id": "B-PAR-0007", "topic": "parada", "source": "generada", "ref": "RGC art. 92.3.c",
+    "question": { "es": "Estaciona un turismo con caja de cambios manual en una pendiente descendente. ¿Qué marcha debe dejar puesta?", "ru": "Вы паркуете легковой автомобиль с механической коробкой на спуске. Какую передачу нужно оставить?" },
+    "options": {
+      "a": { "es": "La marcha atrás.", "ru": "Заднюю передачу." },
+      "b": { "es": "La primera velocidad.", "ru": "Первую передачу." },
+      "c": { "es": "La quinta velocidad.", "ru": "Пятую передачу." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En pendiente descendente se deja puesta la marcha atrás, y en ascendente la primera. Así, el motor ayuda a retener el vehículo junto con el freno de estacionamiento.", "ru": "На спуске оставляют заднюю передачу, а на подъёме — первую. Так двигатель вместе со стояночным тормозом помогает удерживать ТС." }
+  },
+  {
+    "id": "B-PAR-0008", "topic": "parada", "source": "generada", "ref": "RGC art. 92.3.d",
+    "question": { "es": "Un camión de más de 3.500 kg estaciona en una pendiente pronunciada y necesita calzar las ruedas. ¿Qué puede utilizar?", "ru": "Грузовик массой более 3500 кг стоит на крутом уклоне, и колёса нужно подпереть. Что можно использовать?" },
+    "options": {
+      "a": { "es": "Piedras de la cuneta.", "ru": "Камни с обочины." },
+      "b": { "es": "Calzos destinados a esa función, o apoyar una rueda directriz en el bordillo.", "ru": "Специальные противооткатные упоры или упереть управляемое колесо в бордюр." },
+      "c": { "es": "Cualquier objeto pesado que lleve en la carga.", "ru": "Любой тяжёлый предмет из груза." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los vehículos de más de 3.500 kg, autobuses y conjuntos que estacionan en una pendiente sensible deben quedar calzados con calzos destinados a ello (nunca piedras u objetos no pensados para eso) o apoyando una rueda directriz en el bordillo. Los calzos se retiran de la vía al reanudar la marcha.", "ru": "ТС массой более 3500 кг, автобусы и автопоезда на заметном уклоне нужно подпереть специальными упорами (не камнями и не предметами, для этого не предназначенными) или упереть управляемое колесо в бордюр. Упоры убирают с дороги при отъезде." }
+  },
+  {
+    "id": "B-PAR-0009", "topic": "parada", "source": "generada", "ref": "RGC art. 91.2.a",
+    "question": { "es": "¿Cuándo se considera que un vehículo estacionado obstaculiza gravemente la circulación por quedar poco espacio libre?", "ru": "Когда считается, что стоящее ТС серьёзно мешает движению из-за недостатка свободного места?" },
+    "options": {
+      "a": { "es": "Cuando queda menos de un metro hasta la acera.", "ru": "Когда до тротуара остаётся меньше метра." },
+      "b": { "es": "Cuando hay menos de cinco metros hasta el siguiente vehículo.", "ru": "Когда до следующего ТС меньше пяти метров." },
+      "c": { "es": "Cuando la distancia hasta el borde opuesto de la calzada o hasta una línea continua es inferior a 3 metros, o no permite pasar a otros vehículos.", "ru": "Когда расстояние до противоположного края проезжей части или до сплошной линии меньше 3 метров или не позволяет проехать другим ТС." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Se considera parada o estacionamiento peligroso u obstaculizador cuando entre el vehículo y el borde opuesto de la calzada, o una marca longitudinal que no se puede atravesar, quedan menos de 3 metros o, en cualquier caso, cuando no pueden pasar otros vehículos. Es una infracción grave.", "ru": "Остановка или стоянка считается опасной или создающей помеху, если между ТС и противоположным краем проезжей части или продольной линией, которую нельзя пересекать, остаётся меньше 3 метров или если другие ТС не могут проехать. Это грубое нарушение." }
+  },
+  {
+    "id": "B-PAR-0010", "topic": "parada", "source": "generada", "ref": "RGC art. 94.1.a",
+    "question": { "es": "¿Está permitido parar en una curva de visibilidad reducida?", "ru": "Разрешена ли остановка в повороте с ограниченной видимостью?" },
+    "options": {
+      "a": { "es": "No, ni en ella ni en sus proximidades.", "ru": "Нет, ни в нём, ни вблизи него." },
+      "b": { "es": "Sí, si se encienden las luces de emergencia.", "ru": "Да, если включить аварийную сигнализацию." },
+      "c": { "es": "Sí, si la parada dura menos de dos minutos.", "ru": "Да, если остановка длится менее двух минут." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Está prohibido parar en las curvas y cambios de rasante de visibilidad reducida y en sus proximidades, así como en túneles, pasos inferiores y tramos afectados por la señal de túnel. Donde está prohibido parar, también lo está estacionar.", "ru": "Запрещено останавливаться в поворотах и на вершинах подъёмов с ограниченной видимостью и вблизи них, а также в тоннелях, подземных проездах и на участках со знаком «Тоннель». Там, где запрещена остановка, запрещена и стоянка." }
+  },
+  {
+    "id": "B-PAR-0011", "topic": "parada", "source": "generada", "ref": "RGC art. 94.1.b",
+    "question": { "es": "¿Puede detenerse un momento encima de un paso para peatones para que se baje un pasajero?", "ru": "Можно ли на минуту остановиться на пешеходном переходе, чтобы вышел пассажир?" },
+    "options": {
+      "a": { "es": "Sí, si no hay peatones cruzando.", "ru": "Да, если пешеходов нет." },
+      "b": { "es": "No, está prohibido parar en los pasos para peatones.", "ru": "Нет, остановка на пешеходных переходах запрещена." },
+      "c": { "es": "Sí, si no se baja el conductor.", "ru": "Да, если водитель не выходит." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Está prohibido parar en los pasos a nivel, en los pasos para ciclistas y en los pasos para peatones, aunque sea un momento y aunque el conductor no se baje.", "ru": "Запрещено останавливаться на железнодорожных переездах, велосипедных и пешеходных переходах, даже на минуту и даже если водитель не выходит." }
+  },
+  {
+    "id": "B-PAR-0012", "topic": "parada", "source": "generada", "ref": "RGC art. 94.1.g",
+    "question": { "es": "¿Se puede parar en una autopista o autovía?", "ru": "Можно ли останавливаться на автомагистрали или autovía?" },
+    "options": {
+      "a": { "es": "Sí, en el arcén, siempre que sea menos de dos minutos.", "ru": "Да, на обочине, если меньше двух минут." },
+      "b": { "es": "Sí, en el carril derecho.", "ru": "Да, на правой полосе." },
+      "c": { "es": "No, salvo en las zonas habilitadas para ello (o por emergencia).", "ru": "Нет, кроме специально отведённых мест (или в экстренном случае)." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En autopistas y autovías está prohibido parar salvo en las zonas habilitadas, como áreas de servicio o de descanso. Solo una emergencia justifica quedarse inmovilizado, y entonces hay que señalizarlo correctamente.", "ru": "На автомагистралях и autovías останавливаться запрещено, кроме отведённых мест, например зон обслуживания или отдыха. Только экстренная ситуация оправдывает остановку, и тогда ТС нужно правильно обозначить." }
+  },
+  {
+    "id": "B-PAR-0013", "topic": "parada", "source": "generada", "ref": "RGC art. 94.2.c",
+    "question": { "es": "En una zona señalizada para carga y descarga, ¿qué tiene prohibido un turismo particular?", "ru": "Что запрещено частному легковому автомобилю в зоне, обозначенной для погрузки и разгрузки?" },
+    "options": {
+      "a": { "es": "Estacionar.", "ru": "Стоянка." },
+      "b": { "es": "Circular por la calle.", "ru": "Проезд по улице." },
+      "c": { "es": "Cualquier inmovilización, incluso la detención en un atasco.", "ru": "Любая остановка, даже вынужденная в пробке." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En las zonas señalizadas para carga y descarga está prohibido estacionar. La parada (menos de dos minutos sin que el conductor abandone el vehículo) no está incluida en esa prohibición, salvo que una señal disponga otra cosa.", "ru": "В зонах для погрузки и разгрузки запрещена стоянка. Остановка (менее двух минут, водитель не покидает ТС) под этот запрет не подпадает, если знак не указывает иное." }
+  },
+  {
+    "id": "B-PAR-0014", "topic": "parada", "source": "generada", "ref": "RGC art. 94.2.f",
+    "question": { "es": "¿Puede estacionar delante de un vado correctamente señalizado?", "ru": "Можно ли поставить машину перед правильно обозначенным выездом (vado)?" },
+    "options": {
+      "a": { "es": "Sí, si es por la noche.", "ru": "Да, если ночью." },
+      "b": { "es": "No, está prohibido.", "ru": "Нет, это запрещено." },
+      "c": { "es": "Sí, si deja un teléfono de contacto visible.", "ru": "Да, если оставить видимый номер телефона." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Está prohibido estacionar delante de los vados señalizados correctamente, porque impide la entrada y salida de vehículos del inmueble.", "ru": "Запрещено ставить машину перед правильно обозначенными выездами (vados), потому что это мешает въезду и выезду ТС из здания." }
+  },
+  {
+    "id": "B-PAR-0015", "topic": "parada", "source": "generada", "ref": "RGC art. 94.2.g; RGC art. 91.2.h",
+    "question": { "es": "¿Está permitido estacionar en doble fila?", "ru": "Разрешена ли стоянка во втором ряду?" },
+    "options": {
+      "a": { "es": "Sí, si deja encendidas las luces de emergencia.", "ru": "Да, если включить аварийную сигнализацию." },
+      "b": { "es": "Sí, durante un máximo de cinco minutos.", "ru": "Да, не более пяти минут." },
+      "c": { "es": "No, está prohibido, y si no hay conductor se considera que obstaculiza gravemente la circulación.", "ru": "Нет, это запрещено, а без водителя считается серьёзной помехой движению." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Estacionar en doble fila está prohibido. Si además el vehículo queda sin conductor, se considera un estacionamiento que obstaculiza gravemente la circulación, lo que es una infracción grave. Encender las luces de emergencia no lo legaliza.", "ru": "Стоянка во втором ряду запрещена. Если ТС к тому же оставлено без водителя, это считается серьёзной помехой движению — грубое нарушение. Аварийная сигнализация этого не узаконивает." }
+  },
+  {
+    "id": "B-PAR-0016", "topic": "parada", "source": "generada", "ref": "RGC art. 94.2.b",
+    "question": { "es": "Estaciona en una zona de estacionamiento con limitación horaria sin colocar el distintivo o tique. ¿Es correcto?", "ru": "Вы поставили машину в зоне платной стоянки с ограничением по времени, не оставив талон (тикет). Это правильно?" },
+    "options": {
+      "a": { "es": "No, está prohibido estacionar sin el distintivo o por más tiempo del permitido.", "ru": "Нет, стоянка без талона или дольше разрешённого времени запрещена." },
+      "b": { "es": "Sí, si es menos de diez minutos.", "ru": "Да, если меньше десяти минут." },
+      "c": { "es": "Sí, si es residente en otra ciudad.", "ru": "Да, если вы живёте в другом городе." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En los lugares de estacionamiento con limitación horaria está prohibido estacionar sin el distintivo que lo autoriza o superar el tiempo máximo que permita la ordenanza municipal.", "ru": "В местах стоянки с ограничением по времени запрещено стоять без разрешающего талона или дольше максимального времени, установленного муниципальным постановлением." }
+  },
+  {
+    "id": "B-PAR-0017", "topic": "parada", "source": "generada", "ref": "RGC art. 92.4",
+    "question": { "es": "Según la norma vigente desde 2026, ¿cómo debe estacionarse una autocaravana en la vía pública?", "ru": "Как, согласно правилам, действующим с 2026 года, нужно ставить автодом на дороге общего пользования?" },
+    "options": {
+      "a": { "es": "Con el toldo extendido, si no molesta a los peatones.", "ru": "С раскрытой маркизой, если она не мешает пешеходам." },
+      "b": { "es": "Sin elementos que sobresalgan de su perímetro, apoyada solo sobre los neumáticos (con calzos si hace falta) y sin verter fluidos.", "ru": "Без выступающих за её контур элементов, опираясь только на шины (при необходимости с упорами) и ничего не сливая." },
+      "c": { "es": "Apoyada sobre sus patas estabilizadoras para nivelarla.", "ru": "Опираясь на стабилизирующие опоры для выравнивания." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Las autocaravanas y otros vehículos acondicionados como vivienda deben estacionar sin extender elementos que desborden su perímetro, descansando solo sobre los neumáticos (pueden usarse calzos o cuñas) y sin verter fluidos del habitáculo.", "ru": "Автодома и другие ТС, оборудованные для проживания, должны стоять, не выдвигая элементов за свой контур, опираясь только на шины (можно использовать упоры или клинья) и не сливая жидкости из салона." }
+  },
+  {
+    "id": "B-PAR-0018", "topic": "parada", "source": "generada", "ref": "RGC art. 94.2.e",
+    "question": { "es": "¿Puede estacionar su turismo con dos ruedas sobre la acera si deja paso suficiente a los peatones?", "ru": "Можно ли поставить легковой автомобиль двумя колёсами на тротуар, если пешеходам остаётся достаточно места?" },
+    "options": {
+      "a": { "es": "Sí, si deja al menos un metro libre.", "ru": "Да, если оставить не меньше метра." },
+      "b": { "es": "Sí, por la noche.", "ru": "Да, ночью." },
+      "c": { "es": "No, está prohibido estacionar sobre las aceras y demás zonas destinadas a los peatones.", "ru": "Нет, стоянка на тротуарах и других пешеходных зонах запрещена." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Está prohibido estacionar sobre las aceras, paseos y demás zonas destinadas al paso de peatones. Solo las ordenanzas municipales pueden permitir la parada y el estacionamiento de vehículos de dos ruedas en aceras, sin perjudicar a los peatones.", "ru": "Запрещено ставить машину на тротуарах, бульварах и других местах для пешеходов. Только муниципальные постановления могут разрешить остановку и стоянку двухколёсных ТС на тротуарах, если это не мешает пешеходам." }
+  },
+  {
+    "id": "B-PAR-0019", "topic": "parada", "source": "generada", "ref": "RGC art. 94.1.h",
+    "question": { "es": "¿Puede parar un momento en un carril reservado al transporte público urbano para recoger a alguien?", "ru": "Можно ли ненадолго остановиться на полосе для общественного транспорта, чтобы кого-то забрать?" },
+    "options": {
+      "a": { "es": "No, está prohibido parar en esos carriles.", "ru": "Нет, остановка на таких полосах запрещена." },
+      "b": { "es": "Sí, si es menos de dos minutos.", "ru": "Да, если меньше двух минут." },
+      "c": { "es": "Sí, si no viene ningún autobús.", "ru": "Да, если автобуса нет." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Está prohibido parar en los carriles destinados al uso exclusivo del transporte público urbano y en los reservados para las bicicletas. Parar en ellos se considera además una infracción grave.", "ru": "Запрещено останавливаться на полосах, предназначенных только для общественного транспорта, и на велополосах. Остановка на них к тому же считается грубым нарушением." }
+  },
+  {
+    "id": "B-PAR-0020", "topic": "parada", "source": "generada", "ref": "RGC art. 91.2.b",
+    "question": { "es": "Ha estacionado de forma que otro vehículo, correctamente estacionado, no puede salir. ¿Cómo se considera este estacionamiento?", "ru": "Вы поставили машину так, что другое правильно припаркованное ТС не может выехать. Как это расценивается?" },
+    "options": {
+      "a": { "es": "Correcto, si deja un aviso en el parabrisas.", "ru": "Правильно, если оставить записку на лобовом стекле." },
+      "b": { "es": "Un estacionamiento que obstaculiza gravemente la circulación.", "ru": "Как стоянка, серьёзно мешающая движению." },
+      "c": { "es": "Correcto, si vuelve en menos de diez minutos.", "ru": "Правильно, если вернуться менее чем через десять минут." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Impedir que otro vehículo debidamente parado o estacionado se incorpore a la circulación es uno de los supuestos de parada o estacionamiento que obstaculizan gravemente la circulación, y se sanciona como infracción grave.", "ru": "Если вы мешаете выехать другому правильно стоящему ТС, это считается остановкой или стоянкой, серьёзно мешающей движению, и наказывается как грубое нарушение." }
+  }
+]

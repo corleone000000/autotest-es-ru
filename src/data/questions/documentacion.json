@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-DOC-0001", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 4.2",
+    "question": { "es": "¿Qué edad mínima se exige para obtener el permiso de conducción de la clase B?", "ru": "С какого возраста можно получить водительское удостоверение категории B?" },
+    "options": {
+      "a": { "es": "18 años cumplidos.", "ru": "С полных 18 лет." },
+      "b": { "es": "17 años, con acompañante.", "ru": "С 17 лет, с сопровождающим." },
+      "c": { "es": "16 años.", "ru": "С 16 лет." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Para obtener el permiso B hay que tener 18 años cumplidos.", "ru": "Чтобы получить права категории B, нужно, чтобы исполнилось 18 лет." }
+  },
+  {
+    "id": "B-DOC-0002", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 4.2",
+    "question": { "es": "¿Qué automóviles autoriza a conducir el permiso B?", "ru": "Какими автомобилями разрешает управлять удостоверение категории B?" },
+    "options": {
+      "a": { "es": "Los de hasta 7.500 kg de MMA.", "ru": "С РММ до 7500 кг." },
+      "b": { "es": "Los de hasta 3.500 kg de MMA, diseñados para transportar como máximo ocho pasajeros además del conductor.", "ru": "С РММ до 3500 кг, рассчитанными не более чем на восемь пассажиров, не считая водителя." },
+      "c": { "es": "Cualquier automóvil de transporte de personas, sea cual sea el número de plazas.", "ru": "Любыми автомобилями для перевозки людей независимо от числа мест." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El permiso B autoriza a conducir automóviles cuya MMA no exceda de 3.500 kg y que estén diseñados para transportar no más de ocho pasajeros además del conductor. También triciclos y cuatriciclos de motor, ciclomotores y vehículos para personas de movilidad reducida.", "ru": "Категория B разрешает управлять автомобилями с РММ не более 3500 кг, рассчитанными не более чем на восемь пассажиров кроме водителя, а также мототрициклами и квадрициклами, мопедами и ТС для людей с ограниченной подвижностью." }
+  },
+  {
+    "id": "B-DOC-0003", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 4.2",
+    "question": { "es": "Con el permiso B, ¿qué remolque puede enganchar a un turismo, como norma general?", "ru": "Какой прицеп, по общему правилу, можно прицепить к легковому автомобилю с удостоверением категории B?" },
+    "options": {
+      "a": { "es": "Uno cuya masa máxima autorizada no exceda de 750 kg.", "ru": "Прицеп с РММ не более 750 кг." },
+      "b": { "es": "Cualquier remolque, sin límite de masa.", "ru": "Любой прицеп без ограничения массы." },
+      "c": { "es": "Ninguno: para llevar remolque hace falta el permiso B+E.", "ru": "Никакой: для прицепа нужны права B+E." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los automóviles que autoriza el permiso B pueden llevar enganchado un remolque de hasta 750 kg de MMA. Con un remolque más pesado, el conjunto no puede superar 4.250 kg de MMA; para conjuntos mayores hace falta el B+E.", "ru": "Автомобили категории B могут буксировать прицеп с РММ до 750 кг. С более тяжёлым прицепом РММ всего автопоезда не может превышать 4250 кг; для более тяжёлых составов нужна категория B+E." }
+  },
+  {
+    "id": "B-DOC-0004", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 4.2",
+    "question": { "es": "Con el permiso B, ¿puede llevar un remolque de más de 750 kg de MMA?", "ru": "Можно ли с удостоверением категории B буксировать прицеп с РММ более 750 кг?" },
+    "options": {
+      "a": { "es": "No, nunca.", "ru": "Нет, никогда." },
+      "b": { "es": "Sí, siempre que la MMA del conjunto no exceda de 4.250 kg.", "ru": "Да, если РММ всего состава не превышает 4250 кг." },
+      "c": { "es": "Sí, sin ningún límite.", "ru": "Да, без ограничений." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El permiso B autoriza conjuntos formados por un vehículo de la clase B y un remolque de más de 750 kg, siempre que la MMA del conjunto no exceda de 4.250 kg.", "ru": "Категория B разрешает составы из автомобиля категории B и прицепа массой более 750 кг, если РММ всего состава не превышает 4250 кг." }
+  },
+  {
+    "id": "B-DOC-0005", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 4.2",
+    "question": { "es": "¿Qué autoriza el permiso B+E?", "ru": "Что разрешает удостоверение категории B+E?" },
+    "options": {
+      "a": { "es": "Conducir autobuses de hasta 16 plazas.", "ru": "Управлять автобусами до 16 мест." },
+      "b": { "es": "Conducir camiones de hasta 7.500 kg.", "ru": "Управлять грузовиками до 7500 кг." },
+      "c": { "es": "Conducir conjuntos de un vehículo de la clase B con un remolque o semirremolque de hasta 3.500 kg de MMA.", "ru": "Управлять составами из автомобиля категории B с прицепом или полуприцепом с РММ до 3500 кг." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El permiso B+E autoriza conjuntos formados por un vehículo tractor de la clase B y un remolque o semirremolque cuya MMA no exceda de 3.500 kg.", "ru": "Категория B+E разрешает составы из тягача категории B и прицепа или полуприцепа с РММ не более 3500 кг." }
+  },
+  {
+    "id": "B-DOC-0006", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 4.2",
+    "question": { "es": "En España, ¿qué motocicletas puede conducir el titular de un permiso B con más de tres años de antigüedad?", "ru": "Какие мотоциклы может водить в Испании владелец удостоверения B со стажем более трёх лет?" },
+    "options": {
+      "a": { "es": "Las que autoriza el permiso A1 (hasta 125 cm³ y 11 kW).", "ru": "Те, что разрешены категорией A1 (до 125 см³ и 11 кВт)." },
+      "b": { "es": "Cualquier motocicleta.", "ru": "Любые мотоциклы." },
+      "c": { "es": "Ninguna.", "ru": "Никакие." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Dentro del territorio nacional, con un permiso B de más de tres años de antigüedad se pueden conducir las motocicletas que autoriza el A1: hasta 125 cm³, 11 kW y 0,1 kW/kg. Fuera de España no vale.", "ru": "На территории Испании с удостоверением B стажем более трёх лет можно водить мотоциклы категории A1: до 125 см³, 11 кВт и 0,1 кВт/кг. За пределами Испании это не действует." }
+  },
+  {
+    "id": "B-DOC-0007", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 12.2",
+    "question": { "es": "¿Cuál es el período de vigencia del permiso B para un titular menor de 65 años?", "ru": "Каков срок действия удостоверения категории B для владельца моложе 65 лет?" },
+    "options": {
+      "a": { "es": "5 años.", "ru": "5 лет." },
+      "b": { "es": "10 años.", "ru": "10 лет." },
+      "c": { "es": "15 años.", "ru": "15 лет." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El permiso B y las licencias de conducción tienen una vigencia de diez años mientras el titular no cumpla 65 años, y de cinco años a partir de esa edad. Puede reducirse por motivos médicos.", "ru": "Удостоверение B и водительские лицензии действуют десять лет, пока владельцу не исполнится 65, и пять лет после этого возраста. Срок может быть сокращён по медицинским причинам." }
+  },
+  {
+    "id": "B-DOC-0008", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 12.2",
+    "question": { "es": "A partir de los 65 años, ¿cada cuánto hay que prorrogar la vigencia del permiso B?", "ru": "Как часто нужно продлевать удостоверение категории B после 65 лет?" },
+    "options": {
+      "a": { "es": "Cada 10 años, como antes.", "ru": "Каждые 10 лет, как раньше." },
+      "b": { "es": "Cada año.", "ru": "Каждый год." },
+      "c": { "es": "Cada 5 años.", "ru": "Каждые 5 лет." }
+    },
+    "correct": "c",
+    "explanation": { "es": "A partir de los 65 años la vigencia del permiso B pasa a ser de cinco años, salvo que por motivos médicos se fije un plazo menor.", "ru": "С 65 лет удостоверение B действует пять лет, если по медицинским причинам не установлен более короткий срок." }
+  },
+  {
+    "id": "B-DOC-0009", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 12.4",
+    "question": { "es": "Su permiso de conducción ha caducado hace una semana. ¿Puede conducir?", "ru": "Срок действия вашего удостоверения истёк неделю назад. Можно ли водить?" },
+    "options": {
+      "a": { "es": "No: un permiso cuya vigencia ha vencido no autoriza a conducir, y los agentes lo intervendrán.", "ru": "Нет: удостоверение с истёкшим сроком не даёт права водить, и агенты его изымут." },
+      "b": { "es": "Sí, durante un mes de cortesía.", "ru": "Да, в течение месяца льготного периода." },
+      "c": { "es": "Sí, si ha pedido cita para renovarlo.", "ru": "Да, если вы записались на продление." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El permiso o licencia cuya vigencia ha vencido no autoriza a su titular a conducir; si lo utiliza, la autoridad o sus agentes lo intervendrán de inmediato y lo remitirán a la Jefatura Provincial de Tráfico.", "ru": "Удостоверение или лицензия с истёкшим сроком не дают права водить; если ими пользоваться, власти или агенты немедленно их изымут и передадут в провинциальное управление DGT." }
+  },
+  {
+    "id": "B-DOC-0010", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 3.2",
+    "question": { "es": "En relación con su permiso de conducción, ¿qué obligación tiene el conductor?", "ru": "Какая обязанность у водителя в отношении водительского удостоверения?" },
+    "options": {
+      "a": { "es": "Llevarlo solo en viajes largos.", "ru": "Брать его только в дальние поездки." },
+      "b": { "es": "Estar en posesión de él, llevarlo consigo, que esté vigente y exhibirlo a los agentes que lo soliciten.", "ru": "Иметь его, возить с собой, следить, чтобы оно было действительным, и предъявлять агентам по требованию." },
+      "c": { "es": "Tenerlo en casa y presentarlo en comisaría si se lo piden.", "ru": "Хранить дома и предъявить в полиции, если попросят." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El conductor debe estar en posesión y llevar consigo su permiso o licencia, y cualquier otra autorización necesaria para conducir; deben ser válidos y estar vigentes, y debe exhibirlos ante los agentes que lo soliciten.", "ru": "Водитель обязан иметь при себе удостоверение или лицензию и другие необходимые для вождения разрешения; они должны быть действительными, и их нужно предъявлять агентам по требованию." }
+  },
+  {
+    "id": "B-DOC-0011", "topic": "documentacion", "source": "generada", "ref": "LSV art. 63.1 y 63.2",
+    "question": { "es": "¿Con cuántos puntos empieza un conductor que obtiene su primer permiso?", "ru": "Сколько баллов получает водитель с первым удостоверением?" },
+    "options": {
+      "a": { "es": "Con 12 puntos.", "ru": "12 баллов." },
+      "b": { "es": "Con 15 puntos.", "ru": "15 баллов." },
+      "c": { "es": "Con 8 puntos.", "ru": "8 баллов." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El crédito inicial general es de 12 puntos, pero quien tiene un permiso con una antigüedad no superior a tres años (sin otro permiso anterior con esa antigüedad) empieza con 8 puntos. También quien vuelve a obtenerlo tras perder todos los puntos.", "ru": "Общий начальный запас — 12 баллов, но у владельца удостоверения со стажем не более трёх лет (без другого удостоверения с таким стажем) — 8 баллов. Столько же получает тот, кто заново получил права после потери всех баллов." }
+  },
+  {
+    "id": "B-DOC-0012", "topic": "documentacion", "source": "generada", "ref": "LSV art. 65.2",
+    "question": { "es": "Un conductor novel empezó con 8 puntos. ¿Cuándo pasa a tener 12?", "ru": "Водитель-новичок начал с 8 баллов. Когда у него станет 12?" },
+    "options": {
+      "a": { "es": "Tras dos años sin ser sancionado en firme por infracciones que quiten puntos.", "ru": "Через два года без окончательных санкций за нарушения с лишением баллов." },
+      "b": { "es": "Automáticamente al cumplir un año.", "ru": "Автоматически через год." },
+      "c": { "es": "Solo si hace un curso de conducción segura.", "ru": "Только после курса безопасного вождения." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los titulares con 8 puntos iniciales pasan a disponer de 12 puntos cuando transcurren dos años sin haber sido sancionados en firme por infracciones que impliquen la pérdida de puntos.", "ru": "Владельцы с начальными 8 баллами получают 12, когда проходит два года без окончательных санкций за нарушения, влекущие потерю баллов." }
+  },
+  {
+    "id": "B-DOC-0013", "topic": "documentacion", "source": "generada", "ref": "LSV art. 63.4 y 63.5",
+    "question": { "es": "¿Cuál es el número máximo de puntos que puede acumular un conductor?", "ru": "Какое максимальное количество баллов может накопить водитель?" },
+    "options": {
+      "a": { "es": "12 puntos.", "ru": "12 баллов." },
+      "b": { "es": "15 puntos.", "ru": "15 баллов." },
+      "c": { "es": "20 puntos.", "ru": "20 баллов." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Quien mantiene todos sus puntos sin sanciones recibe 2 puntos de bonificación en los tres primeros años y 1 más en los tres siguientes; los cursos de conducción segura y eficiente pueden sumar 2 más. En ningún caso se pasa de 15 puntos.", "ru": "Тот, кто сохраняет все баллы без санкций, получает 2 бонусных балла за первые три года и ещё 1 за следующие три; курсы безопасного и экономичного вождения могут добавить ещё 2. Больше 15 баллов быть не может." }
+  },
+  {
+    "id": "B-DOC-0014", "topic": "documentacion", "source": "generada", "ref": "LSV art. 65.1",
+    "question": { "es": "Ha perdido algunos puntos. ¿Cuándo recupera la totalidad de los 12 puntos sin hacer ningún curso?", "ru": "Вы потеряли несколько баллов. Когда вы вернёте все 12 баллов без курсов?" },
+    "options": {
+      "a": { "es": "Al año siguiente, automáticamente.", "ru": "Автоматически через год." },
+      "b": { "es": "Nunca: los puntos perdidos solo se recuperan con cursos.", "ru": "Никогда: баллы возвращаются только через курсы." },
+      "c": { "es": "Tras dos años sin ser sancionado en firme por infracciones que quiten puntos.", "ru": "Через два года без окончательных санкций за нарушения с лишением баллов." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Transcurridos dos años sin sanciones firmes por infracciones que lleven aparejada la pérdida de puntos, el titular afectado por una pérdida parcial recupera la totalidad del crédito inicial de 12 puntos.", "ru": "Через два года без окончательных санкций за нарушения, влекущие потерю баллов, водитель с частичной потерей баллов восстанавливает весь начальный запас в 12 баллов." }
+  },
+  {
+    "id": "B-DOC-0015", "topic": "documentacion", "source": "generada", "ref": "LSV art. 65.4",
+    "question": { "es": "Mediante un curso de sensibilización y reeducación vial, ¿cuántos puntos puede recuperar como máximo un conductor no profesional?", "ru": "Сколько баллов максимум может вернуть непрофессиональный водитель, пройдя курс повышения дорожной культуры?" },
+    "options": {
+      "a": { "es": "Hasta 6 puntos, una sola vez cada dos años.", "ru": "До 6 баллов, не чаще одного раза в два года." },
+      "b": { "es": "Todos los perdidos, cada año.", "ru": "Все потерянные, каждый год." },
+      "c": { "es": "Hasta 2 puntos, cada seis meses.", "ru": "До 2 баллов раз в полгода." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Quien ha perdido parte de sus puntos puede recuperar hasta 6 puntos, una sola vez cada dos años, superando un curso de sensibilización y reeducación vial de 15 horas como máximo. Los conductores profesionales pueden hacerlo cada año.", "ru": "Тот, кто потерял часть баллов, может вернуть до 6 баллов не чаще одного раза в два года, пройдя курс повышения дорожной культуры продолжительностью не более 15 часов. Профессиональные водители могут делать это ежегодно." }
+  },
+  {
+    "id": "B-DOC-0016", "topic": "documentacion", "source": "generada", "ref": "LSV art. 64.4",
+    "question": { "es": "Como norma general, ¿cuántos puntos puede perder como máximo un conductor por varias infracciones cometidas en un solo día?", "ru": "Сколько баллов, по общему правилу, может потерять водитель максимум за несколько нарушений в один день?" },
+    "options": {
+      "a": { "es": "12 puntos.", "ru": "12 баллов." },
+      "b": { "es": "8 puntos.", "ru": "8 баллов." },
+      "c": { "es": "6 puntos.", "ru": "6 баллов." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Por acumulación de infracciones en un solo día no se pierden más de 8 puntos, salvo que alguna sea una de las infracciones muy graves que la ley excluye de ese tope (como el alcohol o las drogas); entonces se pierden todos los que correspondan.", "ru": "За несколько нарушений в один день теряется не более 8 баллов, если только среди них нет особо грубых нарушений, на которые этот лимит не распространяется (например, алкоголь или наркотики); тогда теряются все положенные баллы." }
+  },
+  {
+    "id": "B-DOC-0017", "topic": "documentacion", "source": "generada", "ref": "LSV anexo II, 8",
+    "question": { "es": "¿Cuántos puntos se pierden por utilizar el teléfono móvil sujetándolo con la mano mientras se conduce?", "ru": "Сколько баллов теряется за использование мобильного телефона, держа его в руке, во время вождения?" },
+    "options": {
+      "a": { "es": "3 puntos.", "ru": "3 балла." },
+      "b": { "es": "2 puntos.", "ru": "2 балла." },
+      "c": { "es": "6 puntos.", "ru": "6 баллов." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Utilizar dispositivos de telefonía móvil sujetándolos con la mano mientras se conduce supone la pérdida de 6 puntos. Usar auriculares o cascos conectados a aparatos de sonido supone 3 puntos.", "ru": "Использование мобильного телефона в руке во время вождения стоит 6 баллов. Наушники или гарнитура, подключённые к звуковым устройствам, — 3 балла." }
+  },
+  {
+    "id": "B-DOC-0018", "topic": "documentacion", "source": "generada", "ref": "LSV anexo II, 15",
+    "question": { "es": "¿Cuántos puntos se pierden por no utilizar el cinturón de seguridad?", "ru": "Сколько баллов теряется за непристёгнутый ремень безопасности?" },
+    "options": {
+      "a": { "es": "4 puntos.", "ru": "4 балла." },
+      "b": { "es": "2 puntos.", "ru": "2 балла." },
+      "c": { "es": "Ninguno: solo hay multa.", "ru": "Ни одного: только штраф." }
+    },
+    "correct": "a",
+    "explanation": { "es": "No usar, o no usar adecuadamente, el cinturón de seguridad, los sistemas de retención infantil, el casco y demás elementos de protección obligatorios supone la pérdida de 4 puntos.", "ru": "Неиспользование или неправильное использование ремня безопасности, детских удерживающих устройств, шлема и других обязательных средств защиты стоит 4 балла." }
+  },
+  {
+    "id": "B-DOC-0019", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 4.2",
+    "question": { "es": "¿Puede conducir un ciclomotor con el permiso de la clase B?", "ru": "Можно ли водить мопед с удостоверением категории B?" },
+    "options": {
+      "a": { "es": "No, necesita la licencia AM.", "ru": "Нет, нужна категория AM." },
+      "b": { "es": "Sí, el permiso B autoriza a conducir ciclomotores.", "ru": "Да, категория B разрешает водить мопеды." },
+      "c": { "es": "Solo si tiene más de tres años de antigüedad.", "ru": "Только при стаже более трёх лет." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Entre los vehículos que autoriza el permiso B están los ciclomotores, desde el primer día. La antigüedad de tres años solo se exige para las motocicletas de tipo A1.", "ru": "Категория B с первого дня разрешает управлять мопедами. Стаж три года требуется только для мотоциклов типа A1." }
+  },
+  {
+    "id": "B-DOC-0020", "topic": "documentacion", "source": "generada", "ref": "RGCond art. 12.5",
+    "question": { "es": "¿Qué ocurre si un conductor pierde todos sus puntos?", "ru": "Что происходит, если водитель потерял все баллы?" },
+    "options": {
+      "a": { "es": "Nada, mientras pague las multas.", "ru": "Ничего, если оплатит штрафы." },
+      "b": { "es": "Se le suman automáticamente 8 puntos nuevos.", "ru": "Ему автоматически начисляют 8 новых баллов." },
+      "c": { "es": "Su permiso deja de estar vigente y no puede conducir.", "ru": "Его удостоверение перестаёт действовать, и водить нельзя." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La vigencia del permiso y de la licencia está condicionada a que su titular no haya perdido totalmente los puntos. Si los pierde todos, pierde la vigencia y deberá volver a obtenerlo; entonces empezará con 8 puntos.", "ru": "Действие удостоверения и лицензии зависит от того, что их владелец не потерял все баллы. Если баллы исчерпаны, удостоверение перестаёт действовать, и права придётся получать заново — тогда начальный запас составит 8 баллов." }
+  }
+]

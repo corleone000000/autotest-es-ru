@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-AUX-0001", "topic": "auxilios", "source": "generada", "ref": "LSV art. 51.1; RGC art. 129.1",
+    "question": { "es": "¿Quién está obligado a auxiliar o solicitar auxilio para atender a las víctimas de un accidente de tráfico?", "ru": "Кто обязан оказать помощь пострадавшим в ДТП или вызвать её?" },
+    "options": {
+      "a": { "es": "Solo los conductores implicados.", "ru": "Только водители — участники ДТП." },
+      "b": { "es": "Los usuarios implicados, quienes lo presencien y quienes tengan conocimiento de él.", "ru": "Участники ДТП, свидетели и все, кто о нём узнал." },
+      "c": { "es": "Solo los servicios sanitarios.", "ru": "Только медицинские службы." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los usuarios de la vía implicados en un accidente, quienes lo presencien o quienes tengan conocimiento de él están obligados a auxiliar o pedir auxilio para las víctimas, colaborar para evitar mayores peligros y restablecer la seguridad de la circulación.", "ru": "Участники движения, причастные к ДТП, свидетели и те, кто о нём узнал, обязаны помочь пострадавшим или вызвать помощь, помочь избежать дальнейшей опасности и восстановить безопасность движения." }
+  },
+  {
+    "id": "B-AUX-0002", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.2; Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "¿Qué significa la conducta PAS ante un accidente?", "ru": "Что означает правило PAS при ДТП?" },
+    "options": {
+      "a": { "es": "Parar, Avanzar y Señalizar.", "ru": "Остановиться, проехать и обозначить." },
+      "b": { "es": "Preguntar, Ayudar y Salir.", "ru": "Спросить, помочь и уехать." },
+      "c": { "es": "Proteger, Avisar y Socorrer, en este orden.", "ru": "Обезопасить, сообщить и помочь — именно в таком порядке." }
+    },
+    "correct": "c",
+    "explanation": { "es": "PAS resume el orden de actuación: primero Proteger (que no haya más accidentes, señalizando y protegiéndose), después Avisar a los servicios de emergencia (112) y, por último, Socorrer a los heridos.", "ru": "PAS — порядок действий: сначала обезопасить место (чтобы не было новых ДТП, обозначив его и защитив себя), затем сообщить экстренным службам (112) и, наконец, помочь пострадавшим." }
+  },
+  {
+    "id": "B-AUX-0003", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.2.d y 129.2.e",
+    "question": { "es": "¿A qué número de teléfono debe llamar para avisar de un accidente con heridos?", "ru": "По какому номеру нужно звонить, чтобы сообщить о ДТП с пострадавшими?" },
+    "options": {
+      "a": { "es": "Al 112.", "ru": "112." },
+      "b": { "es": "Al de su compañía de seguros.", "ru": "В свою страховую компанию." },
+      "c": { "es": "Al de la DGT, en horario de oficina.", "ru": "В DGT, в рабочее время." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El 112 es el teléfono único de emergencias en España y en toda la Unión Europea; desde allí se activan los servicios sanitarios, los bomberos y la policía. Hay que avisar a la autoridad cuando haya heridos o muertos.", "ru": "112 — единый номер экстренных служб в Испании и во всём ЕС; оттуда направляют медиков, пожарных и полицию. Сообщать властям нужно, если есть раненые или погибшие." }
+  },
+  {
+    "id": "B-AUX-0004", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.2.a; RGC art. 130.4",
+    "question": { "es": "Llega al lugar de un accidente en carretera. ¿Qué debe hacer en primer lugar?", "ru": "Вы подъехали к месту ДТП на дороге. Что нужно сделать в первую очередь?" },
+    "options": {
+      "a": { "es": "Sacar a los heridos de los vehículos.", "ru": "Вытащить пострадавших из машин." },
+      "b": { "es": "Detenerse sin crear un nuevo peligro y proteger la zona, señalizándola.", "ru": "Остановиться, не создавая новой опасности, и обезопасить место, обозначив его." },
+      "c": { "es": "Hacer fotos para los seguros.", "ru": "Сфотографировать всё для страховой." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Lo primero es proteger: detenerse de forma que no se cree un nuevo peligro, encender las luces de emergencia, ponerse el chaleco y señalizar con el dispositivo V-16. Solo después se avisa y se socorre.", "ru": "Сначала нужно обезопасить место: остановиться так, чтобы не создать новой опасности, включить аварийную сигнализацию, надеть жилет и выставить маячок V-16. Только потом сообщать и помогать." }
+  },
+  {
+    "id": "B-AUX-0005", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.2.c",
+    "question": { "es": "En un accidente con un herido grave, ¿qué debe evitar, si no perjudica a la seguridad de los heridos ni de la circulación?", "ru": "Чего нужно избегать при ДТП с тяжелораненым, если это не вредит безопасности пострадавших и движения?" },
+    "options": {
+      "a": { "es": "Llamar al 112.", "ru": "Звонить в 112." },
+      "b": { "es": "Encender las luces de emergencia.", "ru": "Включать аварийную сигнализацию." },
+      "c": { "es": "Modificar el estado de las cosas y las huellas u otras pruebas del accidente.", "ru": "Изменять обстановку, следы и другие улики ДТП." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Si hay muertos o heridos graves, o se ha avisado a la autoridad, hay que evitar modificar el estado de las cosas y las huellas o pruebas útiles para determinar responsabilidades, salvo que sea necesario para la seguridad de los heridos o de la circulación.", "ru": "Если есть погибшие или тяжелораненые либо уже вызваны власти, нужно не изменять обстановку, следы и улики, важные для установления ответственности, кроме случаев, когда это нужно для безопасности пострадавших или движения." }
+  },
+  {
+    "id": "B-AUX-0006", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.2.e",
+    "question": { "es": "Ha tenido un accidente con solo heridas claramente leves, la circulación ya es segura y nadie pide que venga la policía. ¿Debe esperar a los agentes?", "ru": "Вы попали в ДТП, где только явно лёгкие травмы, движение уже безопасно, и никто не просит вызвать полицию. Нужно ли ждать агентов?" },
+    "options": {
+      "a": { "es": "No es necesario avisarles ni permanecer en el lugar.", "ru": "Сообщать им и оставаться на месте не обязательно." },
+      "b": { "es": "Sí, siempre hay que esperarles.", "ru": "Да, ждать нужно всегда." },
+      "c": { "es": "Sí, al menos dos horas.", "ru": "Да, не меньше двух часов." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Hay que avisar a la autoridad y permanecer en el lugar si hay heridos o muertos. No es necesario si solo hay heridas claramente leves, la seguridad de la circulación está restablecida y ninguno de los implicados lo solicita.", "ru": "Сообщать властям и оставаться на месте нужно, если есть раненые или погибшие. Это не обязательно, если травмы явно лёгкие, безопасность движения восстановлена и никто из участников этого не просит." }
+  },
+  {
+    "id": "B-AUX-0007", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.2.f y 129.2.g",
+    "question": { "es": "Tras un accidente, otro implicado le pide su identidad y los datos de su vehículo. ¿Debe dárselos?", "ru": "После ДТП другой участник просит ваши личные данные и данные машины. Нужно ли их давать?" },
+    "options": {
+      "a": { "es": "No, solo a la policía.", "ru": "Нет, только полиции." },
+      "b": { "es": "Sí, debe comunicarle su identidad y facilitarle los datos del vehículo.", "ru": "Да, нужно сообщить личные данные и данные ТС." },
+      "c": { "es": "Solo si hay heridos.", "ru": "Только если есть пострадавшие." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Todo implicado debe comunicar su identidad y facilitar los datos del vehículo a las otras personas implicadas que se lo pidan. Si solo hay daños materiales y el afectado no está presente, hay que hacerle llegar nombre y dirección, directamente o a través de los agentes.", "ru": "Каждый участник ДТП обязан сообщить свои данные и данные ТС другим участникам, если те просят. Если ущерб только материальный, а пострадавшего нет на месте, нужно передать ему имя и адрес напрямую или через агентов." }
+  },
+  {
+    "id": "B-AUX-0008", "topic": "auxilios", "source": "generada", "ref": "RGC art. 130.3",
+    "question": { "es": "Su vehículo queda inmovilizado en el arcén de una autovía por una avería y no puede seguir. Si hay un lugar seguro fuera de la vía, ¿qué deben hacer los ocupantes?", "ru": "Ваша машина сломалась и стоит на обочине autovía без возможности ехать дальше. Что должны сделать пассажиры, если за пределами дороги есть безопасное место?" },
+    "options": {
+      "a": { "es": "Quedarse dentro con el cinturón quitado.", "ru": "Остаться внутри, отстегнув ремни." },
+      "b": { "es": "Salir por cualquier puerta y esperar junto al coche.", "ru": "Выйти через любую дверь и ждать возле машины." },
+      "c": { "es": "Salir por el lado contrario al tráfico y esperar fuera de la plataforma, sin andar por carriles ni arcenes.", "ru": "Выйти со стороны, противоположной движению, и ждать за пределами дорожного полотна, не выходя на полосы и обочины." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Si el vehículo no puede reemprender la marcha, los ocupantes deben abandonarlo cuando exista un lugar seguro fuera de la plataforma, saliendo por el lado contrario al tráfico y sin transitar ni permanecer en carriles y arcenes.", "ru": "Если ТС не может продолжить движение, пассажиры должны покинуть его, если есть безопасное место за пределами дорожного полотна, выходя со стороны, противоположной движению, и не находясь на полосах и обочинах." }
+  },
+  {
+    "id": "B-AUX-0009", "topic": "auxilios", "source": "generada", "ref": "RGC art. 130.3",
+    "question": { "es": "Su coche averiado está en un tramo sin ningún lugar seguro fuera de la vía y salir sería peligroso. ¿Qué deben hacer los ocupantes?", "ru": "Сломанная машина стоит там, где за пределами дороги нет безопасного места, и выходить опасно. Что должны сделать пассажиры?" },
+    "options": {
+      "a": { "es": "Permanecer dentro del vehículo con el cinturón abrochado.", "ru": "Оставаться в машине с пристёгнутыми ремнями." },
+      "b": { "es": "Salir y caminar por el arcén hasta un poste SOS.", "ru": "Выйти и идти по обочине до телефона SOS." },
+      "c": { "es": "Salir y esperar delante del vehículo.", "ru": "Выйти и ждать перед машиной." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Si las condiciones de la circulación no permiten abandonar el vehículo con seguridad, los ocupantes deben permanecer en el habitáculo con el cinturón abrochado, después de señalizar con la luz V-16 y las luces de emergencia.", "ru": "Если условия движения не позволяют безопасно выйти, пассажиры должны оставаться в салоне с пристёгнутыми ремнями, обозначив машину маячком V-16 и аварийной сигнализацией." }
+  },
+  {
+    "id": "B-AUX-0010", "topic": "auxilios", "source": "generada", "ref": "RGC art. 130.5",
+    "question": { "es": "Tras un accidente leve en una carretera, ¿dónde debe rellenar el parte amistoso de accidente?", "ru": "Где нужно заполнять европротокол (parte de accidente) после лёгкого ДТП на загородной дороге?" },
+    "options": {
+      "a": { "es": "Sobre el capó, en el arcén.", "ru": "На капоте, на обочине." },
+      "b": { "es": "En un lugar seguro fuera de la vía: está prohibido hacerlo en la plataforma.", "ru": "В безопасном месте вне дороги: делать это на дорожном полотне запрещено." },
+      "c": { "es": "Dentro del coche, aunque esté en el carril.", "ru": "В машине, даже если она стоит на полосе." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Se prohíbe rellenar el parte de accidente en la plataforma de circulación (calzada y arcenes): debe hacerse en un lugar seguro fuera de la vía.", "ru": "Заполнять европротокол на дорожном полотне (проезжая часть и обочины) запрещено: это нужно делать в безопасном месте вне дороги." }
+  },
+  {
+    "id": "B-AUX-0011", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "Un motorista herido está consciente y respira con normalidad. ¿Debe quitarle el casco?", "ru": "Пострадавший мотоциклист в сознании и нормально дышит. Нужно ли снимать с него шлем?" },
+    "options": {
+      "a": { "es": "Sí, siempre, para que respire mejor.", "ru": "Да, всегда, чтобы ему было легче дышать." },
+      "b": { "es": "Sí, pero solo si él lo pide.", "ru": "Да, но только если он попросит." },
+      "c": { "es": "No: el casco solo se retira si es imprescindible, por ejemplo si no respira, y con técnica adecuada.", "ru": "Нет: шлем снимают только при крайней необходимости, например если человек не дышит, и правильным способом." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Quitar el casco puede agravar una posible lesión de columna. Solo se retira si es imprescindible para mantener la vía respiratoria o reanimar, y entre dos personas, sujetando cabeza y cuello alineados.", "ru": "Снятие шлема может усугубить возможную травму позвоночника. Его снимают только если это необходимо для восстановления дыхания или реанимации, вдвоём, удерживая голову и шею на одной линии." }
+  },
+  {
+    "id": "B-AUX-0012", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "¿Cuándo está justificado mover a un herido de un accidente de tráfico?", "ru": "Когда оправдано перемещать пострадавшего в ДТП?" },
+    "options": {
+      "a": { "es": "Solo si corre un peligro inminente, como un incendio o un atropello.", "ru": "Только при непосредственной угрозе, например пожара или наезда." },
+      "b": { "es": "Siempre, para sentarle en un lugar cómodo.", "ru": "Всегда, чтобы посадить его поудобнее." },
+      "c": { "es": "Cuando tarde la ambulancia más de diez minutos.", "ru": "Если скорая едет дольше десяти минут." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Como norma general no se debe mover al herido, porque puede tener lesiones de columna. Solo se le mueve si su vida corre un peligro inminente (fuego, riesgo de atropello…), manteniendo alineados cabeza, cuello y tronco.", "ru": "Как правило, пострадавшего не перемещают: у него может быть травма позвоночника. Двигать его можно, только если жизни грозит непосредственная опасность (огонь, риск наезда), удерживая голову, шею и туловище на одной линии." }
+  },
+  {
+    "id": "B-AUX-0013", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "Un herido está inconsciente pero respira y no se sospecha lesión de columna. ¿En qué posición debe colocarlo?", "ru": "Пострадавший без сознания, но дышит, и травмы позвоночника не подозревается. В какое положение его нужно уложить?" },
+    "options": {
+      "a": { "es": "Sentado, con la cabeza hacia atrás.", "ru": "Сидя, запрокинув голову." },
+      "b": { "es": "En posición lateral de seguridad.", "ru": "В устойчивое боковое положение." },
+      "c": { "es": "Boca abajo.", "ru": "Лицом вниз." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La posición lateral de seguridad mantiene abierta la vía respiratoria y evita que se ahogue con su lengua o con vómitos. Hay que vigilar su respiración hasta que llegue la ayuda.", "ru": "Устойчивое боковое положение сохраняет дыхательные пути открытыми и не даёт задохнуться языком или рвотными массами. До прибытия помощи нужно следить за дыханием." }
+  },
+  {
+    "id": "B-AUX-0014", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "Un herido tiene una hemorragia abundante en un brazo. ¿Qué debe hacer primero?", "ru": "У пострадавшего сильное кровотечение из руки. Что нужно сделать сначала?" },
+    "options": {
+      "a": { "es": "Hacer un torniquete enseguida.", "ru": "Сразу наложить жгут." },
+      "b": { "es": "Darle agua.", "ru": "Дать ему воды." },
+      "c": { "es": "Presionar directamente sobre la herida con un apósito o tela limpia.", "ru": "Прижать рану чистой повязкой или тканью." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Ante una hemorragia hay que hacer compresión directa sobre la herida con un apósito o un paño limpio, de forma continuada. El torniquete es un último recurso, solo si la compresión no basta y la vida corre peligro.", "ru": "При кровотечении нужно непрерывно прижимать рану чистой повязкой или тканью. Жгут — крайняя мера, только если давление не помогает и жизнь под угрозой." }
+  },
+  {
+    "id": "B-AUX-0015", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "¿Qué debe hacer con una quemadura en un herido?", "ru": "Что делать с ожогом у пострадавшего?" },
+    "options": {
+      "a": { "es": "Enfriarla con agua y no despegar la ropa que esté adherida a la piel.", "ru": "Охладить водой и не отрывать прилипшую к коже одежду." },
+      "b": { "es": "Aplicar aceite o pomada casera.", "ru": "Нанести масло или домашнюю мазь." },
+      "c": { "es": "Reventar las ampollas.", "ru": "Проколоть волдыри." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Las quemaduras se enfrían con agua durante varios minutos y se cubren con un paño limpio. No hay que retirar la ropa pegada a la piel, reventar ampollas ni aplicar remedios caseros.", "ru": "Ожог охлаждают водой несколько минут и накрывают чистой тканью. Нельзя отрывать прилипшую одежду, прокалывать волдыри и наносить домашние средства." }
+  },
+  {
+    "id": "B-AUX-0016", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "Un herido le pide agua mientras esperan a la ambulancia. ¿Qué debe hacer?", "ru": "Пострадавший просит воды, пока вы ждёте скорую. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Darle toda la que quiera.", "ru": "Дать сколько захочет." },
+      "b": { "es": "No darle de beber ni de comer.", "ru": "Не давать ни пить, ни есть." },
+      "c": { "es": "Darle un poco de alcohol para reanimarlo.", "ru": "Дать немного алкоголя, чтобы взбодрить." }
+    },
+    "correct": "b",
+    "explanation": { "es": "A los heridos no se les da de comer ni de beber: pueden necesitar una intervención o tener lesiones internas, y podrían atragantarse. Hay que tranquilizarlos y abrigarlos.", "ru": "Пострадавшим нельзя давать есть и пить: им может понадобиться операция или у них могут быть внутренние травмы, и они могут поперхнуться. Нужно их успокоить и укрыть." }
+  },
+  {
+    "id": "B-AUX-0017", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "Una persona está inconsciente y no respira. Tras avisar al 112, ¿qué debe hacer?", "ru": "Человек без сознания и не дышит. Что делать после звонка в 112?" },
+    "options": {
+      "a": { "es": "Colocarla en posición lateral de seguridad y esperar.", "ru": "Уложить в устойчивое боковое положение и ждать." },
+      "b": { "es": "Darle palmadas en la espalda.", "ru": "Похлопать по спине." },
+      "c": { "es": "Iniciar la reanimación cardiopulmonar con compresiones en el centro del pecho.", "ru": "Начать сердечно-лёгочную реанимацию с нажатий в центр грудной клетки." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Si no respira, hay que iniciar la reanimación cardiopulmonar: compresiones fuertes y rápidas en el centro del pecho, sin interrupción hasta que llegue la ayuda o la persona recupere la respiración. La posición lateral de seguridad es para quien respira.", "ru": "Если человек не дышит, нужно начать СЛР: сильные и частые нажатия в центр груди без перерыва до прибытия помощи или восстановления дыхания. Боковое положение — для тех, кто дышит." }
+  },
+  {
+    "id": "B-AUX-0018", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.2.b y 129.2.d",
+    "question": { "es": "Al llamar al 112 para avisar de un accidente, ¿qué información es más útil?", "ru": "Какая информация наиболее полезна при звонке в 112 о ДТП?" },
+    "options": {
+      "a": { "es": "El lugar exacto, el número de heridos y su estado, y si hay peligros como fuego o personas atrapadas.", "ru": "Точное место, число пострадавших и их состояние, есть ли опасность — огонь или зажатые люди." },
+      "b": { "es": "Solo las matrículas de los vehículos.", "ru": "Только номера машин." },
+      "c": { "es": "Quién tiene la culpa.", "ru": "Кто виноват." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Hay que hacerse una idea de conjunto del accidente y transmitirla: lugar exacto (carretera, kilómetro, sentido), número de heridos y su estado, y riesgos como fuego, mercancías peligrosas o personas atrapadas. No hay que colgar hasta que lo indiquen.", "ru": "Нужно оценить ситуацию в целом и сообщить: точное место (дорога, километр, направление), число и состояние пострадавших, риски — огонь, опасные грузы, зажатые люди. Не кладите трубку, пока вам не скажут." }
+  },
+  {
+    "id": "B-AUX-0019", "topic": "auxilios", "source": "generada", "ref": "RGC art. 129.3",
+    "question": { "es": "Pasa junto a un accidente en el que no está implicado. ¿Está obligado a ayudar?", "ru": "Вы проезжаете мимо ДТП, в котором не участвовали. Обязаны ли вы помочь?" },
+    "options": {
+      "a": { "es": "No, solo los implicados tienen obligaciones.", "ru": "Нет, обязанности есть только у участников." },
+      "b": { "es": "Sí, salvo que su colaboración no sea claramente necesaria o ya estén en el lugar la autoridad o sus agentes.", "ru": "Да, если только ваша помощь явно не нужна или на месте уже есть власти или их агенты." },
+      "c": { "es": "Solo si conoce a alguno de los implicados.", "ru": "Только если вы знакомы с кем-то из участников." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Todo usuario que advierta un accidente sin estar implicado debe cumplir, en cuanto pueda y le afecten, las mismas obligaciones de auxilio, salvo que manifiestamente no sea necesaria su colaboración o ya estén presentes la autoridad o sus agentes.", "ru": "Любой участник движения, заметивший ДТП, в котором не участвовал, должен по возможности выполнить те же обязанности по помощи, если его помощь явно не лишняя и на месте ещё нет властей или их агентов." }
+  },
+  {
+    "id": "B-AUX-0020", "topic": "auxilios", "source": "generada", "ref": "Conocimiento sanitario (no regulado en norma)",
+    "question": { "es": "Sospecha que un herido tiene una pierna rota. ¿Qué debe hacer?", "ru": "Вы подозреваете, что у пострадавшего сломана нога. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Intentar colocar el hueso en su sitio.", "ru": "Попытаться вправить кость." },
+      "b": { "es": "Pedirle que camine para comprobarlo.", "ru": "Попросить его пройтись, чтобы проверить." },
+      "c": { "es": "Inmovilizar la zona en la posición en que se encuentre y no intentar recolocarla.", "ru": "Обездвижить конечность в том положении, в котором она находится, и не пытаться вправлять." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Ante una posible fractura no se debe intentar recolocar el hueso ni mover la extremidad: se inmoviliza en la posición encontrada y se espera a los servicios sanitarios.", "ru": "При подозрении на перелом нельзя вправлять кость или двигать конечность: её фиксируют в том положении, в котором нашли, и ждут медиков." }
+  }
+]

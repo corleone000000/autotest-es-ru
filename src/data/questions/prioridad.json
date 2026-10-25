@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-PRI-0001", "topic": "prioridad", "source": "generada", "ref": "RGC art. 57.1",
+    "question": { "es": "En una intersección sin señalizar, ¿a quién debe ceder el paso como norma general?", "ru": "Кому, по общему правилу, нужно уступить дорогу на нерегулируемом перекрёстке без знаков?" },
+    "options": {
+      "a": { "es": "A los vehículos que se aproximen por su izquierda.", "ru": "ТС, приближающимся слева." },
+      "b": { "es": "Al vehículo de mayor tamaño.", "ru": "ТС большего размера." },
+      "c": { "es": "A los vehículos que se aproximen por su derecha.", "ru": "ТС, приближающимся справа." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Si ninguna señal regula la prioridad, hay que ceder el paso a los vehículos que se aproximan por la derecha, salvo excepciones: vía pavimentada frente a otra sin pavimentar, vehículos sobre raíles, glorietas y accesos a autopistas y autovías.", "ru": "Если приоритет не определён знаками, нужно уступить дорогу ТС, приближающимся справа, за исключением случаев: дорога с покрытием перед дорогой без покрытия, рельсовые ТС, кольцевые развязки и въезды на автомагистрали и autovías." }
+  },
+  {
+    "id": "B-PRI-0002", "topic": "prioridad", "source": "generada", "ref": "RGC art. 57.1.a",
+    "question": { "es": "En una intersección sin señales, usted llega por un camino de tierra y un turismo se acerca por su izquierda por una carretera asfaltada. ¿Quién tiene prioridad?", "ru": "На перекрёстке без знаков вы выезжаете с грунтовой дороги, а слева по асфальтированной дороге приближается легковой автомобиль. У кого преимущество?" },
+    "options": {
+      "a": { "es": "El turismo, porque circula por una vía pavimentada.", "ru": "У легкового автомобиля, потому что он едет по дороге с покрытием." },
+      "b": { "es": "Usted, porque el turismo viene por su izquierda.", "ru": "У вас, потому что автомобиль приближается слева." },
+      "c": { "es": "El que llegue primero a la intersección.", "ru": "У того, кто первым подъедет к перекрёстку." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Es una excepción a la regla de la derecha: los vehículos que circulan por una vía pavimentada tienen preferencia sobre los que proceden de otra sin pavimentar.", "ru": "Это исключение из правила «помехи справа»: ТС на дороге с покрытием имеют преимущество перед теми, кто выезжает с дороги без покрытия." }
+  },
+  {
+    "id": "B-PRI-0003", "topic": "prioridad", "source": "generada", "ref": "RGC art. 57.1.b",
+    "question": { "es": "En una intersección sin señalizar se encuentran un turismo que llega por la derecha y un tranvía. ¿Quién tiene prioridad?", "ru": "На перекрёстке без знаков встречаются легковой автомобиль, подъезжающий справа, и трамвай. У кого преимущество?" },
+    "options": {
+      "a": { "es": "El turismo, porque llega por la derecha.", "ru": "У легкового автомобиля, потому что он справа." },
+      "b": { "es": "El tranvía, porque circula sobre raíles.", "ru": "У трамвая, потому что он движется по рельсам." },
+      "c": { "es": "Ninguno: deben detenerse ambos.", "ru": "Ни у кого: оба должны остановиться." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los vehículos que circulan por raíles tienen prioridad de paso sobre los demás usuarios cuando no hay señales que regulen la intersección.", "ru": "Рельсовые ТС имеют преимущество перед остальными участниками движения, если перекрёсток не регулируется знаками." }
+  },
+  {
+    "id": "B-PRI-0004", "topic": "prioridad", "source": "generada", "ref": "RGC art. 57.1.c",
+    "question": { "es": "Va a entrar en una glorieta sin señalizar. ¿Quién tiene preferencia de paso?", "ru": "Вы въезжаете на кольцевую развязку без знаков. У кого преимущество?" },
+    "options": {
+      "a": { "es": "Usted, si llega por la derecha de los que circulan dentro.", "ru": "У вас, если вы справа от тех, кто едет по кольцу." },
+      "b": { "es": "El vehículo de mayor tamaño.", "ru": "У ТС большего размера." },
+      "c": { "es": "Los vehículos que ya se encuentran dentro de la vía circular.", "ru": "У ТС, которые уже находятся на кольце." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En las glorietas, los vehículos que se hallan dentro de la vía circular tienen preferencia sobre los que pretenden acceder a ella.", "ru": "На кольцевых развязках ТС, находящиеся на кольце, имеют преимущество перед теми, кто хочет на него въехать." }
+  },
+  {
+    "id": "B-PRI-0005", "topic": "prioridad", "source": "generada", "ref": "RGC art. 57.1.d",
+    "question": { "es": "Cuando se incorpora a una autovía desde un acceso, ¿quién tiene preferencia?", "ru": "У кого преимущество, когда вы въезжаете на autovía с въездной дороги?" },
+    "options": {
+      "a": { "es": "Los vehículos que ya circulan por la autovía.", "ru": "У ТС, которые уже едут по autovía." },
+      "b": { "es": "Usted, si llega por la derecha.", "ru": "У вас, если вы справа." },
+      "c": { "es": "Usted, siempre que señalice la maniobra con el intermitente.", "ru": "У вас, если вы включили указатель поворота." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los vehículos que circulan por una autopista o autovía tienen preferencia sobre los que pretenden acceder a ella. Encender el intermitente no da prioridad: quien se incorpora debe ceder el paso.", "ru": "ТС на автомагистрали или autovía имеют преимущество перед теми, кто на неё въезжает. Указатель поворота преимущества не даёт: въезжающий должен уступить дорогу." }
+  },
+  {
+    "id": "B-PRI-0006", "topic": "prioridad", "source": "generada", "ref": "RGC art. 59.1",
+    "question": { "es": "Tiene prioridad en una intersección, pero el tráfico está detenido justo después de ella. ¿Qué debe hacer?", "ru": "У вас преимущество на перекрёстке, но сразу за ним движение стоит. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Entrar en la intersección, ya que tiene prioridad.", "ru": "Въехать на перекрёсток, раз у вас преимущество." },
+      "b": { "es": "No entrar si previsiblemente va a quedar detenido obstruyendo la circulación transversal.", "ru": "Не въезжать, если вы, скорее всего, остановитесь и перекроете поперечное движение." },
+      "c": { "es": "Entrar y avisar con el claxon a los demás.", "ru": "Въехать и предупредить остальных звуковым сигналом." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Aunque tenga prioridad, ningún conductor debe entrar en una intersección, ni en un paso para peatones o ciclistas, si es previsible que quede detenido impidiendo u obstruyendo la circulación transversal.", "ru": "Даже имея преимущество, нельзя въезжать на перекрёсток, пешеходный или велосипедный переход, если вы, вероятно, там остановитесь и помешаете поперечному движению." }
+  },
+  {
+    "id": "B-PRI-0007", "topic": "prioridad", "source": "generada", "ref": "RGC art. 59.2",
+    "question": { "es": "Se ha quedado detenido dentro de una intersección regulada por semáforo y está obstaculizando el paso. ¿Qué debe hacer?", "ru": "Вы застряли посреди перекрёстка со светофором и мешаете движению. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Esperar a que el semáforo de su dirección se ponga en verde.", "ru": "Ждать зелёного сигнала для своего направления." },
+      "b": { "es": "Dar marcha atrás hasta la línea de detención.", "ru": "Сдать назад до стоп-линии." },
+      "c": { "es": "Salir de ella sin esperar al verde, siempre que no entorpezca a quienes avanzan en el sentido permitido.", "ru": "Выехать с него, не дожидаясь зелёного, если это не мешает тем, кто движется в разрешённом направлении." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Quien esté detenido en una intersección regulada por semáforo y constituya un obstáculo debe salir de ella sin esperar a que se permita la circulación en su dirección, siempre que no entorpezca a los demás usuarios que avanzan en el sentido permitido.", "ru": "Тот, кто остановился на регулируемом светофором перекрёстке и создаёт помеху, должен с него выехать, не дожидаясь разрешающего сигнала для своего направления, если это не мешает тем, кто движется по разрешённому направлению." }
+  },
+  {
+    "id": "B-PRI-0008", "topic": "prioridad", "source": "generada", "ref": "RGC art. 60.1",
+    "question": { "es": "En un estrechamiento sin señalizar por el que no pueden pasar a la vez dos vehículos en sentidos contrarios, ¿quién tiene preferencia?", "ru": "У кого преимущество на сужении без знаков, где два встречных ТС не могут разъехаться?" },
+    "options": {
+      "a": { "es": "El que haya entrado primero en el estrechamiento.", "ru": "У того, кто первым въехал на сужение." },
+      "b": { "es": "El que circule más deprisa.", "ru": "У того, кто едет быстрее." },
+      "c": { "es": "El que se aproxime por la derecha.", "ru": "У того, кто приближается справа." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En los tramos tan estrechos que es imposible o muy difícil el paso simultáneo de dos vehículos, si no hay señales, tiene preferencia el que haya entrado primero. En caso de duda, la tiene el vehículo con mayores dificultades de maniobra.", "ru": "На участках, где два ТС не могут или почти не могут разъехаться, при отсутствии знаков преимущество у того, кто въехал первым. В случае сомнения — у ТС, которому труднее маневрировать." }
+  },
+  {
+    "id": "B-PRI-0009", "topic": "prioridad", "source": "generada", "ref": "RGC art. 60.1; RGC art. 62",
+    "question": { "es": "Un turismo y un camión llegan a la vez a un estrechamiento sin señalizar y no está claro quién entró primero. ¿Quién debe dar marcha atrás?", "ru": "Легковой автомобиль и грузовик одновременно подъехали к сужению без знаков, и неясно, кто въехал первым. Кто должен сдать назад?" },
+    "options": {
+      "a": { "es": "El camión, porque es más lento.", "ru": "Грузовик, потому что он медленнее." },
+      "b": { "es": "El turismo, porque el camión tiene preferencia por sus mayores dificultades de maniobra.", "ru": "Легковой автомобиль, потому что у грузовика преимущество из-за большей сложности маневрирования." },
+      "c": { "es": "El que esté más cerca de un ensanchamiento.", "ru": "Тот, кто ближе к расширению." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En caso de duda, se aplica el orden de preferencia entre tipos de vehículos cuando uno debe dar marcha atrás: los camiones van por delante de los turismos, así que retrocede el turismo.", "ru": "В случае сомнения применяется порядок преимущества между видами ТС, когда одному нужно сдать назад: грузовики стоят в нём раньше легковых автомобилей, поэтому назад сдаёт легковой автомобиль." }
+  },
+  {
+    "id": "B-PRI-0010", "topic": "prioridad", "source": "generada", "ref": "RGC art. 63.1",
+    "question": { "es": "En un tramo estrecho de gran pendiente, ¿qué vehículo tiene, en principio, preferencia de paso?", "ru": "У какого ТС, в принципе, преимущество на узком участке с крутым уклоном?" },
+    "options": {
+      "a": { "es": "El que circula en sentido descendente.", "ru": "У того, кто едет вниз." },
+      "b": { "es": "El de mayor masa.", "ru": "У самого тяжёлого." },
+      "c": { "es": "El que circula en sentido ascendente, salvo que el otro pueda llegar antes a un apartadero.", "ru": "У того, кто едет вверх, если только другой не может раньше добраться до кармана для разъезда." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En los tramos estrechos de gran pendiente tiene preferencia el vehículo que sube, salvo que el que baja pueda llegar antes a un apartadero establecido para ello.", "ru": "На узких участках с крутым уклоном преимущество у ТС, которое едет вверх, если только едущее вниз не может раньше добраться до специального кармана для разъезда." }
+  },
+  {
+    "id": "B-PRI-0011", "topic": "prioridad", "source": "generada", "ref": "RGC art. 63.1",
+    "question": { "es": "A efectos de prioridad de paso, ¿qué inclinación mínima tiene un tramo de gran pendiente?", "ru": "Какой минимальный уклон считается крутым с точки зрения правил о преимуществе?" },
+    "options": {
+      "a": { "es": "El 7 %.", "ru": "7 %." },
+      "b": { "es": "El 10 %.", "ru": "10 %." },
+      "c": { "es": "El 4 %.", "ru": "4 %." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Se entienden por tramos de gran pendiente los que tienen una inclinación mínima del siete por ciento.", "ru": "Крутым считается участок с уклоном не менее семи процентов." }
+  },
+  {
+    "id": "B-PRI-0012", "topic": "prioridad", "source": "generada", "ref": "RGC art. 61.2",
+    "question": { "es": "Dos vehículos se encuentran en un puente que no permite el cruce. En uno de sus extremos hay una señal de ceda el paso. ¿Qué vehículo debe retroceder?", "ru": "Два ТС встретились на мосту, где невозможно разъехаться. С одной стороны моста стоит знак «Уступите дорогу». Кто должен сдать назад?" },
+    "options": {
+      "a": { "es": "El de mayor tamaño.", "ru": "Более крупное ТС." },
+      "b": { "es": "El que haya entrado por el extremo donde está la señal.", "ru": "Тот, кто въехал со стороны знака." },
+      "c": { "es": "El que esté más lejos del final del puente.", "ru": "Тот, кто дальше от конца моста." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Si en un extremo del puente u obra de paso hay una señal de ceda el paso o de prioridad en sentido contrario, el vehículo que llega por ese extremo debe retroceder para dejar paso al otro.", "ru": "Если с одной стороны моста или путепровода стоит знак «Уступите дорогу» или «Преимущество встречного движения», ТС, въехавшее с этой стороны, должно сдать назад и пропустить другое." }
+  },
+  {
+    "id": "B-PRI-0013", "topic": "prioridad", "source": "generada", "ref": "RGC art. 62",
+    "question": { "es": "En un paso estrecho sin señalizar, un autobús y un turismo con un remolque de 600 kg deben decidir quién retrocede. Según el orden de preferencia, ¿quién tiene prioridad?", "ru": "На узком участке без знаков автобус и легковой автомобиль с прицепом 600 кг решают, кому сдавать назад. У кого преимущество по установленному порядку?" },
+    "options": {
+      "a": { "es": "El autobús, porque transporta viajeros.", "ru": "У автобуса, потому что он перевозит пассажиров." },
+      "b": { "es": "El que tenga que retroceder menos distancia.", "ru": "У того, кому меньше сдавать назад." },
+      "c": { "es": "El turismo con remolque, que va antes que el autobús en el orden de preferencia.", "ru": "У легкового автомобиля с прицепом: в порядке преимущества он стоит раньше автобуса." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El orden de preferencia cuando uno debe retroceder sitúa a los turismos que arrastran remolques de hasta 750 kg (y a las autocaravanas) por delante de los vehículos de transporte colectivo de viajeros, porque dar marcha atrás con remolque es más difícil.", "ru": "Порядок преимущества при необходимости сдать назад ставит легковые автомобили с прицепом до 750 кг (и автодома) выше автобусов, потому что сдавать назад с прицепом сложнее." }
+  },
+  {
+    "id": "B-PRI-0014", "topic": "prioridad", "source": "generada", "ref": "RGC art. 65.1.b",
+    "question": { "es": "Gira a la derecha para entrar en otra calle y hay peatones cruzándola, aunque allí no hay paso para peatones. ¿Quién tiene prioridad?", "ru": "Вы поворачиваете направо на другую улицу, а её переходят пешеходы, хотя пешеходного перехода там нет. У кого преимущество?" },
+    "options": {
+      "a": { "es": "Los peatones.", "ru": "У пешеходов." },
+      "b": { "es": "Usted, porque no hay paso para peatones.", "ru": "У вас, потому что перехода нет." },
+      "c": { "es": "Usted, si ha señalizado el giro con antelación.", "ru": "У вас, если вы заранее включили поворотник." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Cuando un vehículo va a girar para entrar en otra vía y hay peatones cruzándola, los peatones tienen prioridad aunque no exista paso para ellos.", "ru": "Когда ТС поворачивает на другую дорогу, а её переходят пешеходы, преимущество у пешеходов, даже если перехода нет." }
+  },
+  {
+    "id": "B-PRI-0015", "topic": "prioridad", "source": "generada", "ref": "RGC art. 64.2.b",
+    "question": { "es": "Va a girar a la derecha para entrar en otra vía y hay un ciclista circulando en sus proximidades. ¿Quién tiene prioridad?", "ru": "Вы собираетесь повернуть направо на другую дорогу, а рядом едет велосипедист. У кого преимущество?" },
+    "options": {
+      "a": { "es": "Usted, porque el ciclista debe circular por el arcén.", "ru": "У вас, потому что велосипедист должен ехать по обочине." },
+      "b": { "es": "El ciclista.", "ru": "У велосипедиста." },
+      "c": { "es": "El que vaya más rápido.", "ru": "У того, кто едет быстрее." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los ciclistas tienen prioridad cuando, para entrar en otra vía, un vehículo de motor o un ciclomotor gira a la derecha o a la izquierda y hay un ciclista en sus proximidades. También cuando circulan por un carril bici, paso para ciclistas o arcén señalizados.", "ru": "Велосипедисты имеют преимущество, когда механическое ТС или мопед поворачивает направо или налево на другую дорогу, а рядом есть велосипедист. Также — когда они едут по велополосе, велопереходу или обозначенной обочине." }
+  },
+  {
+    "id": "B-PRI-0016", "topic": "prioridad", "source": "generada", "ref": "RGC art. 64.2.c; RGC art. 85.4",
+    "question": { "es": "Un grupo de ciclistas está cruzando una intersección; el primero ya ha iniciado el cruce. ¿Qué debe hacer?", "ru": "Группа велосипедистов пересекает перекрёсток; первый уже начал проезд. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Pasar entre dos ciclistas del grupo si hay hueco suficiente.", "ru": "Проехать между велосипедистами группы, если есть промежуток." },
+      "b": { "es": "Ceder el paso solo al primer ciclista.", "ru": "Уступить дорогу только первому велосипедисту." },
+      "c": { "es": "Ceder el paso a todo el grupo, porque se considera una única unidad.", "ru": "Уступить дорогу всей группе, потому что она считается единым целым." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los ciclistas que circulan en grupo tienen prioridad cuando el primero ya ha iniciado el cruce o ha entrado en una glorieta, y el grupo se considera una única unidad móvil: no se puede cortar.", "ru": "Велосипедисты, едущие группой, имеют преимущество, если первый уже начал пересекать перекрёсток или въехал на кольцо, и группа считается единым целым: разрывать её нельзя." }
+  },
+  {
+    "id": "B-PRI-0017", "topic": "prioridad", "source": "generada", "ref": "RGC art. 65.1.d",
+    "question": { "es": "Unos peatones acaban de bajar de un autobús en una parada señalizada y se encuentran entre el autobús y la acera. ¿Quién tiene prioridad?", "ru": "Пешеходы только что вышли из автобуса на обозначенной остановке и находятся между автобусом и тротуаром. У кого преимущество?" },
+    "options": {
+      "a": { "es": "Los peatones.", "ru": "У пешеходов." },
+      "b": { "es": "Los vehículos, porque los peatones están en la calzada.", "ru": "У ТС, потому что пешеходы на проезжей части." },
+      "c": { "es": "Los vehículos, si el autobús ya ha reanudado la marcha.", "ru": "У ТС, если автобус уже тронулся." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los peatones tienen prioridad cuando van a subir o han bajado de un vehículo de transporte colectivo en una parada señalizada y se encuentran entre ese vehículo y la zona peatonal o refugio más próximo.", "ru": "Пешеходы имеют преимущество, когда садятся в общественный транспорт или вышли из него на обозначенной остановке и находятся между ним и ближайшей пешеходной зоной или островком безопасности." }
+  },
+  {
+    "id": "B-PRI-0018", "topic": "prioridad", "source": "generada", "ref": "RGC art. 68.2",
+    "question": { "es": "Para tener la consideración de prioritaria, una ambulancia en servicio urgente debe, como norma general...", "ru": "Чтобы считаться спецтранспортом с приоритетом, скорая помощь при срочном вызове, как правило, должна..." },
+    "options": {
+      "a": { "es": "llevar encendidas solo las luces de cruce.", "ru": "...ехать только с ближним светом." },
+      "b": { "es": "utilizar a la vez la señal luminosa y el aparato de señales acústicas especiales.", "ru": "...одновременно включить световой и специальный звуковой сигналы." },
+      "c": { "es": "utilizar el claxon de forma continua.", "ru": "...постоянно сигналить клаксоном." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los vehículos de urgencia son prioritarios cuando circulan en servicio urgente y avisan usando a la vez la señal luminosa y la acústica especial. Pueden usar solo la luminosa cuando omitir la acústica no suponga peligro para nadie.", "ru": "Экстренные ТС имеют приоритет, когда едут по срочному вызову и предупреждают о себе одновременно световым и специальным звуковым сигналом. Только световой сигнал допускается, если отсутствие звукового ни для кого не опасно." }
+  },
+  {
+    "id": "B-PRI-0019", "topic": "prioridad", "source": "generada", "ref": "RGC art. 69; RGC art. 32.1",
+    "question": { "es": "En una autovía de dos carriles por sentido hay una retención y oye la sirena de una ambulancia que se acerca. ¿Qué debe hacer?", "ru": "На autovía с двумя полосами в каждом направлении пробка, и вы слышите сирену приближающейся скорой. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Subirse al arcén derecho, aunque esté ocupado por otros vehículos.", "ru": "Заехать на правую обочину, даже если там стоят другие ТС." },
+      "b": { "es": "No moverse, porque el tráfico está detenido.", "ru": "Не двигаться, раз движение стоит." },
+      "c": { "es": "Orillarse para formar el carril de emergencia en el centro, entre los dos carriles.", "ru": "Сместиться к краю, чтобы образовать коридор для экстренных служб посередине, между двумя полосами." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Desde 2026, en autopistas y autovías con retención hay que formar un carril de emergencia. Con dos carriles por sentido se forma en el centro, entre ellos; con tres o más, entre el carril de la izquierda y el contiguo. Es una de las formas de facilitar el paso a los vehículos prioritarios.", "ru": "С 2026 года на автомагистралях и autovías при заторе нужно образовывать коридор для экстренных служб. При двух полосах в направлении он образуется посередине, между ними; при трёх и более — между левой и соседней полосой. Это один из способов пропустить спецтранспорт." }
+  },
+  {
+    "id": "B-PRI-0020", "topic": "prioridad", "source": "generada", "ref": "RGC art. 58.1",
+    "question": { "es": "Cuando debe ceder el paso a otro vehículo, ¿cómo debe hacerlo?", "ru": "Как нужно уступать дорогу другому ТС?" },
+    "options": {
+      "a": { "es": "Sin obligar al que tiene prioridad a cambiar bruscamente su trayectoria o su velocidad, y mostrándolo con antelación, por ejemplo reduciendo la velocidad poco a poco.", "ru": "Не вынуждая того, у кого преимущество, резко менять траекторию или скорость, и показывая это заранее, например постепенно снижая скорость." },
+      "b": { "es": "Deteniéndose siempre por completo, aunque no venga nadie.", "ru": "Всегда полностью останавливаясь, даже если никого нет." },
+      "c": { "es": "Haciendo señas con la mano al otro conductor.", "ru": "Показывая другому водителю жестом руки." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Quien debe ceder el paso no debe iniciar ni continuar su maniobra hasta asegurarse de que no obliga al que tiene prioridad a modificar bruscamente su trayectoria o velocidad, y debe demostrarlo con antelación, sobre todo reduciendo la velocidad de forma paulatina.", "ru": "Тот, кто уступает дорогу, не должен начинать или продолжать манёвр, пока не убедится, что не вынуждает имеющего преимущество резко менять траекторию или скорость, и должен заранее это показать — прежде всего постепенно снижая скорость." }
+  }
+]

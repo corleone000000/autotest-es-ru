@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-AUT-0001", "topic": "autopistas", "source": "generada", "ref": "RGC art. 38.1",
+    "question": { "es": "¿Cuál de estos vehículos tiene prohibido circular por autopistas y autovías?", "ru": "Какому из этих ТС запрещено ездить по автомагистралям и autovías?" },
+    "options": {
+      "a": { "es": "Un camión de 12 toneladas.", "ru": "Грузовику массой 12 тонн." },
+      "b": { "es": "Un ciclomotor.", "ru": "Мопеду." },
+      "c": { "es": "Una autocaravana.", "ru": "Автодому." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Está prohibido circular por autopistas y autovías con vehículos de tracción animal, bicicletas, ciclomotores y vehículos para personas de movilidad reducida. Las bicicletas tienen una excepción en los arcenes de las autovías.", "ru": "По автомагистралям и autovías запрещено ездить на гужевых повозках, велосипедах, мопедах и ТС для людей с ограниченной подвижностью. Для велосипедов есть исключение — обочины autovías." }
+  },
+  {
+    "id": "B-AUT-0002", "topic": "autopistas", "source": "generada", "ref": "RGC art. 38.1",
+    "question": { "es": "¿Puede un ciclista circular por una autovía?", "ru": "Может ли велосипедист ехать по autovía?" },
+    "options": {
+      "a": { "es": "No, en ningún caso.", "ru": "Нет, ни в каком случае." },
+      "b": { "es": "Sí, por el carril derecho.", "ru": "Да, по правой полосе." },
+      "c": { "es": "Sí, por el arcén, si es mayor de 14 años y no está prohibido por la señalización.", "ru": "Да, по обочине, если ему больше 14 лет и это не запрещено знаками." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los ciclistas mayores de 14 años pueden circular por los arcenes de las autovías, salvo que se prohíba por razones de seguridad; en ese caso un panel indica el itinerario alternativo. Por las autopistas no pueden circular.", "ru": "Велосипедисты старше 14 лет могут ездить по обочинам autovías, если это не запрещено по соображениям безопасности; тогда табличка указывает объездной маршрут. По автомагистралям (autopistas) ездить нельзя." }
+  },
+  {
+    "id": "B-AUT-0003", "topic": "autopistas", "source": "generada", "ref": "RGC art. 38.4",
+    "question": { "es": "¿Dónde está prohibido circular con un patinete eléctrico (vehículo de movilidad personal)?", "ru": "Где запрещено ездить на электросамокате (средстве индивидуальной мобильности)?" },
+    "options": {
+      "a": { "es": "En autopistas, autovías y travesías, y en vías interurbanas y túneles urbanos, salvo en vías ciclistas y similares.", "ru": "На автомагистралях, autovías и travesías, а также на загородных дорогах и в городских тоннелях, кроме велодорожек и подобных." },
+      "b": { "es": "Solo en autopistas.", "ru": "Только на автомагистралях." },
+      "c": { "es": "En ninguna vía, si lleva casco.", "ru": "Нигде, если есть шлем." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Se prohíbe circular con VMP por autopistas y autovías, por travesías y por vías interurbanas y túneles urbanos, salvo que sean vías ciclistas, carriles bici, pistas bici, sendas ciclables o vías cerradas a vehículos de motor, si la señalización no lo prohíbe.", "ru": "На СИМ запрещено ездить по автомагистралям и autovías, по travesías, загородным дорогам и городским тоннелям, кроме велодорожек, велополос, велотрасс, велопешеходных дорожек и дорог, закрытых для механических ТС, если знаки этого не запрещают." }
+  },
+  {
+    "id": "B-AUT-0004", "topic": "autopistas", "source": "generada", "ref": "RGC art. 38.2",
+    "question": { "es": "Por una emergencia, tiene que circular por una autopista a velocidad anormalmente reducida. ¿Qué debe hacer?", "ru": "Из-за неисправности вам приходится ехать по автомагистрали с аномально низкой скоростью. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Seguir por el carril izquierdo.", "ru": "Продолжать по левой полосе." },
+      "b": { "es": "Abandonar la autopista por la primera salida.", "ru": "Съехать с автомагистрали на первом съезде." },
+      "c": { "es": "Detenerse en el carril derecho.", "ru": "Остановиться на правой полосе." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Quien por una emergencia se ve obligado a circular por una autopista o autovía a velocidad anormalmente reducida debe abandonarla por la primera salida, señalizando su vehículo con las luces de emergencia si existe peligro de alcance.", "ru": "Тот, кто из-за неисправности вынужден ехать по автомагистрали или autovía с аномально низкой скоростью, должен съехать на первом съезде, включив аварийную сигнализацию, если есть опасность наезда сзади." }
+  },
+  {
+    "id": "B-AUT-0005", "topic": "autopistas", "source": "generada", "ref": "RGC art. 72.4",
+    "question": { "es": "¿Cómo debe utilizar el carril de aceleración para incorporarse a una autovía?", "ru": "Как пользоваться полосой разгона при въезде на autovía?" },
+    "options": {
+      "a": { "es": "Entrar en la calzada nada más empezar el carril.", "ru": "Выехать на проезжую часть в самом начале полосы." },
+      "b": { "es": "Recorrerlo despacio y entrar en la calzada a poca velocidad.", "ru": "Проехать по ней медленно и въехать на проезжую часть на малой скорости." },
+      "c": { "es": "Comprobar al principio que puede incorporarse sin peligro y acelerar para llegar al final con la velocidad adecuada.", "ru": "В начале полосы убедиться, что въезд безопасен, и разогнаться, чтобы в конце иметь подходящую скорость." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Al principio del carril de aceleración hay que comprobar que se puede entrar sin peligro, teniendo en cuenta la posición, trayectoria y velocidad de los demás; después se acelera hasta alcanzar al final del carril la velocidad adecuada para incorporarse.", "ru": "В начале полосы разгона нужно убедиться, что въезд безопасен, учитывая положение, траекторию и скорость других; затем разогнаться так, чтобы в конце полосы иметь скорость, подходящую для вливания в поток." }
+  },
+  {
+    "id": "B-AUT-0006", "topic": "autopistas", "source": "generada", "ref": "RGC art. 72.4",
+    "question": { "es": "Al principio del carril de aceleración ve que no hay hueco para incorporarse. ¿Puede detenerse?", "ru": "В начале полосы разгона вы видите, что для въезда нет свободного места. Можно ли остановиться?" },
+    "options": {
+      "a": { "es": "Sí, en caso necesario, para esperar a poder incorporarse sin peligro.", "ru": "Да, при необходимости, чтобы дождаться безопасного въезда." },
+      "b": { "es": "No, nunca se puede parar en un carril de aceleración.", "ru": "Нет, на полосе разгона останавливаться нельзя никогда." },
+      "c": { "es": "No, debe entrar en el arcén y circular por él.", "ru": "Нет, нужно выехать на обочину и ехать по ней." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El conductor debe cerciorarse al principio del carril de aceleración de que puede incorporarse sin peligro, incluso deteniéndose si es necesario. Quien se incorpora debe ceder el paso a los que ya circulan por la calzada.", "ru": "Водитель должен в начале полосы разгона убедиться, что может безопасно въехать, — даже остановившись, если нужно. Въезжающий обязан уступить дорогу тем, кто уже едет по проезжей части." }
+  },
+  {
+    "id": "B-AUT-0007", "topic": "autopistas", "source": "generada", "ref": "RGC art. 79.1",
+    "question": { "es": "¿Dónde puede cambiar de sentido en una autopista?", "ru": "Где можно развернуться на автомагистрали?" },
+    "options": {
+      "a": { "es": "En cualquier mediana con paso abierto.", "ru": "В любом разрыве разделительной полосы." },
+      "b": { "es": "Solo en los lugares habilitados al efecto.", "ru": "Только в специально отведённых местах." },
+      "c": { "es": "En el arcén, si no viene nadie.", "ru": "На обочине, если никого нет." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Se prohíbe cambiar de sentido en autopistas y autovías, salvo en los lugares habilitados para ello. Lo normal es salir por un enlace y volver a entrar en sentido contrario.", "ru": "Разворот на автомагистралях и autovías запрещён, кроме специально отведённых мест. Обычно нужно съехать на развязку и въехать обратно в противоположном направлении." }
+  },
+  {
+    "id": "B-AUT-0008", "topic": "autopistas", "source": "generada", "ref": "RGC art. 80.3",
+    "question": { "es": "Se ha pasado la salida que quería tomar en una autovía. ¿Puede dar marcha atrás por el arcén para volver a ella?", "ru": "Вы проехали нужный съезд на autovía. Можно ли сдать назад по обочине, чтобы к нему вернуться?" },
+    "options": {
+      "a": { "es": "Sí, si lo hace despacio y con las luces de emergencia.", "ru": "Да, если медленно и с аварийной сигнализацией." },
+      "b": { "es": "Sí, si son menos de 15 metros.", "ru": "Да, если менее 15 метров." },
+      "c": { "es": "No: la marcha atrás está prohibida en autopistas y autovías; debe continuar hasta la siguiente salida.", "ru": "Нет: задний ход на автомагистралях и autovías запрещён; нужно доехать до следующего съезда." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Se prohíbe la maniobra de marcha atrás en autovías y autopistas. Si se pasa una salida, hay que seguir hasta la próxima. El límite de 15 metros de marcha atrás se aplica a otras vías, como maniobra complementaria del estacionamiento.", "ru": "Задний ход на autovías и автомагистралях запрещён. Если съезд пропущен, нужно ехать до следующего. Ограничение в 15 метров для заднего хода касается других дорог, как вспомогательного манёвра при парковке." }
+  },
+  {
+    "id": "B-AUT-0009", "topic": "autopistas", "source": "generada", "ref": "RGC art. 32.1",
+    "question": { "es": "En una autopista de tres carriles por sentido hay una retención. ¿Dónde debe formarse el carril de emergencia?", "ru": "На автомагистрали с тремя полосами в каждом направлении затор. Где нужно образовать коридор для экстренных служб?" },
+    "options": {
+      "a": { "es": "Entre el carril izquierdo y el central: los del carril izquierdo se apartan a la izquierda y los demás, a la derecha.", "ru": "Между левой и средней полосой: машины левой полосы смещаются влево, остальные — вправо." },
+      "b": { "es": "En el arcén derecho.", "ru": "На правой обочине." },
+      "c": { "es": "Entre el carril central y el derecho.", "ru": "Между средней и правой полосой." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Desde 2026, con tres o más carriles en el mismo sentido, el carril de emergencia se forma entre el carril de la izquierda y el contiguo: los vehículos del carril izquierdo se mueven lo más a la izquierda posible y los de los demás carriles, lo más a la derecha posible. Con dos carriles se forma en el centro.", "ru": "С 2026 года при трёх и более полосах в одном направлении коридор образуется между левой полосой и соседней: машины левой полосы максимально смещаются влево, остальных полос — вправо. При двух полосах коридор — посередине." }
+  },
+  {
+    "id": "B-AUT-0010", "topic": "autopistas", "source": "generada", "ref": "RGC art. 32.2",
+    "question": { "es": "En una autovía de dos carriles por sentido la circulación se ve dificultada por la nieve. ¿Qué debe hacer?", "ru": "На autovía с двумя полосами в направлении движение затруднено из-за снега. Что нужно делать?" },
+    "options": {
+      "a": { "es": "Circular por el carril izquierdo, que suele estar más limpio.", "ru": "Ехать по левой полосе, она обычно чище." },
+      "b": { "es": "Circular por el carril derecho, sin adelantar, dejando libre el izquierdo para emergencias y quitanieves.", "ru": "Ехать по правой полосе, не обгоняя, оставляя левую свободной для экстренных служб и снегоуборщиков." },
+      "c": { "es": "Adelantar a los camiones lentos.", "ru": "Обгонять медленные грузовики." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Cuando la nieve dificulta la circulación en autopistas y autovías, está prohibido adelantar y es obligatorio circular por el carril derecho (y su contiguo si hay tres o más carriles), dejando libres los de la izquierda para vehículos de emergencia y quitanieves.", "ru": "Когда снег затрудняет движение на автомагистралях и autovías, обгон запрещён и нужно ехать по правой полосе (и соседней, если полос три и больше), оставляя левые свободными для экстренных служб и снегоуборщиков." }
+  },
+  {
+    "id": "B-AUT-0011", "topic": "autopistas", "source": "generada", "ref": "RGC art. 31.1",
+    "question": { "es": "Fuera de poblado, en una calzada con varios carriles en su sentido, ¿por qué carril debe circular normalmente un turismo?", "ru": "По какой полосе обычно должен ехать легковой автомобиль вне населённого пункта на проезжей части с несколькими полосами в одном направлении?" },
+    "options": {
+      "a": { "es": "Por el de la izquierda, que es más rápido.", "ru": "По левой, она быстрее." },
+      "b": { "es": "Por el central, siempre.", "ru": "Всегда по средней." },
+      "c": { "es": "Por el situado más a la derecha, usando los demás cuando el tráfico lo aconseje y sin entorpecer a quien le sigue.", "ru": "По крайней правой, занимая другие, когда этого требует движение, и не мешая едущим сзади." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Fuera de poblado, en calzadas con más de un carril para su sentido, se circula normalmente por el situado más a la derecha, aunque se pueden usar los demás cuando las circunstancias lo aconsejen, sin entorpecer a los vehículos que siguen.", "ru": "Вне населённых пунктов на проезжей части с несколькими полосами в одном направлении обычно едут по крайней правой, но можно занимать другие, когда этого требуют обстоятельства, не мешая едущим сзади." }
+  },
+  {
+    "id": "B-AUT-0012", "topic": "autopistas", "source": "generada", "ref": "RGC art. 31.2",
+    "question": { "es": "En una autopista de tres carriles por sentido, ¿por qué carriles puede circular un camión de más de 3.500 kg?", "ru": "По каким полосам может ехать грузовик массой более 3500 кг на автомагистрали с тремя полосами в направлении?" },
+    "options": {
+      "a": { "es": "Normalmente por el derecho, pudiendo usar el inmediato a su izquierda.", "ru": "Обычно по правой, с возможностью занимать соседнюю слева." },
+      "b": { "es": "Por cualquiera de los tres.", "ru": "По любой из трёх." },
+      "c": { "es": "Solo por el arcén.", "ru": "Только по обочине." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Con tres o más carriles en su sentido, los camiones y furgones de más de 3.500 kg y los conjuntos de más de 7 metros circulan normalmente por el carril derecho y pueden usar el inmediato, pero no los demás.", "ru": "При трёх и более полосах в направлении грузовики и фургоны массой более 3500 кг и составы длиннее 7 метров обычно едут по правой полосе и могут занимать соседнюю, но не остальные." }
+  },
+  {
+    "id": "B-AUT-0013", "topic": "autopistas", "source": "generada", "ref": "RGC art. 125.1",
+    "question": { "es": "¿Pueden los peatones caminar por una autopista o pedir que les lleven en una estación de peaje?", "ru": "Могут ли пешеходы идти по автомагистрали или просить подвезти на пункте оплаты?" },
+    "options": {
+      "a": { "es": "Sí, por el arcén.", "ru": "Да, по обочине." },
+      "b": { "es": "No: no pueden circular por ella, salvo en casos de emergencia regulados, ni pedir pasaje en ningún tramo, incluidas las explanadas de peaje.", "ru": "Нет: ходить по ней нельзя, кроме предусмотренных экстренных случаев, и просить подвезти нельзя нигде, включая площадки пунктов оплаты." },
+      "c": { "es": "Solo pueden pedir pasaje en los peajes.", "ru": "Просить подвезти можно только на пунктах оплаты." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los peatones no pueden circular por autopistas ni autovías, salvo en los casos previstos para accidentes y averías, y no pueden hacer peticiones de pasaje en ningún tramo, incluidas las explanadas de las estaciones de peaje.", "ru": "Пешеходам запрещено находиться на автомагистралях и autovías, кроме случаев аварий и поломок, и нельзя просить подвезти ни на одном участке, включая площадки пунктов оплаты." }
+  },
+  {
+    "id": "B-AUT-0014", "topic": "autopistas", "source": "generada", "ref": "RGC art. 36.3",
+    "question": { "es": "¿Cuándo pueden las motocicletas utilizar el arcén derecho de forma extraordinaria?", "ru": "Когда мотоциклы могут в виде исключения ехать по правой обочине?" },
+    "options": {
+      "a": { "es": "Siempre que haya mucho tráfico.", "ru": "Всегда при плотном движении." },
+      "b": { "es": "Nunca.", "ru": "Никогда." },
+      "c": { "es": "En tramos señalizados, cuando la circulación de los carriles esté detenida por congestión, a 30 km/h como máximo y en fila de a uno.", "ru": "На обозначенных участках, когда движение по полосам остановилось из-за затора, не быстрее 30 км/ч и по одному." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Desde 2026 se puede habilitar el uso extraordinario del arcén por motocicletas en tramos señalizados, solo cuando el tráfico de los carriles está detenido por congestión, a un máximo de 30 km/h, en columna de a uno y sin poner en riesgo a quienes deben circular por el arcén.", "ru": "С 2026 года на обозначенных участках мотоциклам могут разрешить ехать по обочине — только когда движение по полосам остановилось из-за затора, не быстрее 30 км/ч, по одному и не создавая опасности тем, кто обязан ехать по обочине." }
+  },
+  {
+    "id": "B-AUT-0015", "topic": "autopistas", "source": "generada", "ref": "RGC art. 130.2",
+    "question": { "es": "Su turismo sufre una avería en la autovía, pero todavía puede circular despacio y necesita una grúa. ¿Qué debe hacer?", "ru": "На autovía у машины поломка, но она ещё может медленно ехать, и нужен эвакуатор. Что делать?" },
+    "options": {
+      "a": { "es": "Abandonar cuanto antes los carriles y dirigirse a la primera salida por el arcén derecho; si no es posible, detenerse en el arcén derecho.", "ru": "Как можно скорее покинуть полосы и ехать к первому съезду по правой обочине; если нельзя — остановиться на правой обочине." },
+      "b": { "es": "Detenerse inmediatamente en el carril donde esté.", "ru": "Немедленно остановиться на той полосе, где вы находитесь." },
+      "c": { "es": "Cruzar la mediana para buscar ayuda.", "ru": "Пересечь разделительную полосу в поисках помощи." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Si tras una avería el vehículo puede seguir y necesita auxilio, debe abandonar lo antes posible los carriles y dirigirse a la primera salida usando el arcén derecho. Si no puede, se detendrá en el arcén derecho o donde cause menos obstáculo.", "ru": "Если после поломки машина может ехать и ей нужна помощь, нужно как можно скорее покинуть полосы и ехать к первому съезду по правой обочине. Если это невозможно — остановиться на правой обочине или там, где это меньше мешает." }
+  },
+  {
+    "id": "B-AUT-0016", "topic": "autopistas", "source": "generada", "ref": "RGC art. 38.3",
+    "question": { "es": "¿Puede circular por una autopista un tractor agrícola que no puede superar los 40 km/h?", "ru": "Может ли ехать по автомагистрали сельхозтрактор, который не развивает больше 40 км/ч?" },
+    "options": {
+      "a": { "es": "Sí, por el arcén.", "ru": "Да, по обочине." },
+      "b": { "es": "No: los vehículos especiales solo pueden hacerlo si superan 60 km/h en llano y cumplen las condiciones exigidas, o con autorización especial.", "ru": "Нет: специальные ТС могут ездить там, только если развивают более 60 км/ч на ровной дороге и соответствуют требованиям, либо со специальным разрешением." },
+      "c": { "es": "Sí, con las luces de emergencia encendidas.", "ru": "Да, с аварийной сигнализацией." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Los vehículos especiales que no exceden de las masas o dimensiones reglamentarias solo pueden circular por autopistas y autovías si pueden superar los 60 km/h en llano y cumplen las condiciones del reglamento; los que las exceden necesitan autorización complementaria.", "ru": "Специальные ТС в пределах допустимых масс и габаритов могут ехать по автомагистралям и autovías, только если развивают более 60 км/ч на ровной дороге и выполняют требования регламента; для превышающих их нужно дополнительное разрешение." }
+  },
+  {
+    "id": "B-AUT-0017", "topic": "autopistas", "source": "generada", "ref": "RGC art. 79.1; RGC art. 80.3",
+    "question": { "es": "Se da cuenta de que ha entrado en la autopista en la dirección equivocada. ¿Qué debe hacer?", "ru": "Вы поняли, что въехали на автомагистраль не в том направлении. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Dar media vuelta en el arcén con precaución.", "ru": "Осторожно развернуться на обочине." },
+      "b": { "es": "Volver marcha atrás hasta el acceso.", "ru": "Вернуться задним ходом к въезду." },
+      "c": { "es": "Continuar hasta la siguiente salida y cambiar allí de sentido.", "ru": "Доехать до следующего съезда и развернуться там." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En autopistas y autovías están prohibidos el cambio de sentido fuera de los lugares habilitados y la marcha atrás. Lo correcto es seguir hasta la próxima salida y volver a entrar en el sentido deseado.", "ru": "На автомагистралях и autovías запрещены разворот вне отведённых мест и задний ход. Правильно — доехать до следующего съезда и въехать снова в нужном направлении." }
+  },
+  {
+    "id": "B-AUT-0018", "topic": "autopistas", "source": "generada", "ref": "RGC art. 68.1",
+    "question": { "es": "¿Puede una ambulancia en servicio urgente dar media vuelta en una autovía?", "ru": "Может ли скорая помощь при срочном вызове развернуться на autovía?" },
+    "options": {
+      "a": { "es": "Sí, excepcionalmente, si no compromete la seguridad de ningún usuario.", "ru": "Да, в виде исключения, если это не угрожает безопасности других." },
+      "b": { "es": "No, ningún vehículo puede hacerlo.", "ru": "Нет, никакое ТС не может." },
+      "c": { "es": "Solo si un agente se lo autoriza por radio.", "ru": "Только если агент разрешит по радио." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los vehículos prioritarios en servicio urgente pueden, con carácter excepcional y sin comprometer la seguridad, dar media vuelta o marcha atrás en autopista o autovía, circular en sentido contrario por el arcén o entrar en la mediana y sus pasos transversales.", "ru": "Спецтранспорт при срочном вызове может в виде исключения, не создавая опасности, разворачиваться или сдавать назад на автомагистрали или autovía, ехать навстречу по обочине или заезжать на разделительную полосу и её переезды." }
+  },
+  {
+    "id": "B-AUT-0019", "topic": "autopistas", "source": "generada", "ref": "RGC art. 31.1",
+    "question": { "es": "¿Puede un turismo circular por el arcén de una autopista para adelantar a una caravana?", "ru": "Может ли легковой автомобиль ехать по обочине автомагистрали, чтобы обогнать колонну?" },
+    "options": {
+      "a": { "es": "Sí, si va despacio.", "ru": "Да, если медленно." },
+      "b": { "es": "No: los automóviles deben circular por la calzada y no por el arcén, salvo por razones de emergencia.", "ru": "Нет: автомобили должны ехать по проезжей части, а не по обочине, кроме экстренных случаев." },
+      "c": { "es": "Sí, si enciende las luces de emergencia.", "ru": "Да, если включить аварийную сигнализацию." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El conductor de un automóvil debe circular por la calzada y no por el arcén, salvo por razones de emergencia. Usar el arcén para adelantar una retención está prohibido.", "ru": "Водитель автомобиля должен ехать по проезжей части, а не по обочине, кроме экстренных случаев. Объезжать пробку по обочине запрещено." }
+  },
+  {
+    "id": "B-AUT-0020", "topic": "autopistas", "source": "generada", "ref": "RGC art. 36.1",
+    "question": { "es": "Un ciclista circula por el arcén de una autovía en un descenso prolongado con curvas. ¿Puede pasar a la calzada?", "ru": "Велосипедист едет по обочине autovía на длинном извилистом спуске. Может ли он выехать на проезжую часть?" },
+    "options": {
+      "a": { "es": "Sí, en los descensos con curvas siempre puede.", "ru": "Да, на извилистых спусках всегда можно." },
+      "b": { "es": "Sí, si va a más de 45 km/h.", "ru": "Да, если скорость больше 45 км/ч." },
+      "c": { "es": "No: en las autovías los ciclistas deben circular en todo caso por el arcén.", "ru": "Нет: на autovías велосипедисты в любом случае должны ехать по обочине." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En los descensos prolongados con curvas los ciclistas pueden dejar el arcén y usar la parte derecha de la calzada que necesiten, cuando la seguridad lo permita, salvo en las autovías, donde deben circular en todo caso por el arcén.", "ru": "На длинных извилистых спусках велосипедисты могут покинуть обочину и занять нужную часть проезжей части справа, если это безопасно, — кроме autovías, где они в любом случае должны ехать по обочине." }
+  }
+]

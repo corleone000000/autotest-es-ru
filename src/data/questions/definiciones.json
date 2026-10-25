@@ -139,5 +139,225 @@
     },
     "correct": "b",
     "explanation": { "es": "Vehículo de motor es el que tiene motor para su propulsión, pero la ley excluye expresamente de esta definición a los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida. Un tractor agrícola sí es vehículo de motor, aunque no sea un automóvil.", "ru": "Механическое ТС — это ТС с двигателем, но закон прямо исключает из этого понятия мопеды, трамваи и ТС для людей с ограниченной подвижностью. Сельхозтрактор является механическим ТС, хотя и не считается автомобилем." }
+  },
+  {
+    "id": "B-DEF-0011", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 63",
+    "question": { "es": "¿Qué es una glorieta?", "ru": "Что такое кольцевая развязка (glorieta)?" },
+    "options": {
+      "a": { "es": "Un tipo especial de intersección en el que los tramos se comunican a través de un anillo con circulación rotatoria alrededor de una isleta central.", "ru": "Особый вид перекрёстка, где дороги соединяются кольцом с круговым движением вокруг центрального островка." },
+      "b": { "es": "Cualquier intersección regulada por semáforos.", "ru": "Любой перекрёсток, регулируемый светофорами." },
+      "c": { "es": "Un ensanchamiento de la calzada destinado a cambiar de sentido.", "ru": "Расширение проезжей части, предназначенное для разворота." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La glorieta es un tipo especial de intersección: los tramos que confluyen se comunican a través de un anillo en el que se circula alrededor de una isleta central. Las llamadas glorietas partidas, en las que se cruza directamente la isleta, no son glorietas propiamente dichas.", "ru": "Glorieta — особый вид перекрёстка: сходящиеся дороги соединяются кольцом, по которому движутся вокруг центрального островка. Так называемые «разделённые» развязки, где проезжают прямо через островок, собственно glorieta не считаются." }
+  },
+  {
+    "id": "B-DEF-0012", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 9",
+    "question": { "es": "¿Cuál es la velocidad máxima por construcción de un ciclomotor?", "ru": "Какова максимальная конструктивная скорость мопеда?" },
+    "options": {
+      "a": { "es": "25 km/h.", "ru": "25 км/ч." },
+      "b": { "es": "45 km/h.", "ru": "45 км/ч." },
+      "c": { "es": "50 km/h.", "ru": "50 км/ч." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Un ciclomotor no puede superar por construcción los 45 km/h. Además, si su motor es de combustión, la cilindrada no puede pasar de 50 cm³, y si es eléctrico, la potencia continua no puede superar los 4 kW.", "ru": "Мопед по конструкции не может развивать скорость более 45 км/ч. Кроме того, объём двигателя внутреннего сгорания — не более 50 см³, а мощность электромотора — не более 4 кВт." }
+  },
+  {
+    "id": "B-DEF-0013", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 21",
+    "question": { "es": "¿Qué masa máxima autorizada puede tener como máximo un remolque ligero?", "ru": "Какую максимальную разрешённую массу (РММ) может иметь лёгкий прицеп?" },
+    "options": {
+      "a": { "es": "500 kg.", "ru": "500 кг." },
+      "b": { "es": "3.500 kg.", "ru": "3500 кг." },
+      "c": { "es": "750 kg.", "ru": "750 кг." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Se considera remolque ligero el que tiene una masa máxima autorizada que no excede de 750 kg (sin contar los agrícolas).", "ru": "Лёгким считается прицеп, разрешённая максимальная масса которого не превышает 750 кг (кроме сельскохозяйственных)." }
+  },
+  {
+    "id": "B-DEF-0014", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 35, 36 y 37",
+    "question": { "es": "¿Qué es la masa máxima autorizada (MMA) de un vehículo?", "ru": "Что такое разрешённая максимальная масса (РММ) транспортного средства?" },
+    "options": {
+      "a": { "es": "La masa máxima con la que puede utilizarse el vehículo con carga en las vías públicas.", "ru": "Максимальная масса, с которой ТС может эксплуатироваться с грузом на дорогах общего пользования." },
+      "b": { "es": "La masa del vehículo vacío, con el depósito lleno.", "ru": "Масса пустого ТС с полным баком." },
+      "c": { "es": "La masa real que tiene el vehículo en cada momento, con su carga y sus ocupantes.", "ru": "Фактическая масса ТС в данный момент — с грузом и людьми." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La MMA es la masa máxima para utilizar el vehículo con carga en las vías públicas. La masa del vehículo vacío con su dotación es la tara, y la masa real con carga y ocupantes es la masa en carga.", "ru": "РММ — максимальная масса, с которой ТС может ездить с грузом по дорогам общего пользования. Масса пустого ТС со всем оснащением — это «tara», а фактическая масса с грузом и людьми — «masa en carga»." }
+  },
+  {
+    "id": "B-DEF-0015", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 35",
+    "question": { "es": "¿Qué es la tara de un vehículo?", "ru": "Что такое снаряжённая масса (tara) транспортного средства?" },
+    "options": {
+      "a": { "es": "La masa del vehículo con el conductor y los pasajeros, pero sin carga.", "ru": "Масса ТС с водителем и пассажирами, но без груза." },
+      "b": { "es": "La masa máxima que puede alcanzar el vehículo cargado.", "ru": "Максимальная масса, которой может достигать гружёное ТС." },
+      "c": { "es": "La masa del vehículo con su equipo fijo y su dotación completa de combustible, lubricante, herramientas y accesorios, sin personas ni carga.", "ru": "Масса ТС с постоянным оборудованием, полной заправкой топливом и смазкой, с инструментами и принадлежностями, но без людей и груза." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La tara es la masa del vehículo con su equipo fijo autorizado y su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios reglamentarios, sin personal de servicio, pasajeros ni carga.", "ru": "Tara — масса ТС с разрешённым постоянным оборудованием и полной заправкой водой, топливом, смазкой, с запасными частями, инструментами и обязательными принадлежностями, но без персонала, пассажиров и груза." }
+  },
+  {
+    "id": "B-DEF-0016", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 22 y 24",
+    "question": { "es": "Un automóvil formado por un vehículo de motor enganchado a un remolque se denomina...", "ru": "Как называется автомобиль, состоящий из механического ТС с прицепом?" },
+    "options": {
+      "a": { "es": "vehículo articulado.", "ru": "Седельный автопоезд (vehículo articulado)." },
+      "b": { "es": "tren de carretera.", "ru": "Автопоезд (tren de carretera)." },
+      "c": { "es": "vehículo especial.", "ru": "Специальное ТС." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Es un tren de carretera. Si el vehículo de motor va acoplado a un semirremolque, que apoya parte de su masa sobre él, se llama vehículo articulado.", "ru": "Это автопоезд (tren de carretera). Если механическое ТС соединено с полуприцепом, который опирается на него частью своей массы, это седельный автопоезд (vehículo articulado)." }
+  },
+  {
+    "id": "B-DEF-0017", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 56",
+    "question": { "es": "Para que una banda longitudinal de la calzada se considere un carril, debe tener anchura suficiente para permitir la circulación de...", "ru": "Чтобы продольная полоса проезжей части считалась полосой движения, её ширина должна позволять движение..." },
+    "options": {
+      "a": { "es": "una fila de automóviles que no sean motocicletas.", "ru": "...одного ряда автомобилей, не являющихся мотоциклами." },
+      "b": { "es": "dos filas de turismos.", "ru": "...двух рядов легковых автомобилей." },
+      "c": { "es": "una fila de motocicletas.", "ru": "...одного ряда мотоциклов." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El carril es una banda longitudinal de la calzada, delimitada o no por marcas viales, con anchura suficiente para que circule una fila de automóviles que no sean motocicletas. No hace falta que esté pintado.", "ru": "Полоса движения — продольная часть проезжей части, обозначенная разметкой или нет, шириной, достаточной для одного ряда автомобилей (не мотоциклов). Разметка для этого не обязательна." }
+  },
+  {
+    "id": "B-DEF-0018", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 62",
+    "question": { "es": "¿Qué caracteriza a una intersección?", "ru": "Что характеризует перекрёсток (intersección)?" },
+    "options": {
+      "a": { "es": "Que las vías se cruzan a distinto nivel, mediante puentes o pasos inferiores.", "ru": "Дороги пересекаются в разных уровнях — по мостам или тоннелям." },
+      "b": { "es": "Que siempre está regulada por semáforos o por agentes.", "ru": "Он всегда регулируется светофорами или регулировщиками." },
+      "c": { "es": "Que todos los cruces de trayectorias de los vehículos se realizan a nivel.", "ru": "Все пересечения траекторий ТС происходят в одном уровне." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Una intersección es un nudo de la red viaria en el que todos los cruces de trayectorias posibles de los vehículos se realizan a nivel, es decir, a la misma altura.", "ru": "Перекрёсток — узел дорожной сети, где все возможные пересечения траекторий ТС происходят в одном уровне, то есть на одной высоте." }
+  },
+  {
+    "id": "B-DEF-0019", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 70",
+    "question": { "es": "¿Qué hace que un espacio se considere poblado a efectos de tráfico?", "ru": "Что делает территорию населённым пунктом (poblado) с точки зрения правил движения?" },
+    "options": {
+      "a": { "es": "Que tenga más de mil habitantes.", "ru": "Наличие более тысячи жителей." },
+      "b": { "es": "Que comprenda edificios y tenga señales de entrada y de salida de poblado en sus vías de acceso.", "ru": "Наличие зданий и знаков начала и конца населённого пункта на въездах и выездах." },
+      "c": { "es": "Que tenga alumbrado público en todas sus calles.", "ru": "Наличие уличного освещения на всех улицах." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Poblado es el espacio que comprende edificios y en cuyas vías de entrada y de salida están colocadas las señales de entrada a poblado y de salida de poblado. El número de habitantes no influye.", "ru": "Населённый пункт (poblado) — территория со зданиями, на въездах и выездах которой установлены знаки начала и конца населённого пункта. Количество жителей значения не имеет." }
+  },
+  {
+    "id": "B-DEF-0020", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 60",
+    "question": { "es": "¿Cómo se llama la zona peatonal situada en la calzada y protegida del tránsito rodado?", "ru": "Как называется пешеходная зона на проезжей части, защищённая от потока транспорта?" },
+    "options": {
+      "a": { "es": "Refugio.", "ru": "Островок безопасности (refugio)." },
+      "b": { "es": "Arcén.", "ru": "Обочина." },
+      "c": { "es": "Acera-bici.", "ru": "Велодорожка на тротуаре (acera-bici)." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El refugio es una zona peatonal situada en la calzada y protegida del tránsito rodado; sirve, por ejemplo, para cruzar una calle ancha en dos tiempos.", "ru": "Островок безопасности (refugio) — пешеходная зона на проезжей части, защищённая от потока машин; например, чтобы переходить широкую улицу в два этапа." }
+  },
+  {
+    "id": "B-DEF-0021", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 86",
+    "question": { "es": "Según la Ley de Tráfico, ¿quiénes se consideran usuarios vulnerables de la vía?", "ru": "Кто, согласно Закону о дорожном движении, считается уязвимыми участниками движения?" },
+    "options": {
+      "a": { "es": "Solo los peatones menores de edad y las personas mayores.", "ru": "Только несовершеннолетние пешеходы и пожилые люди." },
+      "b": { "es": "Entre otros, los peatones, los ciclistas, los conductores de vehículos de movilidad personal y los conductores y pasajeros de motocicletas y ciclomotores.", "ru": "В частности, пешеходы, велосипедисты, водители средств индивидуальной мобильности, а также водители и пассажиры мотоциклов и мопедов." },
+      "c": { "es": "Los conductores con menos de un año de antigüedad del permiso.", "ru": "Водители со стажем менее одного года." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Son usuarios vulnerables quienes, por su medio de desplazamiento o por su edad, tienen mayor riesgo de sufrir lesiones en un accidente: los peatones (en especial personas con discapacidad, menores, mayores y personas con movilidad reducida), los ciclistas, los conductores de VMP y los conductores y pasajeros de motocicletas y ciclomotores. Este concepto se añadió en 2026.", "ru": "Уязвимые участники — те, кто из-за способа передвижения или возраста сильнее рискует пострадать в ДТП: пешеходы (особенно люди с инвалидностью, дети, пожилые и люди с ограниченной подвижностью), велосипедисты, водители СИМ, а также водители и пассажиры мотоциклов и мопедов. Это понятие добавлено в 2026 году." }
+  },
+  {
+    "id": "B-DEF-0022", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 83",
+    "question": { "es": "En una zona con plataforma única de calzada y acera, el peatón...", "ru": "В зоне с единым уровнем проезжей части и тротуара (plataforma única) пешеход..." },
+    "options": {
+      "a": { "es": "solo puede cruzar por los pasos para peatones señalizados.", "ru": "...может переходить только по обозначенным пешеходным переходам." },
+      "b": { "es": "debe ceder el paso a los vehículos que circulen por la calzada.", "ru": "...должен уступать дорогу ТС, движущимся по проезжей части." },
+      "c": { "es": "tiene prioridad de paso en cualquier punto de la calzada.", "ru": "...имеет преимущество в любой точке проезжей части." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Es una zona diseñada para favorecer el tránsito peatonal: el peatón tiene prioridad de paso en cualquier punto de la calzada y la señalización horizontal y vertical se reduce al mínimo.", "ru": "Это зона, устроенная в интересах пешеходов: пешеход имеет преимущество в любой точке проезжей части, а дорожные знаки и разметка сведены к минимуму." }
+  },
+  {
+    "id": "B-DEF-0023", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 1",
+    "question": { "es": "Durante una clase práctica en un vehículo de autoescuela con doble mando, ¿quién tiene la consideración de conductor?", "ru": "Кто считается водителем во время практического занятия в учебном автомобиле с двойным управлением?" },
+    "options": {
+      "a": { "es": "El alumno, porque maneja el volante.", "ru": "Ученик, потому что он держит руль." },
+      "b": { "es": "La persona que está a cargo de los mandos adicionales.", "ru": "Человек, который отвечает за дополнительные органы управления (инструктор)." },
+      "c": { "es": "Los dos, por igual.", "ru": "Оба в равной степени." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En los vehículos que circulan en función de aprendizaje de la conducción, la ley considera conductor a la persona que está a cargo de los mandos adicionales, normalmente el profesor.", "ru": "В ТС, используемых для обучения вождению, закон считает водителем того, кто отвечает за дополнительные органы управления, — обычно инструктора." }
+  },
+  {
+    "id": "B-DEF-0024", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 2 y 5",
+    "question": { "es": "¿Quién es el titular de un vehículo?", "ru": "Кто является владельцем (titular) транспортного средства?" },
+    "options": {
+      "a": { "es": "La persona que lo conduce habitualmente.", "ru": "Человек, который обычно им управляет." },
+      "b": { "es": "La persona que ha contratado el seguro obligatorio.", "ru": "Человек, оформивший обязательную страховку." },
+      "c": { "es": "La persona a cuyo nombre figura inscrito en el registro oficial.", "ru": "Человек, на имя которого ТС записано в официальном реестре." }
+    },
+    "correct": "c",
+    "explanation": { "es": "El titular es la persona a cuyo nombre figura inscrito el vehículo en el registro oficial. Quien lo conduce de forma habitual puede ser otra persona: el conductor habitual.", "ru": "Владелец (titular) — человек, на имя которого ТС зарегистрировано в официальном реестре. Тот, кто обычно на нём ездит, может быть другим человеком — основным водителем (conductor habitual)." }
+  },
+  {
+    "id": "B-DEF-0025", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 15 y 16",
+    "question": { "es": "Un automóvil destinado al transporte de personas que tiene 12 plazas, incluida la del conductor, es...", "ru": "Автомобиль для перевозки людей с 12 местами, включая место водителя, — это..." },
+    "options": {
+      "a": { "es": "un turismo.", "ru": "...легковой автомобиль." },
+      "b": { "es": "un vehículo mixto adaptable.", "ru": "...грузопассажирский автомобиль." },
+      "c": { "es": "un autobús.", "ru": "...автобус." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los automóviles para transporte de personas con más de nueve plazas, incluida la del conductor, son autobuses. Un turismo tiene como máximo ocho plazas además de la del conductor.", "ru": "Автомобили для перевозки людей, у которых больше девяти мест вместе с водительским, — это автобусы. У легкового автомобиля — не более восьми мест, не считая водителя." }
+  },
+  {
+    "id": "B-DEF-0026", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 48",
+    "question": { "es": "¿Para qué sirve la luz de gálibo?", "ru": "Для чего служит контурный огонь (luz de gálibo)?" },
+    "options": {
+      "a": { "es": "Para indicar la anchura total del vehículo.", "ru": "Чтобы показать полную ширину ТС." },
+      "b": { "es": "Para iluminar la carga del vehículo por la noche.", "ru": "Чтобы освещать груз ночью." },
+      "c": { "es": "Para advertir de que el vehículo va a frenar.", "ru": "Чтобы предупредить, что ТС будет тормозить." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Es una luz instalada lo más cerca posible del borde exterior más elevado del vehículo y destinada a indicar su anchura total. En algunos vehículos complementa a las luces de posición para señalar su volumen.", "ru": "Это фонарь, установленный как можно ближе к верхнему наружному краю ТС, чтобы показывать его полную ширину. На некоторых ТС он дополняет габаритные огни, обозначая размеры." }
+  },
+  {
+    "id": "B-DEF-0027", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 71, 72 y 73",
+    "question": { "es": "Una vía pública situada fuera de poblado es una...", "ru": "Дорога общего пользования, расположенная вне населённого пункта, — это..." },
+    "options": {
+      "a": { "es": "vía urbana.", "ru": "...городская дорога (vía urbana)." },
+      "b": { "es": "travesía.", "ru": "...участок автодороги в населённом пункте (travesía)." },
+      "c": { "es": "vía interurbana.", "ru": "...загородная дорога (vía interurbana)." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Las vías públicas situadas fuera de poblado son vías interurbanas. Las situadas dentro de poblado son vías urbanas, salvo las travesías, que son tramos de carretera que discurren por el poblado.", "ru": "Дороги вне населённых пунктов — загородные (vías interurbanas). Дороги внутри населённого пункта — городские (vías urbanas), кроме travesías — участков автодорог, проходящих через населённый пункт." }
+  },
+  {
+    "id": "B-DEF-0028", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 81 y 82",
+    "question": { "es": "Un conductor deja su turismo inmovilizado durante un minuto y se baja para sacar dinero de un cajero. ¿Qué ha realizado?", "ru": "Водитель оставил легковой автомобиль на одну минуту и вышел снять деньги в банкомате. Что он сделал?" },
+    "options": {
+      "a": { "es": "Una parada, porque ha durado menos de dos minutos.", "ru": "Остановку (parada), потому что она длилась менее двух минут." },
+      "b": { "es": "Un estacionamiento, porque ha abandonado el vehículo.", "ru": "Стоянку (estacionamiento), потому что он покинул ТС." },
+      "c": { "es": "Una detención, porque ha sido por poco tiempo.", "ru": "Вынужденную остановку (detención), потому что это было ненадолго." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Para que sea parada, la inmovilización debe durar menos de dos minutos y el conductor no puede abandonar el vehículo. Como se ha bajado y se ha alejado, es un estacionamiento, aunque haya sido breve.", "ru": "Чтобы это была остановка (parada), неподвижность должна длиться менее двух минут, и водитель не может покидать ТС. Раз он вышел и отошёл, это стоянка (estacionamiento), даже если недолгая." }
+  },
+  {
+    "id": "B-DEF-0029", "topic": "definiciones", "source": "generada", "ref": "LSV anexo I, 7; RGV anexo II",
+    "question": { "es": "Una bicicleta con un pequeño motor eléctrico que solo ayuda mientras se pedalea y deja de asistir antes de los 25 km/h, ¿qué consideración tiene?", "ru": "Кем считается велосипед с небольшим электромотором, который помогает только при вращении педалей и отключается до 25 км/ч?" },
+    "options": {
+      "a": { "es": "Es un ciclo (bicicleta de pedaleo asistido).", "ru": "Это велосипед (с педальным ассистентом — pedaleo asistido)." },
+      "b": { "es": "Es un ciclomotor.", "ru": "Это мопед." },
+      "c": { "es": "Es un vehículo de movilidad personal.", "ru": "Это средство индивидуальной мобильности." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los ciclos de pedaleo asistido llevan un motor eléctrico auxiliar de hasta 250 W cuya ayuda se interrumpe antes de alcanzar los 25 km/h o si se deja de pedalear. La ley los incluye en la definición de ciclo, así que una bicicleta de este tipo sigue siendo una bicicleta.", "ru": "У велосипедов с педальным ассистентом есть вспомогательный электромотор мощностью до 250 Вт, помощь которого прекращается до 25 км/ч или когда перестают крутить педали. Закон относит их к велосипедам (ciclos), так что такой велосипед остаётся велосипедом." }
+  },
+  {
+    "id": "B-DEF-0030", "topic": "definiciones", "source": "generada", "ref": "RGV anexo II",
+    "question": { "es": "Un vehículo de movilidad personal, como un patinete eléctrico, es aquel cuya velocidad máxima por diseño está comprendida entre...", "ru": "Средство индивидуальной мобильности, например электросамокат, — это ТС с максимальной скоростью по конструкции в пределах..." },
+    "options": {
+      "a": { "es": "6 y 25 km/h.", "ru": "От 6 до 25 км/ч." },
+      "b": { "es": "10 y 45 km/h.", "ru": "От 10 до 45 км/ч." },
+      "c": { "es": "25 y 45 km/h.", "ru": "От 25 до 45 км/ч." }
+    },
+    "correct": "a",
+    "explanation": { "es": "El vehículo de movilidad personal tiene una o más ruedas, una única plaza y motor exclusivamente eléctrico, y alcanza por diseño entre 6 y 25 km/h. Solo puede llevar asiento si tiene sistema de autoequilibrado.", "ru": "Средство индивидуальной мобильности имеет одно или несколько колёс, одно место и только электрический двигатель; по конструкции развивает от 6 до 25 км/ч. Сиденье допускается, только если есть система самобалансировки." }
   }
 ]

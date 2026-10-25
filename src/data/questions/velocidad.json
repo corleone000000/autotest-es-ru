@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B-VEL-0001", "topic": "velocidad", "source": "generada", "ref": "RGC art. 48.1.a",
+    "question": { "es": "¿Cuál es la velocidad máxima genérica de un turismo en autopista o autovía?", "ru": "Какова общая максимальная скорость легкового автомобиля на автомагистрали или autovía?" },
+    "options": {
+      "a": { "es": "120 km/h.", "ru": "120 км/ч." },
+      "b": { "es": "100 km/h.", "ru": "100 км/ч." },
+      "c": { "es": "130 km/h.", "ru": "130 км/ч." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En autopistas y autovías, los turismos, las motocicletas y las autocaravanas de hasta 3.500 kg de MMA pueden circular como máximo a 120 km/h, salvo que una señal indique otra cosa.", "ru": "На автомагистралях и autovías легковые автомобили, мотоциклы и автодома с РММ до 3500 кг могут ехать не быстрее 120 км/ч, если знак не указывает иное." }
+  },
+  {
+    "id": "B-VEL-0002", "topic": "velocidad", "source": "generada", "ref": "RGC art. 48.1.a",
+    "question": { "es": "¿Cuál es la velocidad máxima genérica de un turismo en una carretera convencional?", "ru": "Какова общая максимальная скорость легкового автомобиля на обычной дороге?" },
+    "options": {
+      "a": { "es": "100 km/h.", "ru": "100 км/ч." },
+      "b": { "es": "90 km/h.", "ru": "90 км/ч." },
+      "c": { "es": "80 km/h.", "ru": "80 км/ч." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En carreteras convencionales el límite genérico para turismos y motocicletas es de 90 km/h. Solo si la carretera tiene separación física entre sentidos, su titular puede fijar 100 km/h mediante señales.", "ru": "На обычных дорогах общий предел для легковых автомобилей и мотоциклов — 90 км/ч. Только если направления физически разделены, владелец дороги может установить знаками 100 км/ч." }
+  },
+  {
+    "id": "B-VEL-0003", "topic": "velocidad", "source": "generada", "ref": "RGC art. 48.1.a",
+    "question": { "es": "Circula por una autovía con un turismo que arrastra un remolque ligero. ¿Cuál es su velocidad máxima genérica?", "ru": "Вы едете по autovía на легковом автомобиле с лёгким прицепом. Какова общая максимальная скорость?" },
+    "options": {
+      "a": { "es": "120 km/h, como cualquier turismo.", "ru": "120 км/ч, как у любого легкового автомобиля." },
+      "b": { "es": "100 km/h.", "ru": "100 км/ч." },
+      "c": { "es": "90 km/h.", "ru": "90 км/ч." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Los automóviles con remolque tienen los mismos límites que los camiones: 90 km/h en autopistas y autovías y 80 km/h en carreteras convencionales.", "ru": "Для автомобилей с прицепом действуют те же ограничения, что и для грузовиков: 90 км/ч на автомагистралях и autovías и 80 км/ч на обычных дорогах." }
+  },
+  {
+    "id": "B-VEL-0004", "topic": "velocidad", "source": "generada", "ref": "RGC art. 50.1.b",
+    "question": { "es": "¿Cuál es el límite genérico de velocidad en una vía urbana con un único carril por sentido de circulación?", "ru": "Каков общий предел скорости на городской улице с одной полосой в каждом направлении?" },
+    "options": {
+      "a": { "es": "30 km/h.", "ru": "30 км/ч." },
+      "b": { "es": "50 km/h.", "ru": "50 км/ч." },
+      "c": { "es": "40 km/h.", "ru": "40 км/ч." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En vías urbanas el límite genérico depende de la vía: 20 km/h con plataforma única de calzada y acera, 30 km/h con un único carril por sentido y 50 km/h con dos o más carriles por sentido. Los carriles reservados (por ejemplo, para autobuses) no se cuentan.", "ru": "В городе общий предел зависит от улицы: 20 км/ч при едином уровне проезжей части и тротуара, 30 км/ч при одной полосе в каждом направлении и 50 км/ч при двух и более полосах в направлении. Выделенные полосы (например, для автобусов) не считаются." }
+  },
+  {
+    "id": "B-VEL-0005", "topic": "velocidad", "source": "generada", "ref": "RGC art. 50.1.a",
+    "question": { "es": "¿A qué velocidad máxima se puede circular por una calle con plataforma única de calzada y acera, si no hay señales?", "ru": "С какой максимальной скоростью можно ехать по улице с единым уровнем проезжей части и тротуара, если нет знаков?" },
+    "options": {
+      "a": { "es": "30 km/h.", "ru": "30 км/ч." },
+      "b": { "es": "20 km/h.", "ru": "20 км/ч." },
+      "c": { "es": "10 km/h.", "ru": "10 км/ч." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En las vías urbanas con plataforma única de calzada y acera, donde el peatón tiene prioridad en cualquier punto, el límite genérico es de 20 km/h.", "ru": "На городских улицах с единым уровнем проезжей части и тротуара, где пешеход имеет преимущество в любой точке, общий предел — 20 км/ч." }
+  },
+  {
+    "id": "B-VEL-0006", "topic": "velocidad", "source": "generada", "ref": "RGC art. 50.1.c",
+    "question": { "es": "¿Cuál es el límite genérico de velocidad en una avenida urbana con dos carriles para cada sentido?", "ru": "Каков общий предел скорости на городском проспекте с двумя полосами в каждом направлении?" },
+    "options": {
+      "a": { "es": "30 km/h.", "ru": "30 км/ч." },
+      "b": { "es": "40 km/h.", "ru": "40 км/ч." },
+      "c": { "es": "50 km/h.", "ru": "50 км/ч." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En vías urbanas con dos o más carriles por sentido el límite genérico es de 50 km/h. El ayuntamiento puede rebajarlo con señales.", "ru": "На городских улицах с двумя и более полосами в каждом направлении общий предел — 50 км/ч. Муниципалитет может снизить его знаками." }
+  },
+  {
+    "id": "B-VEL-0007", "topic": "velocidad", "source": "generada", "ref": "RGC art. 50.5",
+    "question": { "es": "¿Cuál es el límite genérico de velocidad en una travesía?", "ru": "Каков общий предел скорости на участке автодороги в населённом пункте (travesía)?" },
+    "options": {
+      "a": { "es": "50 km/h para todo tipo de vehículos.", "ru": "50 км/ч для всех видов ТС." },
+      "b": { "es": "30 km/h para todo tipo de vehículos.", "ru": "30 км/ч для всех видов ТС." },
+      "c": { "es": "El mismo que en la carretera fuera de poblado.", "ru": "Такой же, как на этой дороге вне населённого пункта." }
+    },
+    "correct": "a",
+    "explanation": { "es": "En las travesías el límite genérico es de 50 km/h para todos los vehículos. Puede rebajarse por acuerdo del ayuntamiento con el titular de la vía, con señalización específica.", "ru": "На travesías общий предел — 50 км/ч для всех ТС. Его можно снизить по соглашению муниципалитета с владельцем дороги, установив знаки." }
+  },
+  {
+    "id": "B-VEL-0008", "topic": "velocidad", "source": "generada", "ref": "RGC art. 49.1",
+    "question": { "es": "¿Por debajo de qué velocidad está prohibido circular con un vehículo a motor por una autopista, sin causa justificada?", "ru": "Ниже какой скорости запрещено ехать на механическом ТС по автомагистрали без уважительной причины?" },
+    "options": {
+      "a": { "es": "40 km/h.", "ru": "40 км/ч." },
+      "b": { "es": "60 km/h.", "ru": "60 км/ч." },
+      "c": { "es": "80 km/h.", "ru": "80 км/ч." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En autopistas y autovías está prohibido circular con vehículos a motor por debajo de 60 km/h, aunque no haya otros vehículos, salvo que las circunstancias del tráfico, del vehículo o de la vía lo impidan.", "ru": "На автомагистралях и autovías запрещено ехать на механическом ТС медленнее 60 км/ч, даже если других машин нет, кроме случаев, когда этого не позволяют условия движения, ТС или дороги." }
+  },
+  {
+    "id": "B-VEL-0009", "topic": "velocidad", "source": "generada", "ref": "RGC art. 49.1; RGC art. 48.1.a",
+    "question": { "es": "En una carretera convencional sin señales de velocidad, ¿cuál es la velocidad mínima para un turismo, si no hay causa que justifique ir más despacio?", "ru": "Какова минимальная скорость легкового автомобиля на обычной дороге без знаков, если нет причины ехать медленнее?" },
+    "options": {
+      "a": { "es": "60 km/h.", "ru": "60 км/ч." },
+      "b": { "es": "30 km/h.", "ru": "30 км/ч." },
+      "c": { "es": "45 km/h.", "ru": "45 км/ч." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Fuera de autopistas y autovías, la velocidad mínima es la mitad de la genérica de cada vehículo en esa vía. Para un turismo en carretera convencional, la mitad de 90 km/h son 45 km/h.", "ru": "Вне автомагистралей и autovías минимальная скорость — половина общей максимальной для данного ТС на этой дороге. Для легкового автомобиля на обычной дороге половина от 90 км/ч — 45 км/ч." }
+  },
+  {
+    "id": "B-VEL-0010", "topic": "velocidad", "source": "generada", "ref": "RGC art. 51 (derogado por la Ley 18/2021)",
+    "question": { "es": "Para adelantar en una carretera convencional, ¿puede un turismo superar la velocidad máxima permitida?", "ru": "Может ли легковой автомобиль при обгоне на обычной дороге превысить максимальную разрешённую скорость?" },
+    "options": {
+      "a": { "es": "No, nunca se puede superar el límite de velocidad para adelantar.", "ru": "Нет, превышать ограничение скорости для обгона нельзя никогда." },
+      "b": { "es": "Sí, hasta en 20 km/h.", "ru": "Да, не более чем на 20 км/ч." },
+      "c": { "es": "Sí, si el adelantamiento dura menos de 15 segundos.", "ru": "Да, если обгон длится менее 15 секунд." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Antes se permitía superar en 20 km/h el límite para adelantar en carreteras convencionales, pero esa excepción se eliminó en 2022 (Ley 18/2021). Hoy no se puede rebasar el límite ni siquiera para adelantar.", "ru": "Раньше на обычных дорогах разрешалось превышать предел на 20 км/ч при обгоне, но это исключение отменили в 2022 году (закон 18/2021). Сейчас превышать скорость нельзя даже при обгоне." }
+  },
+  {
+    "id": "B-VEL-0011", "topic": "velocidad", "source": "generada", "ref": "RGC art. 48.1.a.1.º",
+    "question": { "es": "En una carretera convencional con separación física entre los dos sentidos de circulación, ¿quién puede fijar para los turismos un límite de 100 km/h?", "ru": "Кто может установить для легковых автомобилей предел 100 км/ч на обычной дороге с физическим разделением направлений?" },
+    "options": {
+      "a": { "es": "Nadie: en carreteras convencionales el límite es siempre 90 km/h.", "ru": "Никто: на обычных дорогах предел всегда 90 км/ч." },
+      "b": { "es": "El titular de la vía, mediante la señalización correspondiente.", "ru": "Владелец дороги, установив соответствующие знаки." },
+      "c": { "es": "El propio conductor, si la carretera está despejada.", "ru": "Сам водитель, если дорога свободна." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En las carreteras convencionales con separación física de los dos sentidos, el titular de la vía puede fijar un límite máximo de 100 km/h para turismos, motocicletas y autocaravanas de hasta 3.500 kg. Si no lo señaliza, rige el genérico de 90 km/h.", "ru": "На обычных дорогах с физическим разделением направлений владелец дороги может установить максимум 100 км/ч для легковых автомобилей, мотоциклов и автодомов до 3500 кг. Без таких знаков действует общий предел 90 км/ч." }
+  },
+  {
+    "id": "B-VEL-0012", "topic": "velocidad", "source": "generada", "ref": "RGC art. 48.1.f",
+    "question": { "es": "¿Cuál es la velocidad máxima en una vía sin pavimentar fuera de poblado?", "ru": "Какова максимальная скорость на дороге без покрытия вне населённого пункта?" },
+    "options": {
+      "a": { "es": "50 km/h.", "ru": "50 км/ч." },
+      "b": { "es": "40 km/h.", "ru": "40 км/ч." },
+      "c": { "es": "30 km/h.", "ru": "30 км/ч." }
+    },
+    "correct": "c",
+    "explanation": { "es": "En las vías sin pavimentar el límite máximo de velocidad es de 30 km/h.", "ru": "На дорогах без покрытия максимальная скорость — 30 км/ч." }
+  },
+  {
+    "id": "B-VEL-0013", "topic": "velocidad", "source": "generada", "ref": "RGC art. 48.1.b",
+    "question": { "es": "Un autobús circula fuera de poblado con pasajeros de pie autorizados. ¿Cuál es su velocidad máxima?", "ru": "Автобус едет вне населённого пункта с разрешёнными стоящими пассажирами. Какова его максимальная скорость?" },
+    "options": {
+      "a": { "es": "80 km/h, en cualquier tipo de vía fuera de poblado.", "ru": "80 км/ч на любой дороге вне населённого пункта." },
+      "b": { "es": "100 km/h en autopista y 90 km/h en carretera convencional.", "ru": "100 км/ч на автомагистрали и 90 км/ч на обычной дороге." },
+      "c": { "es": "60 km/h.", "ru": "60 км/ч." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Si en un autobús viajan pasajeros de pie autorizados, o si no está dotado de cinturones de seguridad, su velocidad máxima es de 80 km/h en cualquier tipo de vía fuera de poblado (redacción vigente desde octubre de 2026).", "ru": "Если в автобусе есть разрешённые стоящие пассажиры или он не оборудован ремнями безопасности, его максимальная скорость — 80 км/ч на любой дороге вне населённого пункта (редакция, действующая с октября 2026 года)." }
+  },
+  {
+    "id": "B-VEL-0014", "topic": "velocidad", "source": "generada", "ref": "RGC art. 45",
+    "question": { "es": "Además de respetar los límites, ¿cómo debe adecuar un conductor su velocidad?", "ru": "Как, помимо соблюдения ограничений, водитель должен выбирать скорость?" },
+    "options": {
+      "a": { "es": "Circulando siempre al límite máximo permitido para no entorpecer.", "ru": "Всегда ехать с максимально разрешённой скоростью, чтобы не мешать." },
+      "b": { "es": "De forma que siempre pueda detener el vehículo dentro de su campo de visión y ante cualquier obstáculo.", "ru": "Так, чтобы всегда можно было остановить ТС в пределах видимости и перед любым препятствием." },
+      "c": { "es": "Solo en función de la velocidad de los demás vehículos.", "ru": "Только в зависимости от скорости других ТС." }
+    },
+    "correct": "b",
+    "explanation": { "es": "El conductor debe tener en cuenta sus condiciones físicas y psíquicas, la vía, el vehículo, la carga, el tiempo y el tráfico, y adecuar la velocidad para poder detenerse siempre dentro de los límites de su campo de visión y ante cualquier obstáculo.", "ru": "Водитель должен учитывать своё физическое и психическое состояние, дорогу, ТС, груз, погоду и движение и выбирать скорость так, чтобы всегда успеть остановиться в пределах видимости и перед любым препятствием." }
+  },
+  {
+    "id": "B-VEL-0015", "topic": "velocidad", "source": "generada", "ref": "RGC art. 46.1.h",
+    "question": { "es": "Se aproxima a una intersección señalizada y la visibilidad de la vía es prácticamente nula. ¿Qué velocidad no debe superar?", "ru": "Вы приближаетесь к обозначенному перекрёстку, а видимость практически нулевая. Какую скорость нельзя превышать?" },
+    "options": {
+      "a": { "es": "30 km/h.", "ru": "30 км/ч." },
+      "b": { "es": "70 km/h.", "ru": "70 км/ч." },
+      "c": { "es": "50 km/h.", "ru": "50 км/ч." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Al aproximarse a intersecciones, hay que moderar la velocidad; si están debidamente señalizadas y la visibilidad es prácticamente nula, no se deben superar los 50 km/h.", "ru": "При приближении к перекрёсткам нужно снижать скорость; если они обозначены знаками, а видимость практически нулевая, нельзя превышать 50 км/ч." }
+  },
+  {
+    "id": "B-VEL-0016", "topic": "velocidad", "source": "generada", "ref": "RGC art. 54.2 y 54.3",
+    "question": { "es": "Fuera de poblado, en una carretera de un carril por sentido donde se puede adelantar, ¿qué separación mínima debe guardar un camión de más de 3.500 kg respecto al vehículo que le precede?", "ru": "Какую минимальную дистанцию должен соблюдать грузовик массой более 3500 кг до впереди идущего ТС вне населённого пункта, на дороге с одной полосой в каждом направлении, где обгон разрешён?" },
+    "options": {
+      "a": { "es": "50 metros, para que otros puedan adelantarle con seguridad.", "ru": "50 метров, чтобы другие могли безопасно его обогнать." },
+      "b": { "es": "100 metros.", "ru": "100 метров." },
+      "c": { "es": "25 metros.", "ru": "25 метров." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Los vehículos de más de 3.500 kg de MMA y los de más de 10 metros de longitud deben dejar al menos 50 metros, para que quien les siga pueda adelantarles. No se aplica en poblado, donde está prohibido adelantar, si hay más de un carril en su sentido o si el tráfico está saturado.", "ru": "ТС с РММ более 3500 кг и длиной более 10 метров должны держать не менее 50 метров, чтобы следующий за ними мог их обогнать. Это не действует в населённом пункте, там, где обгон запрещён, при нескольких полосах в одном направлении или при плотном движении." }
+  },
+  {
+    "id": "B-VEL-0017", "topic": "velocidad", "source": "generada", "ref": "RGC art. 54.1",
+    "question": { "es": "¿Qué distancia debe dejar con el vehículo que circula delante?", "ru": "Какую дистанцию нужно соблюдать до впереди идущего ТС?" },
+    "options": {
+      "a": { "es": "Siempre 10 metros, sea cual sea la velocidad.", "ru": "Всегда 10 метров при любой скорости." },
+      "b": { "es": "La que le permita detenerse sin chocar si frena bruscamente, teniendo en cuenta la velocidad y la adherencia.", "ru": "Такую, чтобы можно было остановиться без столкновения при его резком торможении, с учётом скорости и сцепления с дорогой." },
+      "c": { "es": "La longitud de un vehículo por cada 10 km/h, solo en autopista.", "ru": "Одну длину автомобиля на каждые 10 км/ч, только на автомагистрали." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La distancia de seguridad es el espacio libre que permite detenerse, en caso de frenado brusco del vehículo de delante, sin colisionar con él. Depende sobre todo de la velocidad y de las condiciones de adherencia y frenado.", "ru": "Безопасная дистанция — свободное пространство, позволяющее остановиться без столкновения, если впереди идущее ТС резко затормозит. Она зависит прежде всего от скорости, сцепления с дорогой и тормозов." }
+  },
+  {
+    "id": "B-VEL-0018", "topic": "velocidad", "source": "generada", "ref": "RGC art. 53.1",
+    "question": { "es": "Si va a reducir considerablemente la velocidad, sin que exista un peligro inminente, debe...", "ru": "Если вы собираетесь значительно снизить скорость при отсутствии непосредственной опасности, нужно..." },
+    "options": {
+      "a": { "es": "frenar con fuerza para que los de detrás lo noten.", "ru": "...резко затормозить, чтобы сзади это заметили." },
+      "b": { "es": "hacerlo sin más, ya que la luz de freno avisa por sí sola.", "ru": "...просто сделать это, ведь стоп-сигнал предупредит сам." },
+      "c": { "es": "cerciorarse de que no hay riesgo para los demás, advertirlo previamente y no hacerlo de forma brusca.", "ru": "...убедиться, что это безопасно для других, заранее предупредить и не делать этого резко." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Salvo peligro inminente, para reducir considerablemente la velocidad hay que asegurarse de que no supone riesgo para los demás, advertirlo previamente (con las luces de freno o con el brazo) y no hacerlo de forma brusca, para evitar alcances.", "ru": "Кроме случаев непосредственной опасности, чтобы значительно снизить скорость, нужно убедиться, что это не опасно для других, заранее предупредить (стоп-сигналами или рукой) и не тормозить резко, чтобы избежать наезда сзади." }
+  },
+  {
+    "id": "B-VEL-0019", "topic": "velocidad", "source": "generada", "ref": "RGC art. 49.3",
+    "question": { "es": "Su vehículo no puede alcanzar la velocidad mínima exigida y existe peligro de que le alcancen por detrás. ¿Qué debe hacer?", "ru": "Ваше ТС не может развить требуемую минимальную скорость, и есть опасность наезда сзади. Что нужно сделать?" },
+    "options": {
+      "a": { "es": "Circular con la señal de emergencia (todos los intermitentes) encendida.", "ru": "Ехать с включённой аварийной сигнализацией (все указатели поворота)." },
+      "b": { "es": "Encender la luz antiniebla delantera.", "ru": "Включить передние противотуманные фары." },
+      "c": { "es": "Circular por el carril izquierdo.", "ru": "Ехать по левой полосе." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Cuando un vehículo no puede alcanzar la velocidad mínima y hay peligro de alcance, debe circular con las luces indicadoras de dirección funcionando como señal de emergencia.", "ru": "Если ТС не может развить минимальную скорость и есть опасность наезда сзади, оно должно ехать с указателями поворота в режиме аварийной сигнализации." }
+  },
+  {
+    "id": "B-VEL-0020", "topic": "velocidad", "source": "generada", "ref": "RGC art. 50.6",
+    "question": { "es": "Si no hay señales, ¿cuál es el límite genérico de velocidad en una autovía que transcurre dentro de poblado?", "ru": "Каков общий предел скорости на autovía, проходящей через населённый пункт, если нет знаков?" },
+    "options": {
+      "a": { "es": "120 km/h.", "ru": "120 км/ч." },
+      "b": { "es": "80 km/h.", "ru": "80 км/ч." },
+      "c": { "es": "50 km/h.", "ru": "50 км/ч." }
+    },
+    "correct": "b",
+    "explanation": { "es": "En las autopistas y autovías que transcurren dentro de poblado el límite genérico es de 80 km/h. Puede ampliarse con señales, pero nunca por encima del límite de esas vías fuera de poblado.", "ru": "На автомагистралях и autovías внутри населённого пункта общий предел — 80 км/ч. Его можно повысить знаками, но не выше предела для таких дорог вне населённого пункта." }
+  }
+]
