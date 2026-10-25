@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ru: #6d28d9;
+  --color-ru-dark: #c4b5fd;
+}
+
+:root {
+  color-scheme: light dark;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  font-size: var(--font-scale, 100%);
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased dark:bg-slate-950 dark:text-slate-100;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overscroll-behavior-y: none;
+}
+
+#root {
+  min-height: 100dvh;
+}
+
+/* Texto en ruso: otro color y tamaño más pequeño, debajo del español. */
+.ru {
+  @apply mt-1 text-[0.9em] leading-snug text-ru dark:text-ru-dark;
+}
+
+/* Términos del glosario: mantener pulsado abre la traducción. */
+.term {
+  @apply cursor-help underline decoration-dotted decoration-2 underline-offset-4 decoration-slate-400 dark:decoration-slate-500;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.safe-bottom {
+  padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+}

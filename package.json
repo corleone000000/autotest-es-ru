@@ -1,0 +1,37 @@
+{
+  "name": "autotest-es-ru",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20.12"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate && tsc -b && vite build",
+    "preview": "vite preview",
+    "validate": "tsx scripts/validate-questions.ts",
+    "translate": "tsx scripts/translate.ts",
+    "generate": "tsx scripts/generate-questions.ts",
+    "icons": "node scripts/make-icons.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.137.0",
+    "idb-keyval": "^6.2.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.1.18",
+    "tsx": "^4.20.5",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.1",
+    "vite-plugin-pwa": "^1.0.3"
+  }
+}
