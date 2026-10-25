@@ -30,7 +30,11 @@ export default defineConfig(({ mode }) => {
     if (env[key] && !process.env[key]) process.env[key] = env[key]
   }
 
+  // En GitHub Pages la app vive en /autotest-es-ru/ (BASE_PATH); en Vercel y en local, en la raíz.
+  const base = env.BASE_PATH || '/'
+
   return {
+    base,
     define: {
       __APP_VERSION__: JSON.stringify(process.env.npm_package_version ?? '1.0.0'),
     },
@@ -52,8 +56,8 @@ export default defineConfig(({ mode }) => {
           short_name: 'AutoTest',
           description: 'Practica el examen teórico del permiso B (DGT) en español, con traducción al ruso.',
           lang: 'es',
-          start_url: '/',
-          scope: '/',
+          start_url: base,
+          scope: base,
           display: 'standalone',
           orientation: 'portrait',
           background_color: '#0f172a',

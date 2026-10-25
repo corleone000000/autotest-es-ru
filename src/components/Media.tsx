@@ -1,12 +1,13 @@
 import { useEffect, useState } from 'react'
 import type { AnyQuestion, LocalQuestion } from '../types'
 import { useT } from '../lib/i18n'
+import { withBase } from '../lib/paths'
 
 function useObjectUrl(src: string | Blob): string | undefined {
   const [url, setUrl] = useState<string>()
   useEffect(() => {
     if (typeof src === 'string') {
-      setUrl(src)
+      setUrl(withBase(src))
       return
     }
     const objectUrl = URL.createObjectURL(src)
@@ -56,7 +57,7 @@ function VideoPlayer({ src }: { src: string | Blob }) {
       try {
         let blob: Blob
         if (typeof src === 'string') {
-          const res = await fetch(src)
+          const res = await fetch(withBase(src))
           if (!res.ok) throw new Error(String(res.status))
           blob = await res.blob()
         } else {

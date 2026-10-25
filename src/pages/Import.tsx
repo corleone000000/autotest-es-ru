@@ -7,6 +7,7 @@ import { useSettings } from '../lib/settings'
 import { navigate } from '../lib/router'
 import { cropImage, prepareScreenshot } from '../lib/image'
 import { findDuplicate } from '../lib/text'
+import { withBase } from '../lib/paths'
 import { loadMyQuestions, newLocalId, saveMyQuestion } from '../lib/myQuestions'
 import { QuestionEditor, draftToLocal, isDraftValid, type Draft } from '../components/QuestionEditor'
 import { BottomBar, PageHeader, PrimaryButton } from '../components/ui'
@@ -52,12 +53,13 @@ export function ImportPage() {
     for (const [i, file] of list.entries()) {
       try {
         const shot = await prepareScreenshot(file)
-        const res = await fetch('/api/import', {
+        const res = await fetch(withBase('/api/import'), {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', 'x-import-token': settings.importToken },
           body: JSON.stringify({ image: shot.base64, mediaType: 'image/jpeg', topics: TOPICS.map(({ id, es }) => ({ id, es })) }),
         })
         const data = (await res.json().catch(() => ({}))) as Partial<ImportResponse> & { error?: string }
+        if (res.status === 404 || res.status === 405) throw new Error(t('importUnavailable'))
         if (!res.ok || !data.questions) throw new Error(data.error ?? `HTTP ${res.status}`)
         if (!data.questions.length) {
           updateJob(offset + i, { status: 'done', message: t('noneFound') })

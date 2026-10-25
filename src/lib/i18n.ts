@@ -120,6 +120,7 @@ const STRINGS = {
   processing: { es: 'Analizando', ru: 'Анализ' },
   offlineImport: { es: 'Sin conexión: la importación necesita internet.', ru: 'Нет интернета: для импорта нужна сеть.' },
   importError: { es: 'No se pudo analizar la captura', ru: 'Не удалось обработать скриншот' },
+  importUnavailable: { es: 'esta versión de la app no tiene servidor de importación (solo funciona desplegada en Vercel)', ru: 'в этой версии приложения нет сервера импорта (работает только при развёртывании на Vercel)' },
   noneFound: { es: 'No se encontró ninguna pregunta en la captura.', ru: 'На скриншоте не найдено вопросов.' },
   duplicateOf: { es: 'Posible duplicado de', ru: 'Возможный дубликат' },
   saveSelected: { es: 'Guardar seleccionadas', ru: 'Сохранить выбранные' },
