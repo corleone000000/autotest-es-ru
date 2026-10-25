@@ -12,6 +12,7 @@ import { MyQuestionsPage } from './pages/MyQuestions'
 import { ExamPage } from './pages/Exam'
 import { FavoritesPractice, ReviewPractice, TopicPractice, TopicsPage } from './pages/Practices'
 import { SettingsPage } from './pages/Settings'
+import { StatsPage } from './pages/Stats'
 
 function MinePractice() {
   const { list } = useMyQuestions()
@@ -43,6 +44,8 @@ function Routes() {
       return a === 'mias' ? <MinePractice /> : <Home />
     case 'ajustes':
       return <SettingsPage />
+    case 'estadisticas':
+      return <StatsPage />
     default:
       return <Home />
   }

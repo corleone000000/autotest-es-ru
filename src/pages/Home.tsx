@@ -5,6 +5,7 @@ import { dbDel, dbGet } from '../lib/db'
 import { useAllQuestions, useProgress } from '../lib/progress'
 import { examDeadline, formatClock, type ExamState } from '../lib/exam'
 import { useMyQuestions } from '../lib/myQuestions'
+import { ReadinessCard } from '../components/ReadinessCard'
 
 function ModeCard({ title, desc, badge, onClick, primary }: { title: string; desc: string; badge?: ReactNode; onClick: () => void; primary?: boolean }) {
   return (
@@ -80,6 +81,7 @@ export function Home() {
       </header>
 
       <ContinueExam />
+      <ReadinessCard compact />
 
       <ModeCard primary title={t('modeSimulado')} desc={t('modeSimuladoDesc')} onClick={() => navigate('/examen/simulado')} />
       <ModeCard title={t('modeTema')} desc={t('modeTemaDesc')} onClick={() => navigate('/temas')} />
