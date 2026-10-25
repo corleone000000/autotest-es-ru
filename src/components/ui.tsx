@@ -59,11 +59,11 @@ export function SecondaryButton({ className = '', ...props }: ButtonHTMLAttribut
 }
 
 /** Cabecera de página normal (no de pregunta). */
-export function PageHeader({ title, back = '/' }: { title: string; back?: string }) {
+export function PageHeader({ title, back = '/', onBack }: { title: string; back?: string; onBack?: () => void }) {
   const t = useT()
   return (
     <header className="sticky top-0 z-20 -mx-4 mb-4 flex items-center gap-2 bg-slate-50/95 px-2 py-2 backdrop-blur dark:bg-slate-950/95">
-      <button type="button" onClick={() => navigate(back)} aria-label={t('back')} className="flex h-11 w-11 items-center justify-center rounded-full text-2xl active:bg-slate-200 dark:active:bg-slate-800">
+      <button type="button" onClick={onBack ?? (() => navigate(back))} aria-label={t('back')} className="flex h-11 w-11 items-center justify-center rounded-full text-2xl active:bg-slate-200 dark:active:bg-slate-800">
         ‹
       </button>
       <h1 className="text-xl font-bold">{title}</h1>

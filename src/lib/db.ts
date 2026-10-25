@@ -1,12 +1,15 @@
-import { createStore, get, set, update, del } from 'idb-keyval'
+import { createStore, get, getMany, set, update, del, delMany, keys } from 'idb-keyval'
 
 // Todo el progreso vive en IndexedDB (un único almacén clave-valor).
 const store = createStore('autotest-es-ru', 'kv')
 
 export const dbGet = <T>(key: string) => get<T>(key, store)
+export const dbGetMany = <T>(ks: string[]) => getMany<T>(ks, store)
 export const dbSet = <T>(key: string, value: T) => set(key, value, store)
 export const dbUpdate = <T>(key: string, fn: (old: T | undefined) => T) => update<T>(key, fn, store)
 export const dbDel = (key: string) => del(key, store)
+export const dbDelMany = (ks: string[]) => delMany(ks, store)
+export const dbKeys = async () => (await keys(store)).map(String)
 
 /** Pide al navegador que no borre los datos (importante en iOS). */
 export async function requestPersistence() {

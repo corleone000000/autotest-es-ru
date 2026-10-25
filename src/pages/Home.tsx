@@ -20,6 +20,12 @@ export function Home() {
           {BANK.length} {t('questionsCount')}
         </span>
       </button>
+      <button type="button" onClick={() => navigate('/importar')} className="w-full rounded-2xl bg-white p-5 text-left ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-800">
+        <span className="block text-lg font-semibold">📷 {t('importTitle')}</span>
+      </button>
+      <button type="button" onClick={() => navigate('/mis-preguntas')} className="w-full rounded-2xl bg-white p-5 text-left ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-800">
+        <span className="block text-lg font-semibold">{t('modeMias')}</span>
+      </button>
     </main>
   )
 }

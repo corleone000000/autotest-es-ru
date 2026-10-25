@@ -19,7 +19,8 @@
     "@anthropic-ai/sdk": "^0.137.0",
     "idb-keyval": "^6.2.2",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.18",
