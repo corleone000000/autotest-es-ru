@@ -58,6 +58,7 @@ const STRINGS = {
   answered: { es: 'respondidas', ru: 'отвечено' },
   finishConfirm: { es: '¿Terminar el examen y corregir?', ru: 'Завершить экзамен и проверить?' },
   unanswered: { es: 'sin responder', ru: 'без ответа' },
+  notAnswered: { es: 'Sin responder', ru: 'Нет ответа' },
   timeUp: { es: 'Se acabó el tiempo', ru: 'Время вышло' },
   passed: { es: 'APTO', ru: 'СДАНО' },
   failed: { es: 'NO APTO', ru: 'НЕ СДАНО' },

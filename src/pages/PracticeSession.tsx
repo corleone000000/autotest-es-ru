@@ -5,6 +5,7 @@ import { useT } from '../lib/i18n'
 import { navigate } from '../lib/router'
 import { QuestionView } from '../components/QuestionView'
 import { BottomBar, Card, PrimaryButton, RuButton, SecondaryButton } from '../components/ui'
+import { FavoriteButton } from '../components/FavoriteButton'
 
 interface Props {
   questions: AnyQuestion[]
@@ -99,7 +100,7 @@ export function PracticeSession({ questions, mode, onAnswer, onRestart }: Props)
 
   return (
     <div className="mx-auto max-w-xl px-4 pb-32">
-      <SessionHeader index={index} total={questions.length} />
+      <SessionHeader index={index} total={questions.length} right={<FavoriteButton id={q.id} />} />
       <QuestionView q={q} showRu={showRu} glossary selected={selected} reveal={selected !== null} onSelect={answer} onGlossary={markGlossary} />
       <BottomBar>
         <RuButton active={showRu} onClick={toggleRu} />

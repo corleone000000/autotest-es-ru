@@ -83,7 +83,7 @@ function OptionButton({ letter, text, showRu, state, onClick }: { letter: Option
 function Explanation({ q, selected, showRu }: { q: AnyQuestion; selected: OptionKey | null; showRu: boolean }) {
   const t = useT()
   const ok = selected === q.correct
-  const verdict = ok ? `✓ ${t('correctMsg')}` : `✗ ${selected ? t('wrongMsg') : t('unanswered')}. ${t('correctAnswerIs')} ${q.correct.toUpperCase()}.`
+  const verdict = ok ? `✓ ${t('correctMsg')}` : `✗ ${selected ? t('wrongMsg') : t('notAnswered')}. ${t('correctAnswerIs')} ${q.correct.toUpperCase()}.`
   return (
     <section className={`rounded-2xl p-4 ${ok ? 'bg-emerald-50 dark:bg-emerald-950/50' : 'bg-rose-50 dark:bg-rose-950/50'}`}>
       <p className={`font-bold ${ok ? 'text-emerald-800 dark:text-emerald-300' : 'text-rose-800 dark:text-rose-300'}`}>{verdict}</p>
