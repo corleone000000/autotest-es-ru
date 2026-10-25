@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Vista aérea de una carretera de dos carriles con arcenes; la letra A señala la franja exterior derecha">
+  <rect width="400" height="240" fill="#8bc34a"/>
+  <rect x="56" width="288" height="240" fill="#5f6368"/>
+  <!-- líneas de borde de calzada -->
+  <rect x="92" width="5" height="240" fill="#fff"/>
+  <rect x="303" width="5" height="240" fill="#fff"/>
+  <!-- línea central discontinua -->
+  <g fill="#fff">
+    <rect x="198" y="0" width="4" height="26"/>
+    <rect x="198" y="52" width="4" height="26"/>
+    <rect x="198" y="104" width="4" height="26"/>
+    <rect x="198" y="156" width="4" height="26"/>
+    <rect x="198" y="208" width="4" height="26"/>
+  </g>
+  <!-- turismo en el carril derecho -->
+  <g transform="translate(232 120)">
+    <rect x="0" y="0" width="40" height="72" rx="9" fill="#1d4ed8"/>
+    <rect x="5" y="12" width="30" height="14" rx="3" fill="#bfdbfe"/>
+    <rect x="5" y="50" width="30" height="10" rx="3" fill="#bfdbfe"/>
+  </g>
+  <!-- turismo en sentido contrario -->
+  <g transform="translate(128 28)">
+    <rect x="0" y="0" width="40" height="72" rx="9" fill="#dc2626"/>
+    <rect x="5" y="46" width="30" height="14" rx="3" fill="#fecaca"/>
+    <rect x="5" y="12" width="30" height="10" rx="3" fill="#fecaca"/>
+  </g>
+  <!-- etiqueta A -->
+  <path d="M362 70 L330 104" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+  <path d="M326 108 l2 -14 l10 9 z" fill="#111"/>
+  <circle cx="370" cy="56" r="20" fill="#facc15" stroke="#111" stroke-width="3"/>
+  <text x="370" y="64" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111">A</text>
+</svg>

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "B-DEF-0001",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 54 y 55",
+    "question": { "es": "Según la Ley de Tráfico, ¿qué es la calzada?", "ru": "Что такое проезжая часть (calzada) согласно Закону о дорожном движении?" },
+    "options": {
+      "a": { "es": "La parte de la carretera dedicada a la circulación de vehículos, compuesta por un cierto número de carriles.", "ru": "Часть дороги, предназначенная для движения транспортных средств и состоящая из нескольких полос движения." },
+      "b": { "es": "La franja longitudinal contigua a la carretera reservada a peatones y ciclos.", "ru": "Продольная полоса рядом с дорогой, предназначенная для пешеходов и велосипедистов." },
+      "c": { "es": "El conjunto formado por los carriles y los arcenes.", "ru": "Совокупность полос движения и обочин." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La calzada es la parte de la carretera dedicada a la circulación de vehículos y se compone de carriles. El conjunto de la calzada y los arcenes recibe otro nombre: plataforma.", "ru": "Проезжая часть (calzada) — часть дороги для движения транспортных средств; она состоит из полос движения. Проезжая часть вместе с обочинами называется по-другому — «plataforma» (дорожное полотно)." }
+  },
+  {
+    "id": "B-DEF-0002",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 61",
+    "image": "/images/situaciones/via-arcen.svg",
+    "question": { "es": "¿Cómo se denomina la zona de la vía señalada con la letra A?", "ru": "Как называется часть дороги, обозначенная буквой A?" },
+    "options": {
+      "a": { "es": "Carril.", "ru": "Полоса движения." },
+      "b": { "es": "Arcén.", "ru": "Обочина." },
+      "c": { "es": "Acera.", "ru": "Тротуар." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Es el arcén: la franja longitudinal afirmada contigua a la calzada, separada de ella por la línea de borde, que no está destinada a la circulación de automóviles salvo en circunstancias excepcionales.", "ru": "Это обочина (arcén): укреплённая продольная полоса рядом с проезжей частью, отделённая от неё краевой линией. Автомобили могут ехать по ней только в исключительных случаях." }
+  },
+  {
+    "id": "B-DEF-0003",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 15 y 16",
+    "question": { "es": "¿Cuántas plazas puede tener como máximo un turismo, además del asiento del conductor?", "ru": "Сколько мест максимум может быть у легкового автомобиля (turismo), не считая места водителя?" },
+    "options": {
+      "a": { "es": "Seis.", "ru": "Шесть." },
+      "b": { "es": "Nueve.", "ru": "Девять." },
+      "c": { "es": "Ocho.", "ru": "Восемь." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Un turismo es un automóvil destinado al transporte de personas, con al menos cuatro ruedas y, además del asiento del conductor, ocho plazas como máximo. Con más de nueve plazas, incluida la del conductor, sería un autobús.", "ru": "Легковой автомобиль (turismo) — автомобиль для перевозки людей, у которого не менее четырёх колёс и не более восьми мест, не считая водителя. Если мест больше девяти, включая водительское, это автобус." }
+  },
+  {
+    "id": "B-DEF-0004",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 4",
+    "question": { "es": "Una persona que camina por la vía empujando una bicicleta, ¿qué consideración tiene?", "ru": "Кем считается человек, который идёт по дороге и ведёт рядом велосипед?" },
+    "options": {
+      "a": { "es": "Peatón.", "ru": "Пешеходом." },
+      "b": { "es": "Conductor, porque lleva un vehículo.", "ru": "Водителем, потому что у него есть транспортное средство." },
+      "c": { "es": "Ciclista, aunque no vaya montado.", "ru": "Велосипедистом, хотя он не едет на велосипеде." }
+    },
+    "correct": "a",
+    "explanation": { "es": "La ley considera peatones, entre otros, a quienes conducen a pie un ciclo o un ciclomotor de dos ruedas, y a quienes empujan o arrastran un coche de niño o un vehículo sin motor de pequeñas dimensiones.", "ru": "Закон считает пешеходами, в частности, тех, кто ведёт рядом с собой велосипед или двухколёсный мопед, а также тех, кто толкает или везёт детскую коляску или небольшое ТС без двигателя." }
+  },
+  {
+    "id": "B-DEF-0005",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 80, 81 y 82",
+    "question": { "es": "¿Qué es una parada?", "ru": "Что такое остановка (parada)?" },
+    "options": {
+      "a": { "es": "La inmovilización de un vehículo por necesidades de la circulación, como un atasco.", "ru": "Неподвижность ТС по условиям движения, например в пробке." },
+      "b": { "es": "La inmovilización de un vehículo durante menos de dos minutos, sin que el conductor pueda abandonarlo.", "ru": "Неподвижность ТС менее двух минут, при которой водитель не может его покинуть." },
+      "c": { "es": "La inmovilización de un vehículo durante menos de cinco minutos, aunque el conductor se aleje de él.", "ru": "Неподвижность ТС менее пяти минут, даже если водитель от него отходит." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La parada dura menos de dos minutos y el conductor no puede abandonar el vehículo. Si la inmovilización se debe a necesidades de la circulación es una detención, y cualquier otra inmovilización es estacionamiento.", "ru": "Остановка (parada) длится менее двух минут, и водитель не может покинуть ТС. Если ТС стоит по условиям движения, это «detención» (вынужденная остановка), а любая другая неподвижность — стоянка (estacionamiento)." }
+  },
+  {
+    "id": "B-DEF-0006",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 80",
+    "question": { "es": "Un turismo se detiene ante un semáforo en rojo. ¿En qué situación se encuentra?", "ru": "Легковой автомобиль остановился на красный сигнал светофора. Как называется такая ситуация?" },
+    "options": {
+      "a": { "es": "Parada.", "ru": "Остановка (parada)." },
+      "b": { "es": "Estacionamiento.", "ru": "Стоянка (estacionamiento)." },
+      "c": { "es": "Detención.", "ru": "Вынужденная остановка (detención)." }
+    },
+    "correct": "c",
+    "explanation": { "es": "Detenerse para cumplir una norma o por necesidades de la circulación —un semáforo en rojo, una señal de STOP, un atasco— es una detención, no una parada ni un estacionamiento.", "ru": "Остановка для выполнения правил или по условиям движения — красный сигнал светофора, знак «STOP», пробка — это «detención», а не «parada» и не стоянка." }
+  },
+  {
+    "id": "B-DEF-0007",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 66 y 67",
+    "question": { "es": "¿En qué se diferencia una autovía de una autopista?", "ru": "Чем autovía отличается от автомагистрали (autopista)?" },
+    "options": {
+      "a": { "es": "En la autovía las propiedades colindantes tienen el acceso limitado; en la autopista no tienen acceso.", "ru": "На autovía доступ с прилегающих участков ограничен, а на автомагистраль его нет совсем." },
+      "b": { "es": "La autovía puede tener cruces a nivel con otras vías; la autopista no.", "ru": "На autovía могут быть пересечения с другими дорогами в одном уровне, а на автомагистрали — нет." },
+      "c": { "es": "La autovía tiene una sola calzada para ambos sentidos; la autopista tiene calzadas separadas.", "ru": "У autovía одна проезжая часть для обоих направлений, а у автомагистрали — раздельные." }
+    },
+    "correct": "a",
+    "explanation": { "es": "Ambas tienen calzadas separadas para cada sentido y ninguna cruza a nivel otras vías. La diferencia está en los accesos: en la autopista las propiedades colindantes no tienen acceso y en la autovía lo tienen limitado.", "ru": "У обеих дорог раздельные проезжие части для каждого направления, и ни одна не пересекает другие дороги в одном уровне. Разница — в доступе: на автомагистраль с прилегающих участков въехать нельзя, а на autovía такой доступ ограничен." }
+  },
+  {
+    "id": "B-DEF-0008",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 68",
+    "question": { "es": "Una vía para automóviles se caracteriza por...", "ru": "Дорога для автомобилей (vía para automóviles) характеризуется тем, что..." },
+    "options": {
+      "a": { "es": "tener calzadas separadas para cada sentido de circulación.", "ru": "...у неё раздельные проезжие части для каждого направления." },
+      "b": { "es": "tener una sola calzada, estar reservada a automóviles y tener limitación total de accesos a las propiedades colindantes.", "ru": "...у неё одна проезжая часть, она предназначена только для автомобилей, и доступ с прилегающих участков полностью ограничен." },
+      "c": { "es": "tener una sola calzada abierta a todo tipo de vehículos, incluidos los ciclos.", "ru": "...у неё одна проезжая часть, открытая для всех ТС, включая велосипеды." }
+    },
+    "correct": "b",
+    "explanation": { "es": "La vía para automóviles tiene una sola calzada, está reservada exclusivamente a automóviles y tiene limitación total de accesos a las propiedades colindantes. Se señaliza con las señales S-3 (comienzo) y S-4 (fin).", "ru": "Дорога для автомобилей имеет одну проезжую часть, предназначена исключительно для автомобилей, и доступ к ней с прилегающих участков полностью ограничен. Обозначается знаками S-3 (начало) и S-4 (конец)." }
+  },
+  {
+    "id": "B-DEF-0009",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 71 y 73",
+    "question": { "es": "¿Qué es una travesía?", "ru": "Что такое travesía?" },
+    "options": {
+      "a": { "es": "Cualquier calle situada dentro de un poblado.", "ru": "Любая улица внутри населённого пункта." },
+      "b": { "es": "Una carretera que une dos poblados sin atravesarlos.", "ru": "Автодорога, которая соединяет два населённых пункта, не проходя через них." },
+      "c": { "es": "Un tramo de carretera que discurre por poblado.", "ru": "Участок автодороги, проходящий через населённый пункт." }
+    },
+    "correct": "c",
+    "explanation": { "es": "La travesía es el tramo de carretera que discurre por poblado. No se considera travesía si ese tramo tiene una variante o alternativa a la que se puede acceder. Las calles del poblado que no son travesía son vías urbanas.", "ru": "Travesía — участок автодороги, проходящий через населённый пункт. Он не считается travesía, если есть доступный объезд. Улицы населённого пункта, которые не являются travesía, — это городские дороги (vías urbanas)." }
+  },
+  {
+    "id": "B-DEF-0010",
+    "topic": "definiciones",
+    "source": "generada",
+    "ref": "LSV anexo I, 12 y 13",
+    "question": { "es": "¿Cuál de estos vehículos NO tiene la consideración de vehículo de motor?", "ru": "Какое из этих ТС НЕ считается механическим транспортным средством (vehículo de motor)?" },
+    "options": {
+      "a": { "es": "Una motocicleta.", "ru": "Мотоцикл." },
+      "b": { "es": "Un ciclomotor.", "ru": "Мопед." },
+      "c": { "es": "Un tractor agrícola.", "ru": "Сельскохозяйственный трактор." }
+    },
+    "correct": "b",
+    "explanation": { "es": "Vehículo de motor es el que tiene motor para su propulsión, pero la ley excluye expresamente de esta definición a los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida. Un tractor agrícola sí es vehículo de motor, aunque no sea un automóvil.", "ru": "Механическое ТС — это ТС с двигателем, но закон прямо исключает из этого понятия мопеды, трамваи и ТС для людей с ограниченной подвижностью. Сельхозтрактор является механическим ТС, хотя и не считается автомобилем." }
+  }
+]
